@@ -16,3 +16,4 @@ dependencies:
   args: ^2.3.1
   path: ^1.8.0
   serve: ^3.0.1
+  yaml: ^3.1.1

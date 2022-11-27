@@ -1,62 +1,30 @@
 import '../dbml/lib/dbml.dart';
+import 'romForDevice.dart';
 
 class PhoneTable extends HtmlWidget {
   PhoneTable({
-    this.val1,
-    this.val2
+    required this.listOfRoms
   });
 
-  final String? val1;
-  final String? val2;
+  List<RomForDevice> listOfRoms = [];
 
   String toHTML() {
-    return Table(
-      widgets: [
-        TableRow(
-          widgets: [
-            TableData(
-              widgets: [
-                Paragraph(
-                  text: val1
-                )
-              ]
-            ),
-            TableData(
-              widgets: [
-                Paragraph(
-                  widget_class: "text-right",
-                  text: val2
-                )
-              ]
-            )
-          ]
-        ),
-        TableRow(
-          widgets: [
-            TableData(
-              widgets: [
-                Paragraph(
-                  text: "OK"
-                )
-              ]
-            ),
-            TableData(
-              widgets: [
-                Paragraph(
-                  widget_class: "text-right",
-                  text: "OK2"
-                )
-              ]
-            )
-          ]
-        ),
+    List<RomInfoRow> listInTable = [];
+
+    for (var rom in listOfRoms) {
+      listInTable += [
         RomInfoRow(
-          romName: "AwakenOS",
-          romSupport: true,
-          romState: "Official",
-          androidVersion: "13",
-          romNotes: "")
-      ]
+          romName: rom.romName,
+          romSupport: rom.romSupport,
+          romState: rom.romState,
+          androidVersion: rom.androidVersion,
+          romNotes: rom.romNotes
+        )
+      ];
+    }
+
+    return Table(
+      widgets: listInTable
     ).toHTML();
   }
 }
