@@ -1,0 +1,8 @@
+device-name: heart
+device-vendor: Lenovo
+device-model-name: Z5 Pro GT
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

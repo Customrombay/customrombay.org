@@ -1,0 +1,8 @@
+device-name: oneplus2
+device-vendor: OnePlus
+device-model-name: 2
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 10

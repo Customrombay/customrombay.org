@@ -1,0 +1,8 @@
+device-name: bardock
+device-vendor: BQ
+device-model-name: Aquaris X
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

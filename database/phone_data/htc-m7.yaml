@@ -1,0 +1,8 @@
+device-name: m7
+device-vendor: HTC
+device-model-name: One (GSM)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

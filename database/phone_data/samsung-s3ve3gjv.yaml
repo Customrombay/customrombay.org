@@ -1,0 +1,8 @@
+device-name: s3ve3gjv
+device-vendor: Samsung
+device-model-name: Galaxy S III Neo (Samsung Camera)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

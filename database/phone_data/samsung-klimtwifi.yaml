@@ -1,0 +1,8 @@
+device-name: klimtwifi
+device-vendor: Samsung
+device-model-name: Galaxy Tab S 8.4 Wi-Fi
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

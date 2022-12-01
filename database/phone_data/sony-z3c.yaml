@@ -1,0 +1,8 @@
+device-name: z3c
+device-vendor: Sony
+device-model-name: Xperia Z3 Compact
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

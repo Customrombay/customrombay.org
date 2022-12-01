@@ -1,0 +1,8 @@
+device-name: X00TD
+device-vendor: ASUS
+device-model-name: Zenfone Max Pro M1
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

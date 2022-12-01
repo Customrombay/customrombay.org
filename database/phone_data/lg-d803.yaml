@@ -1,0 +1,8 @@
+device-name: d803
+device-vendor: LG
+device-model-name: G2 (Canadian)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

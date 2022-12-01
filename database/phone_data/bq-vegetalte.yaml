@@ -1,0 +1,8 @@
+device-name: vegetalte
+device-vendor: BQ
+device-model-name: Aquaris E5 4G / Aquaris E5s
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

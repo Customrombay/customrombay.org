@@ -1,0 +1,8 @@
+device-name: tomato
+device-vendor: YU
+device-model-name: Yureka / Yureka Plus
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

@@ -1,0 +1,8 @@
+device-name: kltechn
+device-vendor: Samsung
+device-model-name: Galaxy S5 LTE (G9006V/8V)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

@@ -1,0 +1,8 @@
+device-name: r5
+device-vendor: OPPO
+device-model-name: R5/R5s (International)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 9

@@ -1,0 +1,8 @@
+device-name: chagallwifi
+device-vendor: Samsung
+device-model-name: Galaxy Tab S 10.5 Wi-Fi
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

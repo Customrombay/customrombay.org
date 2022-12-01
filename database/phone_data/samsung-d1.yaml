@@ -1,0 +1,8 @@
+device-name: d1
+device-vendor: Samsung
+device-model-name: Galaxy Note10
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

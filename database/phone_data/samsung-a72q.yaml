@@ -1,0 +1,8 @@
+device-name: a72q
+device-vendor: Samsung
+device-model-name: Galaxy A72
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

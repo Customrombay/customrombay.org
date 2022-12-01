@@ -1,0 +1,8 @@
+device-name: lettuce
+device-vendor: YU
+device-model-name: Yuphoria
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 9

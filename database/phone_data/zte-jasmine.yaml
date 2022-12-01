@@ -1,0 +1,8 @@
+device-name: jasmine
+device-vendor: ZTE
+device-model-name: AT&T Trek 2 HD
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

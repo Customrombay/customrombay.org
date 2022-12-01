@@ -1,0 +1,8 @@
+device-name: crosshatch
+device-vendor: Google
+device-model-name: Pixel 3 XL
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

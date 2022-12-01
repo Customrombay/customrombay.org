@@ -1,0 +1,8 @@
+device-name: chagalllte
+device-vendor: Samsung
+device-model-name: Galaxy Tab S 10.5 LTE
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

@@ -1,0 +1,8 @@
+device-name: a5xelte
+device-vendor: Samsung
+device-model-name: Galaxy A5 (2016)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 10

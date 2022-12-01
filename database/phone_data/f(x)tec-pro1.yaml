@@ -1,0 +1,8 @@
+device-name: pro1
+device-vendor: F(x)tec
+device-model-name: Pro¹
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

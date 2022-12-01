@@ -1,0 +1,8 @@
+device-name: a7y17lte
+device-vendor: Samsung
+device-model-name: Galaxy A7 (2017)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

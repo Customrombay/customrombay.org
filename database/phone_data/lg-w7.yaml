@@ -1,0 +1,8 @@
+device-name: w7
+device-vendor: LG
+device-model-name: L90
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

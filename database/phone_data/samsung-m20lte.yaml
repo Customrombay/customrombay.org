@@ -1,0 +1,8 @@
+device-name: m20lte
+device-vendor: Samsung
+device-model-name: Galaxy M20
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

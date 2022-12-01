@@ -1,0 +1,8 @@
+device-name: hotdogb
+device-vendor: OnePlus
+device-model-name: 7T
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

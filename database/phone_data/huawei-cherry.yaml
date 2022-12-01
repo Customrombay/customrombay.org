@@ -1,0 +1,8 @@
+device-name: cherry
+device-vendor: Huawei
+device-model-name: Honor 4 / 4X
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 8.1

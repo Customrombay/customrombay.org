@@ -1,0 +1,8 @@
+device-name: violet
+device-vendor: Xiaomi
+device-model-name: Redmi Note 7 Pro
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 9

@@ -1,0 +1,8 @@
+device-name: wade
+device-vendor: Dynalink
+device-model-name: TV Box (4K)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

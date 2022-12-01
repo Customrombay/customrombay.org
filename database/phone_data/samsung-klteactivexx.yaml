@@ -1,0 +1,8 @@
+device-name: klteactivexx
+device-vendor: Samsung
+device-model-name: Galaxy S5 Active (G870F)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

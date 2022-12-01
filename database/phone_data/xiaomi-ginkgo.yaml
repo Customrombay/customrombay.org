@@ -1,0 +1,8 @@
+device-name: ginkgo
+device-vendor: Xiaomi
+device-model-name: Redmi Note 8 / 8T
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

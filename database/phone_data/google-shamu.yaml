@@ -1,0 +1,8 @@
+device-name: shamu
+device-vendor: Google
+device-model-name: Nexus 6
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

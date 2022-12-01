@@ -1,0 +1,8 @@
+device-name: m7vzw
+device-vendor: HTC
+device-model-name: One (Verizon)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

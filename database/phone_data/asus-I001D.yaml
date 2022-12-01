@@ -1,0 +1,8 @@
+device-name: I001D
+device-vendor: ASUS
+device-model-name: ROG Phone 2 (ZS660KL)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 10

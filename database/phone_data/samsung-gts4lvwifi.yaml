@@ -1,0 +1,8 @@
+device-name: gts4lvwifi
+device-vendor: Samsung
+device-model-name: Galaxy Tab S5e (Wi-Fi)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

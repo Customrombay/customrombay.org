@@ -1,0 +1,8 @@
+device-name: I01WD
+device-vendor: ASUS
+device-model-name: Zenfone 6 (ZS630KL)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 10

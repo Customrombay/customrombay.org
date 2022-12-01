@@ -1,0 +1,8 @@
+device-name: klteaio
+device-vendor: Samsung
+device-model-name: Galaxy S5 LTE (G900AZ/S902L)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

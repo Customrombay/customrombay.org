@@ -1,0 +1,8 @@
+device-name: Z00T
+device-vendor: ASUS
+device-model-name: Zenfone 2 Laser / Selfie (1080p)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 8.1

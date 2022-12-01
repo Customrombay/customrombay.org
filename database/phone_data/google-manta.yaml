@@ -1,0 +1,8 @@
+device-name: manta
+device-vendor: Google
+device-model-name: Nexus 10
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 6

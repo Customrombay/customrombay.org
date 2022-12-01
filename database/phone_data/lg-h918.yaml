@@ -1,0 +1,8 @@
+device-name: h918
+device-vendor: LG
+device-model-name: V20 (T-Mobile)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

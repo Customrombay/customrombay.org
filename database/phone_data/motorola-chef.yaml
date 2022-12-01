@@ -1,0 +1,8 @@
+device-name: chef
+device-vendor: Motorola
+device-model-name: one power
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

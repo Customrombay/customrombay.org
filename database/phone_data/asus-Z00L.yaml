@@ -1,0 +1,8 @@
+device-name: Z00L
+device-vendor: ASUS
+device-model-name: Zenfone 2 Laser (720p)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 8.1

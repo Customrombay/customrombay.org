@@ -1,0 +1,8 @@
+device-name: kirin
+device-vendor: Sony
+device-model-name: Xperia 10
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

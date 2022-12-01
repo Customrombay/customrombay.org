@@ -1,0 +1,8 @@
+device-name: xmsirius
+device-vendor: Xiaomi
+device-model-name: Mi 8 SE
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

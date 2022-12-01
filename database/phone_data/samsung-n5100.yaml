@@ -1,0 +1,8 @@
+device-name: n5100
+device-vendor: Samsung
+device-model-name: Galaxy Note 8.0 (GSM)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

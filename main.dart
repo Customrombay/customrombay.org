@@ -255,8 +255,8 @@ Future<List<Device>> listOfDevices() async {
       Device(
         deviceName: ydoc["device-name"],
         deviceVendor: ydoc["device-vendor"],
-        deviceModelName: ydoc["device-model-name"],
-        deviceDescription: ydoc["device-description"],
+        deviceModelName: ydoc["device-model-name"].toString(),
+        deviceDescription: ydoc["device-description"] ?? "",
         listOfRoms: listOfRoms
       )
     ];
@@ -275,7 +275,7 @@ Future<List<Div>> deviceShows() async {
         widget_class: "p-2",
         widgets: [
           Hyperlink(
-            href: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
+            href: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/",
             widgets: [
               Div(
                 widget_class: "grid place-content-center",

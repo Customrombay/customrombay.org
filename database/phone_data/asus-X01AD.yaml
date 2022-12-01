@@ -1,0 +1,8 @@
+device-name: X01AD
+device-vendor: ASUS
+device-model-name: Zenfone Max M2
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

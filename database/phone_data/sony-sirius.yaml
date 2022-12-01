@@ -1,0 +1,8 @@
+device-name: sirius
+device-vendor: Sony
+device-model-name: Xperia Z2
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

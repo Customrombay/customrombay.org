@@ -1,0 +1,8 @@
+device-name: f400
+device-vendor: LG
+device-model-name: G3 (Korea)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

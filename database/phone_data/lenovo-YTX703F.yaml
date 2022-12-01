@@ -1,0 +1,8 @@
+device-name: YTX703F
+device-vendor: Lenovo
+device-model-name: Yoga Tab 3 Plus Wi-Fi
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

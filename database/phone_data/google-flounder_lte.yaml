@@ -1,0 +1,8 @@
+device-name: flounder_lte
+device-vendor: Google
+device-model-name: Nexus 9 (LTE)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

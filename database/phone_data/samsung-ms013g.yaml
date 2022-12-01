@@ -1,0 +1,8 @@
+device-name: ms013g
+device-vendor: Samsung
+device-model-name: Galaxy Grand 2 Duos
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 9

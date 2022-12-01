@@ -1,0 +1,8 @@
+device-name: clark
+device-vendor: Motorola
+device-model-name: moto x pure edition / style (2015)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

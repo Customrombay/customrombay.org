@@ -1,0 +1,8 @@
+device-name: pyxis
+device-vendor: Xiaomi
+device-model-name: Mi CC 9 / Mi 9 Lite
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

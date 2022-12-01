@@ -1,0 +1,8 @@
+device-name: taoshan
+device-vendor: Sony
+device-model-name: Xperia L
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

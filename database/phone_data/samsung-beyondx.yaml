@@ -1,0 +1,8 @@
+device-name: beyondx
+device-vendor: Samsung
+device-model-name: Galaxy S10 5G
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

@@ -1,0 +1,8 @@
+device-name: h830
+device-vendor: LG
+device-model-name: G5 (T-Mobile)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

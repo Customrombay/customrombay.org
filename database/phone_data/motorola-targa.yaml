@@ -1,0 +1,8 @@
+device-name: targa
+device-vendor: Motorola
+device-model-name: DROID BIONIC
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

@@ -1,0 +1,8 @@
+device-name: akatsuki
+device-vendor: Sony
+device-model-name: Xperia XZ3
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

@@ -1,0 +1,8 @@
+device-name: nicki
+device-vendor: Sony
+device-model-name: Xperia M
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

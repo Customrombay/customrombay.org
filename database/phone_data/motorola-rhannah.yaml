@@ -1,0 +1,8 @@
+device-name: rhannah
+device-vendor: Motorola
+device-model-name: moto e5 plus (XT1924-1/2/4/5)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

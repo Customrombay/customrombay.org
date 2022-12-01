@@ -1,0 +1,8 @@
+device-name: hayabusa
+device-vendor: Sony
+device-model-name: Xperia TX
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 8.1

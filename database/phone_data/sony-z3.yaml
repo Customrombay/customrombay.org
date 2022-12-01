@@ -1,0 +1,8 @@
+device-name: z3
+device-vendor: Sony
+device-model-name: Xperia Z3
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

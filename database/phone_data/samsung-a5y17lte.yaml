@@ -1,0 +1,8 @@
+device-name: a5y17lte
+device-vendor: Samsung
+device-model-name: Galaxy A5 (2017)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

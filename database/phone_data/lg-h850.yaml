@@ -1,0 +1,8 @@
+device-name: h850
+device-vendor: LG
+device-model-name: G5 (International)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

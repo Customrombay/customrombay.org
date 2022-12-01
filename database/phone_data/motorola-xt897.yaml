@@ -1,0 +1,8 @@
+device-name: xt897
+device-vendor: Motorola
+device-model-name: PHOTON Q 4G LTE
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

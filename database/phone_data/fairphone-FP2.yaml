@@ -1,0 +1,8 @@
+device-name: FP2
+device-vendor: Fairphone
+device-model-name: 2
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

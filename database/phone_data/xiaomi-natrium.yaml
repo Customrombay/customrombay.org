@@ -1,0 +1,8 @@
+device-name: natrium
+device-vendor: Xiaomi
+device-model-name: Mi 5s Plus
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

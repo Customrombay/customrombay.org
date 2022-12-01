@@ -1,0 +1,8 @@
+device-name: paella
+device-vendor: BQ
+device-model-name: Aquaris X5
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

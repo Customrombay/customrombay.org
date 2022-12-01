@@ -1,0 +1,8 @@
+device-name: Z008
+device-vendor: ASUS
+device-model-name: Zenfone 2 (720p)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

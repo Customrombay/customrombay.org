@@ -1,0 +1,8 @@
+device-name: xz2c
+device-vendor: Sony
+device-model-name: Xperia XZ2 Compact
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

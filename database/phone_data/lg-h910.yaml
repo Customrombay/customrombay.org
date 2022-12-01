@@ -1,0 +1,8 @@
+device-name: h910
+device-vendor: LG
+device-model-name: V20 (AT&T)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

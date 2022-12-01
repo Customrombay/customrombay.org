@@ -1,0 +1,8 @@
+device-name: zippo
+device-vendor: Lenovo
+device-model-name: Z6 Pro
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

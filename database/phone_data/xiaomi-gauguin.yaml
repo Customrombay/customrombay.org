@@ -1,0 +1,8 @@
+device-name: gauguin
+device-vendor: Xiaomi
+device-model-name: Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

@@ -1,0 +1,8 @@
+device-name: RMX1851
+device-vendor: Realme
+device-model-name: 3 Pro
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 9

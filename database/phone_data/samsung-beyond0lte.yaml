@@ -1,0 +1,8 @@
+device-name: beyond0lte
+device-vendor: Samsung
+device-model-name: Galaxy S10e
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

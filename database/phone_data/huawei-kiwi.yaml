@@ -1,0 +1,8 @@
+device-name: kiwi
+device-vendor: Huawei
+device-model-name: Honor 5X
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 10

@@ -1,0 +1,8 @@
+device-name: troika
+device-vendor: Motorola
+device-model-name: one action
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

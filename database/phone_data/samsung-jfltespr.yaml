@@ -1,0 +1,8 @@
+device-name: jfltespr
+device-vendor: Samsung
+device-model-name: Galaxy S4 (SCH-R970, SPH-L720)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

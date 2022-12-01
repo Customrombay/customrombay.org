@@ -1,0 +1,8 @@
+device-name: castor_windy
+device-vendor: Sony
+device-model-name: Xperia Tablet Z2 Wi-Fi
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

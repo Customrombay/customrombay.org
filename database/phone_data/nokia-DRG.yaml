@@ -1,0 +1,8 @@
+device-name: DRG
+device-vendor: Nokia
+device-model-name: 6.1 Plus
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

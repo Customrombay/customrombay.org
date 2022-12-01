@@ -1,0 +1,8 @@
+device-name: s5neolte
+device-vendor: Samsung
+device-model-name: Galaxy S5 Neo
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 10

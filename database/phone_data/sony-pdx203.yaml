@@ -1,0 +1,8 @@
+device-name: pdx203
+device-vendor: Sony
+device-model-name: Xperia 1 II
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

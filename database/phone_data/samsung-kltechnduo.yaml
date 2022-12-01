@@ -1,0 +1,8 @@
+device-name: kltechnduo
+device-vendor: Samsung
+device-model-name: Galaxy S5 LTE Duos (G9006W/8W)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

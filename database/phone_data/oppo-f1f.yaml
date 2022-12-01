@@ -1,0 +1,8 @@
+device-name: f1f
+device-vendor: OPPO
+device-model-name: F1 (International)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 9

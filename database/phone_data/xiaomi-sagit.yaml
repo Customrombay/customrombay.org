@@ -1,0 +1,8 @@
+device-name: sagit
+device-vendor: Xiaomi
+device-model-name: Mi 6
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

@@ -1,0 +1,8 @@
+device-name: gta4xlwifi
+device-vendor: Samsung
+device-model-name: Galaxy Tab S6 Lite (Wi-Fi)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

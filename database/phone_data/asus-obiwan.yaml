@@ -1,0 +1,8 @@
+device-name: obiwan
+device-vendor: ASUS
+device-model-name: ROG Phone 3
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

@@ -1,0 +1,8 @@
+device-name: kltekor
+device-vendor: Samsung
+device-model-name: Galaxy S5 LTE (G900K/L/S)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

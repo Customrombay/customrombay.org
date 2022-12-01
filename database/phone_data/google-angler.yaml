@@ -1,0 +1,8 @@
+device-name: angler
+device-vendor: Google
+device-model-name: Nexus 6P
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 8.1

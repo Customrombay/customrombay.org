@@ -1,0 +1,8 @@
+device-name: davinci
+device-vendor: Xiaomi
+device-model-name: Redmi K20 / Mi 9T
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 10

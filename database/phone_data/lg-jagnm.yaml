@@ -1,0 +1,8 @@
+device-name: jagnm
+device-vendor: LG
+device-model-name: G3 Beat
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

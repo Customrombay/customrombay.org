@@ -1,0 +1,8 @@
+device-name: jag3gds
+device-vendor: LG
+device-model-name: G3 S
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 7.1

@@ -1,0 +1,8 @@
+device-name: Z01R
+device-vendor: ASUS
+device-model-name: Zenfone 5Z (ZS620KL)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

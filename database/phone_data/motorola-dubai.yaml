@@ -1,0 +1,8 @@
+device-name: dubai
+device-vendor: Motorola
+device-model-name: edge 30
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

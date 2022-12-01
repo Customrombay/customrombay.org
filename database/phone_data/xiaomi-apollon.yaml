@@ -1,0 +1,8 @@
+device-name: apollon
+device-vendor: Xiaomi
+device-model-name: Mi 10T / Mi 10T Pro / Redmi K30S Ultra
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

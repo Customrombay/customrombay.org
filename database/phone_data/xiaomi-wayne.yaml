@@ -1,0 +1,8 @@
+device-name: wayne
+device-vendor: Xiaomi
+device-model-name: Mi 6X
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

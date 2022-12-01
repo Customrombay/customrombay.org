@@ -1,0 +1,8 @@
+device-name: porg
+device-vendor: NVIDIA
+device-model-name: Jetson (Nano / Nano 2GB) [Android TV]
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

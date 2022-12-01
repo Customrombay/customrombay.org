@@ -1,0 +1,8 @@
+device-name: vs985
+device-vendor: LG
+device-model-name: G3 (Verizon)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

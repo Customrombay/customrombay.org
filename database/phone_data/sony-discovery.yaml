@@ -1,0 +1,8 @@
+device-name: discovery
+device-vendor: Sony
+device-model-name: Xperia XA2 Ultra
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

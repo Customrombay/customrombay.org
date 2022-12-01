@@ -1,0 +1,8 @@
+device-name: enchilada
+device-vendor: OnePlus
+device-model-name: 6
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

@@ -1,0 +1,8 @@
+device-name: lemonade
+device-vendor: OnePlus
+device-model-name: 9
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L

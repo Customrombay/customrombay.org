@@ -1,0 +1,8 @@
+device-name: espresso3g
+device-vendor: Samsung
+device-model-name: Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 6

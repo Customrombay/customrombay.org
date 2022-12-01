@@ -1,0 +1,8 @@
+device-name: X00P
+device-vendor: ASUS
+device-model-name: Zenfone Max M1
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11

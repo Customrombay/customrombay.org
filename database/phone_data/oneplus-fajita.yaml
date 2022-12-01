@@ -1,0 +1,8 @@
+device-name: fajita
+device-vendor: OnePlus
+device-model-name: 6T
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L
