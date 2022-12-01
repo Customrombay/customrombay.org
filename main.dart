@@ -151,6 +151,10 @@ void main() async {
                         listOfRoms: []
                       )
                     ]
+                  ),
+                  Div(
+                    widget_class: "container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8",
+                    widgets: await deviceShows()
                   )
                 ]
               ),
@@ -260,3 +264,60 @@ Future<List<Device>> listOfDevices() async {
 
   return listOfDevices;
 }
+
+Future<List<Div>> deviceShows() async {
+  Future<List<Device>> devicesList = listOfDevices();
+  List<Div> listOfShows = [];
+
+  for (var device in await listOfDevices()) {
+    listOfShows += [
+      Div(
+        widget_class: "p-2",
+        widgets: [
+          Hyperlink(
+            href: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
+            widgets: [
+              Div(
+                widget_class: "grid place-content-center",
+                widgets: [
+                  Img(
+                    src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}"),
+                    widget_class: "rounded-lg shadow-sm h-52 object-cover"
+                  )
+                ]
+              ),
+              Div(
+                widget_class: "my-2 text-xl font-semibold text-center",
+                widgets: [
+                  Paragraph(
+                    text: device.deviceModelName
+                  )
+                ]
+              )
+            ]
+          )
+        ]
+      )
+    ];
+  }
+
+  return listOfShows;
+}
+
+Future<String> getDeviceImagePath(String devicePath) async {
+  if (await File("static/$devicePath.png").exists()) {
+    return "/$devicePath.png";
+  }
+  else if (await File("static/$devicePath.jpg").exists()) {
+    return "/$devicePath.jpg";
+  }
+  else if (await File("static/$devicePath.jpeg").exists()) {
+    return "/$devicePath.jpeg";
+  }
+  else if (await File("static/$devicePath.webp").exists()) {
+    return "/$devicePath.webp";
+  }
+  else {
+    return "/phone.png";
+  }
+} 
