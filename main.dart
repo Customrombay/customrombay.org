@@ -207,8 +207,7 @@ void main() async {
             ]
           )
         ),
-        await renderPoco()
-      ]
+      ] + await renderPoco()
     )
   );
 }
@@ -610,30 +609,64 @@ var myWebsite = Website(
   ]
 );
 
-Future<HtmlDoc> renderPoco() async {
-  String deviceFile = await File("database/phone_data/xiaomi-beryllium.yaml").readAsString();
-  var ydoc = loadYaml(deviceFile);
-  List<RomForDevice> listOfRoms = [];
-  for (var rom in ydoc["roms"]) {
-    //print(rom.runtimeType);
-    listOfRoms += [
-      RomForDevice(
-        romName: rom["rom-name"],
-        romSupport: rom["rom-support"],
-        romState: rom["rom-state"],
-        androidVersion: rom["android-version"].toString(),
-        romNotes: rom["rom-notes"] ?? ""
+Future<List<HtmlDoc>> renderPoco() async {
+  String deviceDirName = "database/phone_data";
+  final deviceDir = Directory(deviceDirName);
+  List<HtmlDoc> listOfHtmlDoc = [];
+
+  for (var deviceFile in await deviceDir.list().toList()) {
+    String deviceFileContent = await File(deviceFile.path).readAsString();
+    var ydoc = loadYaml(deviceFileContent);
+    List<RomForDevice> listOfRoms = [];
+    for (var rom in ydoc["roms"]) {
+      //print(rom.runtimeType);
+      listOfRoms += [
+        RomForDevice(
+          romName: rom["rom-name"],
+          romSupport: rom["rom-support"],
+          romState: rom["rom-state"],
+          androidVersion: rom["android-version"].toString(),
+          romNotes: rom["rom-notes"] ?? ""
+        )
+      ];
+    }
+
+    listOfHtmlDoc += [DevicePage(
+      device: Device(
+        deviceName: ydoc["device-name"],
+        deviceVendor: ydoc["device-vendor"],
+        deviceModelName: ydoc["device-model-name"],
+        deviceDescription: ydoc["device-description"],
+        listOfRoms: listOfRoms
       )
-    ];
+    ).toHtmlDoc()];
   }
 
-  return DevicePage(
-    device: Device(
-      deviceName: ydoc["device-name"],
-      deviceVendor: ydoc["device-vendor"],
-      deviceModelName: ydoc["device-model-name"],
-      deviceDescription: ydoc["device-description"],
-      listOfRoms: listOfRoms
-    )
-  ).toHtmlDoc();
+  return listOfHtmlDoc;
+  
+  // String deviceFile = await File("database/phone_data/xiaomi-beryllium.yaml").readAsString();
+  // var ydoc = loadYaml(deviceFile);
+  // List<RomForDevice> listOfRoms = [];
+  // for (var rom in ydoc["roms"]) {
+  //   //print(rom.runtimeType);
+  //   listOfRoms += [
+  //     RomForDevice(
+  //       romName: rom["rom-name"],
+  //       romSupport: rom["rom-support"],
+  //       romState: rom["rom-state"],
+  //       androidVersion: rom["android-version"].toString(),
+  //       romNotes: rom["rom-notes"] ?? ""
+  //     )
+  //   ];
+  // }
+
+  // return DevicePage(
+  //   device: Device(
+  //     deviceName: ydoc["device-name"],
+  //     deviceVendor: ydoc["device-vendor"],
+  //     deviceModelName: ydoc["device-model-name"],
+  //     deviceDescription: ydoc["device-description"],
+  //     listOfRoms: listOfRoms
+  //   )
+  // ).toHtmlDoc();
 }

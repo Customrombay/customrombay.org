@@ -17,7 +17,7 @@ class DevicePage {
 
   HtmlDoc toHtmlDoc() {
     return HtmlDoc(
-      path: "${device.deviceVendor.toLowerCase()}-${device.deviceName}.html",
+      path: "${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
       head: Head(
         title: "CustomRomBay.org - ${device.deviceName}",
         widgets: [
