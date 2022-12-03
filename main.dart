@@ -296,7 +296,7 @@ Future<List<Div>> deviceShows() async {
     listOfThisDevices.sort((a, b) => a.deviceModelName.toLowerCase().compareTo(b.deviceModelName.toLowerCase()));
     listOfShows += [
       Div(
-        widget_class: "col-span-3 text-3xl",
+        widget_class: "col-span-1 md:col-span-2 lg:col-span-3 text-3xl font-semibold",
         widgets: [
           Paragraph(
             text: vendor.vendorName
@@ -325,7 +325,10 @@ Future<List<Div>> deviceShows() async {
                   widget_class: "my-2 text-xl font-semibold text-center",
                   widgets: [
                     Paragraph(
-                      text: device.deviceModelName
+                      text: "${device.deviceModelName}"
+                    ),
+                    Paragraph(
+                      text: "(${device.deviceName})"
                     )
                   ]
                 )
