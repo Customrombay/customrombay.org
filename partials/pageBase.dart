@@ -21,7 +21,7 @@ class PageBase {
             charset: "UTF-8"
           ),
           Meta(
-            name: "viewpoint",
+            name: "viewport",
             content: "width=device-width, initial-scale=1"
           ),
           Link(
