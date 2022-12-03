@@ -50,6 +50,7 @@ class RomInfoRow extends HtmlWidget {
         TableData(
           widgets: [
             Paragraph(
+              widget_class: "text-xl",
               text: romName
             )
           ]
@@ -57,7 +58,7 @@ class RomInfoRow extends HtmlWidget {
         TableData(
           widgets: [
             Paragraph(
-              widget_class: "text-right",
+              widget_class: "text-right text-xl",
               text: romDataGen(
                 romSupport,
                 romState,
