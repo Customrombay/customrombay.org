@@ -6,6 +6,7 @@ import 'partials/deviceVendor.dart';
 import 'partials/pageBase.dart';
 import 'partials/aboutPage.dart';
 import 'partials/contributingPage.dart';
+import 'utils/getDeviceImagePath.dart';
 import 'package:yaml/yaml.dart';
 import 'dart:io';
 
@@ -54,7 +55,7 @@ Future<List<HtmlDoc>> renderPoco() async {
   Future<List<Device>> devicesList = listOfDevices();
   for (var device in await devicesList) {
     listOfHtmlDoc += [
-      DevicePage(
+      await DevicePage(
         device: device
       ).toHtmlDoc()
     ];
@@ -175,21 +176,3 @@ Future<List<Div>> deviceShows() async {
 
   return listOfShows;
 }
-
-Future<String> getDeviceImagePath(String devicePath) async {
-  if (await File("static/$devicePath.png").exists()) {
-    return "/$devicePath.png";
-  }
-  else if (await File("static/$devicePath.jpg").exists()) {
-    return "/$devicePath.jpg";
-  }
-  else if (await File("static/$devicePath.jpeg").exists()) {
-    return "/$devicePath.jpeg";
-  }
-  else if (await File("static/$devicePath.webp").exists()) {
-    return "/$devicePath.webp";
-  }
-  else {
-    return "/phone.png";
-  }
-} 

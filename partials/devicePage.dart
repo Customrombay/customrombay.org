@@ -2,6 +2,7 @@ import '../dbml/lib/dbml.dart';
 import 'device.dart';
 import 'phoneTable.dart';
 import 'pageBase.dart';
+import '../utils/getDeviceImagePath.dart';
 
 class DevicePage {
   DevicePage ({
@@ -16,7 +17,7 @@ class DevicePage {
     listOfRoms: []
   );
 
-  HtmlDoc toHtmlDoc() {
+  Future<HtmlDoc> toHtmlDoc() async {
     return PageBase(
       path: "${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
       title: "CustomRomBay.org - ${device.deviceName}",
@@ -39,7 +40,15 @@ class DevicePage {
             ),
             PhoneTable(
               listOfRoms: device.listOfRoms
-            )
+            ),
+            Div(
+              widget_class: "grid place-content-center",
+              widgets: [
+                Img(
+                  src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}")
+                )
+              ]
+            ),
           ]
         )
       ]
