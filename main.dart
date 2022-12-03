@@ -14,7 +14,7 @@ void main() async {
         HtmlDoc(
           path: "index.html",
           head: Head(
-            title: "Piotr Lange personal webpage",
+            title: "Customrombay.org",
             widgets: [
               Meta(
                 charset: "UTF-8"
@@ -26,6 +26,10 @@ void main() async {
               Link(
                 rel: "stylesheet",
                 href: "style/tailwind.css",
+              ),
+              Link(
+                rel: "icon",
+                href: "/logo.png"
               )
             ]
           ),
@@ -40,8 +44,8 @@ void main() async {
                     widget_class: "capitalize font-extrabold text-2xl",
                     widgets: [
                       Img(
-                        src: "https://alterventure.pl/logo-right-dark.webp",
-                        alt: "Alterventure",
+                        src: "/banner.png",
+                        alt: "Customrombay.org",
                         widget_class: "h-8 max-w-full"
                       )
                     ]
@@ -133,23 +137,21 @@ void main() async {
                 widget_class: "flex-1",
                 widgets: [
                   Article(
-                    widget_class: "prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4",
+                    widget_class: "mx-auto p-6 text-center",
                     widgets:[
                       Heading(
                         level: 1,
-                        widget_class: "text-2xl font-bold mb-2",
-                        text: "Poco F1"
+                        widget_class: "text-3xl font-bold lg:text-5xl mx-5 text-center",
+                        text: "Welcome to Customrombay.org!"
                       ),
-                      Style(
-                        css: """img {
-          margin-bottom: 0.7em!important;
-        }""",
-                      ),
+        //               Style(
+        //                 css: """img {
+        //   margin-bottom: 0.7em!important;
+        // }""",
+        //               ),
                       Paragraph(
-                        text: "Something about the phone"
-                      ),
-                      PhoneTable(
-                        listOfRoms: []
+                        widget_class: "text-xl lg:text-2xl mt-8 mx-5 text-center",
+                        text: "A place to find all custom ROMs available for your device."
                       )
                     ]
                   ),
@@ -164,7 +166,11 @@ void main() async {
                 widgets: [
                   Span(
                     widget_class: "text-sm font-light",
-                    text: "Copyright © 2022 - 3LAB · All rights reserved"
+                    text: """Copyright © 2022 - ${Hyperlink(href: "https://github.com/PiotrZPL", text:"Piotr Lange").toHTML()} - All rights reserved"""
+                  ),
+                  Span(
+                    widget_class: "text-sm font-light",
+                    text: """Generated on ${DateTime.now().day.toString().length == 2 ? DateTime.now().day : "0" + DateTime.now().day.toString()}.${DateTime.now().month}.${DateTime.now().year} using ${Hyperlink(href: "https://github.com/PiotrZPL/dbml", text:"DBML").toHTML()}"""
                   )
                 ]
               ),
