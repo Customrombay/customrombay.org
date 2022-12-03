@@ -66,32 +66,16 @@ class PageBase {
                   ListItem(
                     widgets: [
                       Hyperlink(
-                        href: "/2ndpage.html",
-                        text: "Posts"
+                        href: "/contributing",
+                        text: "Contributing"
                       )
                     ]
                   ),
                   ListItem(
                     widgets: [
                       Hyperlink(
-                        href: "/en/page/about",
+                        href: "/about",
                         text: "About"
-                      )
-                    ]
-                  ),
-                  ListItem(
-                    widgets: [
-                      Hyperlink(
-                        href: "/en/page/about",
-                        text: "Registration"
-                      )
-                    ]
-                  ),
-                  ListItem(
-                    widgets: [
-                      Hyperlink(
-                        href: "/en/page/about",
-                        text: "Contact"
                       )
                     ]
                   ),

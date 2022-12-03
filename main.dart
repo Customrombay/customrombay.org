@@ -1,10 +1,11 @@
 import 'dbml/lib/dbml.dart';
-import 'partials/phoneTable.dart';
 import 'partials/devicePage.dart';
 import 'partials/device.dart';
 import 'partials/romForDevice.dart';
 import 'partials/deviceVendor.dart';
 import 'partials/pageBase.dart';
+import 'partials/aboutPage.dart';
+import 'partials/contributingPage.dart';
 import 'package:yaml/yaml.dart';
 import 'dart:io';
 
@@ -41,6 +42,8 @@ void main() async {
             )
           ]
         ).toHtmlDoc(),
+        AboutPage().toHtmlDoc(),
+        ContributingPage().toHtmlDoc()
       ] + await renderPoco()
     )
   );
