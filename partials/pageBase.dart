@@ -152,7 +152,7 @@ class PageBase {
             ]
           ),
           Script(
-            src: "https://alterventure.pl/js/scripts.min.js"
+            src: "/scripts.min.js"
           ),
           Script(
             script: """const darkmode = document.querySelector('.toggle-dark-mode');
