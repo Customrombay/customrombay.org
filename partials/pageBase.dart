@@ -41,7 +41,7 @@ class PageBase {
             widget_class: "container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative",
             widgets: [
               Hyperlink(
-                href: "#",
+                href: "/",
                 widget_class: "capitalize font-extrabold text-2xl",
                 widgets: [
                   Img(
