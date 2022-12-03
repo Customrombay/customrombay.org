@@ -45,7 +45,7 @@ class DevicePage {
               widget_class: "grid place-content-center",
               widgets: [
                 Img(
-                  src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}")
+                  src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "big")
                 )
               ]
             ),

@@ -150,7 +150,7 @@ Future<List<Div>> deviceShows() async {
                   widget_class: "grid place-content-center",
                   widgets: [
                     Img(
-                      src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}"),
+                      src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "small"),
                       widget_class: "rounded-lg shadow-sm h-52 object-cover"
                     )
                   ]
