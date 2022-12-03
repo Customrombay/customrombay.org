@@ -123,13 +123,13 @@ class PageBase {
             widgets: listOfWidgets
           ),
           Footer(
-            widget_class: "container p-6 mx-auto flex justify-between items-center",
+            widget_class: "container p-6 mx-auto md:flex justify-between items-center",
             widgets: [
-              Span(
+              Paragraph(
                 widget_class: "text-sm font-light",
                 text: """Copyright © 2022 - ${Hyperlink(href: "https://github.com/PiotrZPL", text:"Piotr Lange").toHTML()} - All rights reserved"""
               ),
-              Span(
+              Paragraph(
                 widget_class: "text-sm font-light",
                 text: """Generated on ${DateTime.now().day.toString().length == 2 ? DateTime.now().day : "0" + DateTime.now().day.toString()}.${DateTime.now().month}.${DateTime.now().year} using ${Hyperlink(href: "https://github.com/PiotrZPL/dbml", text:"DBML").toHTML()}"""
               )
