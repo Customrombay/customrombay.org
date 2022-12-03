@@ -3,6 +3,7 @@ import 'partials/phoneTable.dart';
 import 'partials/devicePage.dart';
 import 'partials/device.dart';
 import 'partials/romForDevice.dart';
+import 'partials/deviceVendor.dart';
 import 'package:yaml/yaml.dart';
 import 'dart:io';
 
@@ -268,37 +269,72 @@ Future<List<Device>> listOfDevices() async {
 Future<List<Div>> deviceShows() async {
   Future<List<Device>> devicesList = listOfDevices();
   List<Div> listOfShows = [];
+  List<DeviceVendor> listOfDeviceVendors = [];
 
-  for (var device in await listOfDevices()) {
+  for (var device in await devicesList) {
+    var isVendor = false;
+    for (var vendor in listOfDeviceVendors) {
+      if (device.deviceVendor == vendor.vendorName) {
+        isVendor = true;
+        vendor.listOfDevices += [device];
+      }
+    }
+    if (!isVendor) {
+      listOfDeviceVendors += [
+        DeviceVendor(
+          vendorName: device.deviceVendor,
+          listOfDevices: [device]
+        )
+      ];
+    }
+  }
+
+  listOfDeviceVendors.sort((a, b) => a.vendorName.toLowerCase().compareTo(b.vendorName.toLowerCase()));
+
+  for (var vendor in listOfDeviceVendors) {
+    var listOfThisDevices = vendor.listOfDevices;
+    listOfThisDevices.sort((a, b) => a.deviceModelName.toLowerCase().compareTo(b.deviceModelName.toLowerCase()));
     listOfShows += [
       Div(
-        widget_class: "p-2",
+        widget_class: "col-span-3 text-3xl",
         widgets: [
-          Hyperlink(
-            href: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/",
-            widgets: [
-              Div(
-                widget_class: "grid place-content-center",
-                widgets: [
-                  Img(
-                    src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}"),
-                    widget_class: "rounded-lg shadow-sm h-52 object-cover"
-                  )
-                ]
-              ),
-              Div(
-                widget_class: "my-2 text-xl font-semibold text-center",
-                widgets: [
-                  Paragraph(
-                    text: device.deviceModelName
-                  )
-                ]
-              )
-            ]
+          Paragraph(
+            text: vendor.vendorName
           )
         ]
       )
     ];
+    for (var device in listOfThisDevices) {
+      listOfShows += [
+        Div(
+          widget_class: "p-2",
+          widgets: [
+            Hyperlink(
+              href: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/",
+              widgets: [
+                Div(
+                  widget_class: "grid place-content-center",
+                  widgets: [
+                    Img(
+                      src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}"),
+                      widget_class: "rounded-lg shadow-sm h-52 object-cover"
+                    )
+                  ]
+                ),
+                Div(
+                  widget_class: "my-2 text-xl font-semibold text-center",
+                  widgets: [
+                    Paragraph(
+                      text: device.deviceModelName
+                    )
+                  ]
+                )
+              ]
+            )
+          ]
+        )
+      ];
+    }
   }
 
   return listOfShows;
