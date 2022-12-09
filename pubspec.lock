@@ -71,6 +71,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.2"
+  dbml:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "9ca8eb3f012f8446da3eb54264a57715df5473fc"
+      url: "https://github.com/piotrzpl/dbml"
+    source: git
+    version: "1.0.0"
   file:
     dependency: transitive
     description:

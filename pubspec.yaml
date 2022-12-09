@@ -1,6 +1,7 @@
-name: dbml
-description: A starting point for Dart libraries or applications.
+name: customrombay.org
+description: A place to find all custom ROMs available for your device.
 version: 1.0.0
+publish_to: none
 # homepage: https://www.example.com
 
 environment:
@@ -17,3 +18,7 @@ dependencies:
   path: ^1.8.0
   serve: ^3.0.1
   yaml: ^3.1.1
+  dbml:
+    git: 
+      url: https://github.com/piotrzpl/dbml
+

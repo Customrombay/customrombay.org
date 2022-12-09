@@ -1,5 +1,5 @@
-import '../dbml/lib/dbml.dart';
 import 'romForDevice.dart';
+import 'package:dbml/dbml.dart';
 
 class PhoneTable extends HtmlWidget {
   PhoneTable({

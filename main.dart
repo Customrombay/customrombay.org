@@ -1,4 +1,4 @@
-import 'dbml/lib/dbml.dart';
+import 'package:dbml/dbml.dart';
 import 'partials/devicePage.dart';
 import 'partials/device.dart';
 import 'partials/romForDevice.dart';

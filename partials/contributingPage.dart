@@ -1,4 +1,4 @@
-import '../dbml/lib/dbml.dart';
+import 'package:dbml/dbml.dart';
 import 'pageBase.dart';
 
 class ContributingPage {
