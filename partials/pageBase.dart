@@ -13,6 +13,7 @@ class PageBase {
 
   HtmlDoc toHtmlDoc() {
     return HtmlDoc(
+      lang: "en",
       path: path,
       head: Head(
         title: title,
