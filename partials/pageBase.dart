@@ -48,7 +48,7 @@ class PageBase {
                 widget_class: "capitalize font-extrabold text-2xl",
                 widgets: [
                   Img(
-                    src: "/banner.png",
+                    src: "/banner.webp",
                     alt: "Customrombay.org",
                     widget_class: "h-8 max-w-full"
                   )
