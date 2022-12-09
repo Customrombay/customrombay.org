@@ -6,7 +6,9 @@ class RomForDevice {
     required this.romSupport,
     required this.romState,
     required this.androidVersion,
-    required this.romNotes
+    required this.romNotes,
+    this.romWebpage,
+    this.phoneWebpage
   });
 
   String romName = "";
@@ -14,4 +16,6 @@ class RomForDevice {
   String romState = "";
   String androidVersion = "";
   String romNotes = "";
+  String? romWebpage;
+  String? phoneWebpage;
 }

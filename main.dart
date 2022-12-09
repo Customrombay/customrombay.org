@@ -81,7 +81,9 @@ Future<List<Device>> listOfDevices() async {
           romSupport: rom["rom-support"],
           romState: rom["rom-state"],
           androidVersion: rom["android-version"].toString(),
-          romNotes: rom["rom-notes"] ?? ""
+          romNotes: rom["rom-notes"] ?? "",
+          romWebpage: rom["rom-webpage"],
+          phoneWebpage: rom["phone-webpage"]
         )
       ];
     }

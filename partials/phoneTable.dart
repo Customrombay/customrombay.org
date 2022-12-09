@@ -18,7 +18,9 @@ class PhoneTable extends HtmlWidget {
           romSupport: rom.romSupport,
           romState: rom.romState,
           androidVersion: rom.androidVersion,
-          romNotes: rom.romNotes
+          romNotes: rom.romNotes,
+          romWebpage: rom.romWebpage,
+          phoneWebpage: rom.phoneWebpage
         )
       ];
     }
@@ -35,7 +37,9 @@ class RomInfoRow extends HtmlWidget {
     required this.romSupport,
     required this.romState,
     required this.androidVersion,
-    required this.romNotes
+    required this.romNotes,
+    this.romWebpage,
+    this.phoneWebpage
   });
 
   String romName = "";
@@ -43,28 +47,32 @@ class RomInfoRow extends HtmlWidget {
   String romState = ""; //eg "Unofficial", "Beta"
   String androidVersion = "";
   String romNotes = "";
+  String? romWebpage;
+  String? phoneWebpage;
 
   String toHTML() {
     return TableRow(
       widgets: [
         TableData(
           widgets: [
-            Paragraph(
-              widget_class: "text-xl",
-              text: romName
+            Hyperlink(
+              widget_class: "text-xl no-underline",
+              text: romName,
+              href: romWebpage
             )
           ]
         ),
         TableData(
           widgets: [
-            Paragraph(
-              widget_class: "text-right text-xl",
+            Hyperlink(
+              widget_class: "text-right text-xl no-underline",
               text: romDataGen(
                 romSupport,
                 romState,
                 androidVersion,
                 romNotes
-              )
+              ),
+              href: phoneWebpage
             )
           ]
         )
