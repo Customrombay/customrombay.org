@@ -125,6 +125,7 @@ Future<List<Div>> deviceShows() async {
 
   listOfDeviceVendors.sort((a, b) => a.vendorName.toLowerCase().compareTo(b.vendorName.toLowerCase()));
 
+  bool isFirst = true;
   for (var vendor in listOfDeviceVendors) {
     var listOfThisDevices = vendor.listOfDevices;
     listOfThisDevices.sort((a, b) => a.deviceModelName.toLowerCase().compareTo(b.deviceModelName.toLowerCase()));
@@ -152,7 +153,7 @@ Future<List<Div>> deviceShows() async {
                     Img(
                       src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "small"),
                       widget_class: "rounded-lg shadow-sm h-52 object-cover",
-                      loading: "lazy"
+                      loading: isFirst ? "" : "lazy"
                     )
                   ]
                 ),
@@ -172,6 +173,7 @@ Future<List<Div>> deviceShows() async {
           ]
         )
       ];
+      isFirst = false;
     }
   }
 
