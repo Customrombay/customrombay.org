@@ -17,6 +17,9 @@ class PageBase {
       head: Head(
         title: title,
         widgets: [
+          GoogleAnalytics(
+            tagid: "G-S2SPCWG41N"
+          ),
           Meta(
             charset: "UTF-8"
           ),
