@@ -153,7 +153,8 @@ Future<List<Div>> deviceShows() async {
                     Img(
                       src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "small"),
                       widget_class: "rounded-lg shadow-sm h-52 object-cover",
-                      loading: isFirst ? "" : "lazy"
+                      loading: isFirst ? "" : "lazy",
+                      alt: "${device.deviceVendor.toLowerCase()}-${device.deviceName}"
                     )
                   ]
                 ),
