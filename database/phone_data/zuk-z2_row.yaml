@@ -1,6 +1,6 @@
-device-name: z2_plus
+device-name: z2_row
 device-vendor: ZUK
-device-model-name: Z2 Plus
+device-model-name: Z2 Pro
 roms:
   - rom-name: LineageOS
     rom-support: true
