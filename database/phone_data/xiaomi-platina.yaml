@@ -4,5 +4,5 @@ device-model-name: Mi 8 Lite
 roms:
   - rom-name: LineageOS
     rom-support: true
-    rom-state: Official
+    rom-state: Discontinued
     android-version: 11

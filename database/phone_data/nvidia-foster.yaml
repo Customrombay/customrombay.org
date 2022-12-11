@@ -1,0 +1,8 @@
+device-name: foster
+device-vendor: NVIDIA
+device-model-name: Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Android TV]
+roms:
+  - rom-name: LineageOS
+    rom-support: true
+    rom-state: Official
+    android-version: 11
