@@ -34,7 +34,12 @@ void main() async {
                 Paragraph(
                   widget_class: "text-xl lg:text-2xl mt-8 mx-5 text-center",
                   text: "A place to find all custom ROMs available for your device."
-                )
+                ),
+                Heading(
+                  level: 2,
+                  widget_class: "text-xl font-bold lg:text-3xl mx-5 text-center",
+                  text: "We already support ${(await listOfDevices()).length} devices!"
+                ),
               ]
             ),
             Div(
