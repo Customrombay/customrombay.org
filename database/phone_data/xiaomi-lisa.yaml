@@ -1,0 +1,10 @@
+device-name: lisa
+device-vendor: Xiaomi
+device-model-name: Xiaomi 11 Lite NE
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Experiments
+    android-version: 13
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

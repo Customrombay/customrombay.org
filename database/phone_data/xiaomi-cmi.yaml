@@ -1,0 +1,10 @@
+device-name: cmi
+device-vendor: Xiaomi
+device-model-name: Mi 10 Pro
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Community
+    android-version: 11
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

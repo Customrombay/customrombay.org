@@ -1,0 +1,10 @@
+device-name: nabu
+device-vendor: Xiaomi
+device-model-name: Pad 5
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Official
+    android-version: 13
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

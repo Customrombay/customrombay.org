@@ -1,4 +1,4 @@
-device-name: twolip
+device-name: tulip
 device-vendor: Xiaomi
 device-model-name: Redmi Note 6 Pro
 roms:
@@ -8,3 +8,9 @@ roms:
     android-version: 11
     rom-webpage: https://lineageos.org/
     phone-webpage: https://wiki.lineageos.org/devices/twolip/
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 12L
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

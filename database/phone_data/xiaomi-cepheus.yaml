@@ -1,0 +1,10 @@
+device-name: cepheus
+device-vendor: Xiaomi
+device-model-name: Mi 9
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Community
+    android-version: 12L
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

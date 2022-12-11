@@ -71,6 +71,7 @@ Future<List<Device>> listOfDevices() async {
 
   for (var deviceFile in await deviceDir.list().toList()) {
     String deviceFileContent = await File(deviceFile.path).readAsString();
+    print(deviceFile.path);
     var ydoc = loadYaml(deviceFileContent);
     List<RomForDevice> listOfRoms = [];
     for (var rom in ydoc["roms"]) {

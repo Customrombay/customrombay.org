@@ -1,0 +1,10 @@
+device-name: daisy
+device-vendor: Xiaomi
+device-model-name: Mi A2 Lite
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

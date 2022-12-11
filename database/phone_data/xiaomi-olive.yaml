@@ -1,0 +1,10 @@
+device-name: olive
+device-vendor: Xiaomi
+device-model-name: Redmi 8
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Community experiments
+    android-version: 11
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/
