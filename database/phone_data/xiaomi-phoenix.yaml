@@ -1,0 +1,10 @@
+device-name: phoenix
+device-vendor: Xiaomi
+device-model-name: POCO X2
+roms:
+    - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Official
+    android-version: 12L
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/
