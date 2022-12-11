@@ -64,15 +64,17 @@ class RomInfoRow extends HtmlWidget {
         ),
         TableData(
           widgets: [
-            Hyperlink(
-              widget_class: "text-right text-xl no-underline",
-              text: romDataGen(
+            Paragraph(
+              widget_class: "text-right text-xl",
+              text: """${Hyperlink(
+                widget_class: "no-underline",
+                text: romDataGen(
                 romSupport,
                 romState,
                 androidVersion,
                 romNotes
               ),
-              href: phoneWebpage
+              href: phoneWebpage).toHTML()}""",
             )
           ]
         )

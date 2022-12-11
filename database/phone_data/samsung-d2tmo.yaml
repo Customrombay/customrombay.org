@@ -6,3 +6,5 @@ roms:
     rom-support: true
     rom-state: Discontinued
     android-version: 7.1
+    rom-webpage: https://lineageos.org/
+    phone-webpage: https://wiki.lineageos.org/devices/d2tmo/
