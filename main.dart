@@ -45,12 +45,12 @@ void main() async {
         ).toHtmlDoc(),
         AboutPage().toHtmlDoc(),
         ContributingPage().toHtmlDoc()
-      ] + await renderPoco()
+      ] + await renderDevicePages()
     )
   );
 }
 
-Future<List<HtmlDoc>> renderPoco() async {
+Future<List<HtmlDoc>> renderDevicePages() async {
   List<HtmlDoc> listOfHtmlDoc = [];
   Future<List<Device>> devicesList = listOfDevices();
   for (var device in await devicesList) {
