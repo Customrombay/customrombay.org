@@ -2,12 +2,6 @@ device-name: z2_row
 device-vendor: ZUK
 device-model-name: Z2 Pro
 roms:
-  - rom-name: LineageOS
-    rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/z2_plus/
   - rom-name: ArrowOS
     rom-support: true
     rom-state: Discontinued
