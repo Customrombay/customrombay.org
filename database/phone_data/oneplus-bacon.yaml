@@ -8,3 +8,9 @@ roms:
     android-version: 11
     rom-webpage: https://lineageos.org/
     phone-webpage: https://wiki.lineageos.org/devices/bacon/
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 9
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/
