@@ -1,0 +1,10 @@
+device-name: rimo02a
+device-vendor: Smartron
+device-model-name: SRT.phone
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Official
+    android-version: 9
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/
