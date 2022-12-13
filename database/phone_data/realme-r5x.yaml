@@ -1,0 +1,11 @@
+device-name: r5x
+device-vendor: Realme
+device-model-name: X5x
+device-description: Realme 5 Series
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 12L
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

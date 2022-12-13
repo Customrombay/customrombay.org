@@ -1,0 +1,10 @@
+device-name: RMX2020
+device-vendor: Realme
+device-model-name: C3
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Official
+    android-version: 13
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/

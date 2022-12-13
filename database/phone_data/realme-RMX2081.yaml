@@ -1,0 +1,10 @@
+device-name: RMX2081
+device-vendor: Realme
+device-model-name: X3
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 12L
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/
