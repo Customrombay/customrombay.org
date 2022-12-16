@@ -1,0 +1,10 @@
+device-name: potter
+device-vendor: Motorola
+device-model-name: moto g5 plus
+roms:
+  - rom-name: ArrowOS
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 11
+    rom-webpage: https://arrowos.net/
+    phone-webpage: https://arrowos.net/download/
