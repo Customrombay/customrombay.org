@@ -14,3 +14,15 @@ roms:
     android-version: 11
     rom-webpage: https://arrowos.net/
     phone-webpage: https://arrowos.net/download/
+  - rom-name: PixelExperience
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 12
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/dumpling/
+  - rom-name: PixelExperience Plus
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 12
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/dumpling/
