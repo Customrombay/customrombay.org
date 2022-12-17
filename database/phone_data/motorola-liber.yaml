@@ -1,0 +1,16 @@
+device-name: liber
+device-vendor: Motorola
+device-model-name: Moto One Fusion +
+roms:
+  - rom-name: PixelExperience
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 11
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/liber/
+  - rom-name: PixelExperience Plus
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 11
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/liber/

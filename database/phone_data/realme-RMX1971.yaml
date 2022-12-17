@@ -1,0 +1,16 @@
+device-name: RMX1971
+device-vendor: Realme
+device-model-name: 5 Pro
+roms:
+  - rom-name: PixelExperience
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 12
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/RMX1971/
+  - rom-name: PixelExperience Plus
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 12
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/RMX1971/

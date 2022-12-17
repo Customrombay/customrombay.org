@@ -1,0 +1,16 @@
+device-name: chime
+device-vendor: Xiaomi
+device-model-name: POCO M3/Redmi 9T/Redmi 9T NFC/Redmi 9 Power
+roms:
+  - rom-name: PixelExperience
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 13
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/chime/
+  - rom-name: PixelExperience Plus
+    rom-support: true
+    rom-state: Discontinued
+    android-version: 13
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/chime/

@@ -1,0 +1,16 @@
+device-name: andromeda
+device-vendor: Xiaomi
+device-model-name: Mi Mix 3 5G
+roms:
+  - rom-name: PixelExperience
+    rom-support: true
+    rom-state: Official
+    android-version: 13
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/andromeda/
+  - rom-name: PixelExperience Plus
+    rom-support: true
+    rom-state: Official
+    android-version: 13
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/andromeda/

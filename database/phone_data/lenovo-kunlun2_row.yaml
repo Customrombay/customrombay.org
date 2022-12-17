@@ -1,0 +1,16 @@
+device-name: kunlun2_row
+device-vendor: Lenovo
+device-model-name: K10 Note
+roms:
+  - rom-name: PixelExperience
+    rom-support: true
+    rom-state: Official
+    android-version: 13
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/kunlun2_row/
+  - rom-name: PixelExperience Plus
+    rom-support: true
+    rom-state: Official
+    android-version: 13
+    rom-webpage: https://download.pixelexperience.org/
+    phone-webpage: https://download.pixelexperience.org/kunlun2_row/
