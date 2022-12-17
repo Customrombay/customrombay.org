@@ -49,7 +49,7 @@ void main() async {
           ]
         ).toHtmlDoc(),
         AboutPage().toHtmlDoc(),
-        ContributingPage().toHtmlDoc()
+        ContributingPage(text: await getContributingDetails()).toHtmlDoc()
       ] + await renderDevicePages()
     )
   );
@@ -187,4 +187,10 @@ Future<List<Div>> deviceShows() async {
   }
 
   return listOfShows;
+}
+
+Future<String> getContributingDetails() async {
+  File contributingFile = File("CONTRIBUTING.md");
+  String content = await contributingFile.readAsString();
+  return content;
 }

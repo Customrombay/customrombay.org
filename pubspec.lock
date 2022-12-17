@@ -71,15 +71,22 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.2"
+  csslib:
+    dependency: transitive
+    description:
+      name: csslib
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.17.2"
   dbml:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "38bd0adf7ae2d7e59ea0815c18292e4e6f6ac5c5"
+      resolved-ref: a534956f0bfb5def33a92ee5048475b0000109c6
       url: "https://github.com/piotrzpl/dbml"
     source: git
-    version: "1.0.2"
+    version: "1.0.3"
   file:
     dependency: transitive
     description:
@@ -101,6 +108,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.1"
+  highlight:
+    dependency: transitive
+    description:
+      name: highlight
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.7.0"
+  html:
+    dependency: transitive
+    description:
+      name: html
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.15.1"
   http_multi_server:
     dependency: transitive
     description:
@@ -164,6 +185,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0"
+  markdown:
+    dependency: transitive
+    description:
+      name: markdown
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "6.0.1"
   matcher:
     dependency: transitive
     description:
