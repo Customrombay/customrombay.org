@@ -19,7 +19,7 @@ class DevicePage {
 
   Future<HtmlDoc> toHtmlDoc() async {
     return PageBase(
-      path: "${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
+      path: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
       title: "CustomRomBay.org - ${device.deviceName}",
       listOfWidgets: [
         Article(

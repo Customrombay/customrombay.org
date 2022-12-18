@@ -83,10 +83,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: a534956f0bfb5def33a92ee5048475b0000109c6
+      resolved-ref: b17c4c3bc153dd879fb1cc4d432067fddd8ba75a
       url: "https://github.com/piotrzpl/dbml"
     source: git
-    version: "1.0.3"
+    version: "1.0.5"
   file:
     dependency: transitive
     description:
