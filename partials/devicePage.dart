@@ -21,6 +21,7 @@ class DevicePage {
     return PageBase(
       path: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
       title: "CustomRomBay.org - ${device.deviceName}",
+      description: "${device.deviceVendor} ${device.deviceModelName}",
       listOfWidgets: [
         Article(
           widget_class: "prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4",

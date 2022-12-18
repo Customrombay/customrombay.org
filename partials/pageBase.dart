@@ -5,14 +5,17 @@ class PageBase {
     required this.path,
     required this.title,
     required this.listOfWidgets,
+    this.description
   });
 
   String path;
   String title;
+  String? description;
   List<HtmlWidget> listOfWidgets;
 
   HtmlDoc toHtmlDoc() {
     return HtmlDoc(
+      description: description,
       lang: "en",
       path: path,
       head: Head(
