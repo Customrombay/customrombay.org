@@ -139,6 +139,74 @@ class PageBase {
               )
             ]
           ),
+
+          Div(
+            widget_class: "search-ui absolute top-0 left-0 w-full h-full bg-white dark:bg-gray-800 hidden",
+            widgets: [
+              Div(
+                widget_class: "container max-w-3xl mx-auto p-12",
+                widgets: [
+                  Div(
+                    widget_class: "relative",
+                    widgets: [
+                      Div(
+                        widget_class: "my-4 text-center text-2xl font-bold",
+                        widgets: [
+                          Paragraph(
+                            text: "Search"
+                          )
+                        ]
+                      ),
+                      Span(
+                        widget_class: "p-2 absolute right-0 top-0 cursor-pointer close-search",
+                        text: """<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5"
+          stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <line x1="18" y1="6" x2="6" y2="18" />
+          <line x1="6" y1="6" x2="18" y2="18" />
+        </svg>"""
+                      )
+                    ]
+                  ),
+                  Input(
+                    type: "search",
+                    widget_class: "py-2 px-3 w-full dark:text-black border dark:border-transparent",
+                    placeholder: "Enter search query"
+                  ),
+                  Div(
+                    widget_class: "search-results text-lg font-medium my-4 hidden",
+                    widgets: [
+                      Paragraph(
+                        text: "Results"
+                      )
+                    ]
+                  ),
+                  UnorderedList(
+                    widget_class: "search-list my-2"
+                  ),
+                  Div(
+                    widget_class: "no-results text-center my-8 hidden",
+                    widgets: [
+                      Div(
+                        widget_class: "text-xl font-semibold mb-2",
+                        widgets: [
+                          Paragraph(
+                            text: "No results found"
+                          )
+                        ]
+                      ),
+                      Paragraph(
+                        widget_class: "font-light text-sm",
+                        text: "Try adjusting your search query"
+                      )
+                    ]
+                  )
+
+                ]
+              )
+            ]
+          ),
+
           Script(
             src: "/scripts.min.js"
           ),
@@ -182,5 +250,113 @@ class PageBase {
         ]
       )
     );
+  }
+}
+
+class Input extends HtmlWidget {
+  Input({
+    widget_class,
+    style,
+    id,
+    title,
+    this.widgets,
+    this.onClick,
+    this.text,
+    this.accept,
+    this.alt,
+    this.autocomplete,
+    this.autofocus,
+    this.checked,
+    this.dirname,
+    this.disabled,
+    this.form,
+    this.formaction,
+    this.formenctype,
+    this.formmethod,
+    this.formnovalidate,
+    this.formtarget,
+    this.height,
+    this.list,
+    this.max,
+    this.maxlength,
+    this.pattern,
+    this.placeholder,
+    this.readonly,
+    this.required,
+    this.size,
+    this.src,
+    this.step,
+    this.type,
+    this.value,
+    this.width,
+  }) : super(widget_class: widget_class, style: style, id: id, title: title);
+
+  final List<HtmlWidget?>? widgets;
+  final String? onClick;
+  final String? text;
+
+  final String? accept;
+  final String? alt;
+  final String? autocomplete;
+  final String? autofocus;
+  final String? checked;
+  final String? dirname;
+  final String? disabled;
+  final String? form;
+  final String? formaction;
+  final String? formenctype;
+  final String? formmethod;
+  final String? formnovalidate;
+  final String? formtarget;
+  final String? height;
+  final String? list;
+  final String? max;
+  final String? maxlength;
+  final String? pattern;
+  final String? placeholder;
+  final String? readonly;
+  final String? required;
+  final String? size;
+  final String? src;
+  final String? step;
+  final String? type;
+  final String? value;
+  final String? width;
+
+  String toHTML() {
+    var output = "<input ";
+    if (widget_class != null) {
+      output += """class="$widget_class" """;
+    }
+    if (style != null) {
+      output += """style="$style" """;
+    }
+    if (id != null) {
+      output += """id="$id" """;
+    }
+    if (title != null) {
+      output += """title="$title" """;
+    }
+    if (onClick != null) {
+      output += """onClick="$onClick" """;
+    }
+    if (type != null) {
+      output += """type="$type" """;
+    }
+    if (placeholder != null) {
+      output += """placeholder="$placeholder" """;
+    }
+    output = output.trim() + ">";
+    if (widgets != null) {
+      widgets!.forEach((element) {
+        if (element != null) {
+          output += "\n" + element.toHTML();
+        }
+      });
+    }
+    if (text != null) {
+      output = output.trim() + text!;
+    }
+    return output + "</input>";
   }
 }
