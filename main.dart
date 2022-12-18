@@ -48,7 +48,7 @@ void main() async {
             )
           ]
         ).toHtmlDoc(),
-        AboutPage().toHtmlDoc(),
+        AboutPage(text: await getAboutDetails()).toHtmlDoc(),
         ContributingPage(text: await getContributingDetails()).toHtmlDoc()
       ] + await renderDevicePages()
     )
@@ -192,5 +192,12 @@ Future<List<Div>> deviceShows() async {
 Future<String> getContributingDetails() async {
   File contributingFile = File("CONTRIBUTING.md");
   String content = await contributingFile.readAsString();
+  return content;
+}
+
+Future<String> getAboutDetails() async {
+  File aboutFile = File("README.md");
+  String content = await aboutFile.readAsString();
+  content = content.replaceAll("static/", "/");
   return content;
 }
