@@ -24,7 +24,7 @@ class DevicePage {
       description: "${device.deviceVendor} ${device.deviceModelName}",
       listOfWidgets: [
         Article(
-          widget_class: "prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4",
+          widget_class: "prose lg:prose-lg mx-auto mb-8 dark:prose-dark px-4",
           widgets:[
             Heading(
               level: 1,

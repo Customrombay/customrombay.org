@@ -72,18 +72,27 @@ class PageBase {
                 ]
               ),
               Button(
-                widget_class: "mobile-menu-button md:hidden",
-                text: """<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-        <line x1="4" y1="6" x2="20" y2="6" />
-        <line x1="4" y1="12" x2="20" y2="12" />
-        <line x1="4" y1="18" x2="20" y2="18" />
-      </svg>"""
+                widget_class: "block relative h-auto mobile-menu-button md:hidden",
+                widgets: [
+                  Div(
+                    id: "line",
+                    widget_class: "m-auto h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
+                  ),
+                  Div(
+                    id: "line2",
+                    widget_class: "m-auto mt-2 h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
+                  ),
+                  Div(
+                    id: "line3",
+                    widget_class: "m-auto mt-2 h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
+                  )
+                ]
               ),
               UnorderedList(
-                widget_class: "mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-center md:items-center gap-4 lg:gap-6 bg-gray-100 dark:bg-gray-800",
+                widget_class: "mobile-menu h-0 md:h-auto overflow-hidden px-6 md:pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative md:flex md:flex-row flex-col items-center md:items-center gap-6 md:gap-6 bg-gray-100 dark:bg-gray-800 transition-all ease-in duration-300",
                 widgets: [
                   ListItem(
+                    widget_class: "grid place-items-center my-2",
                     widgets: [
                       Hyperlink(
                         href: "/contributing",
@@ -92,6 +101,7 @@ class PageBase {
                     ]
                   ),
                   ListItem(
+                    widget_class: "grid place-items-center my-2",
                     widgets: [
                       Hyperlink(
                         href: "/about",
@@ -100,7 +110,7 @@ class PageBase {
                     ]
                   ),
                   ListItem(
-                    widget_class: "grid place-items-center",
+                    widget_class: "grid place-items-center my-2",
                     widgets: [
                       Span(
                         widget_class: "open-search inline-block cursor-pointer",
@@ -114,7 +124,7 @@ class PageBase {
                     ]
                   ),
                   ListItem(
-                    widget_class: "grid place-items-center",
+                    widget_class: "grid place-items-center my-2",
                     widgets: [
                       Span(
                         widget_class: "toggle-dark-mode inline-block cursor-pointer",
@@ -256,8 +266,22 @@ class PageBase {
             script: """const mobileMenuButton = document.querySelector('.mobile-menu-button')
     const mobileMenu = document.querySelector('.mobile-menu')
     function toggleMenu() {
-      mobileMenu.classList.toggle('hidden');
-      mobileMenu.classList.toggle('flex');
+      mobileMenuButton.querySelector('#line').classList.toggle('rotate-45')
+      mobileMenuButton.querySelector('#line').classList.toggle('translate-y-1.5')
+
+      mobileMenuButton.querySelector('#line3').classList.toggle('-rotate-45')
+      mobileMenuButton.querySelector('#line3').classList.toggle('-translate-y-1')
+
+      mobileMenuButton.querySelector('#line2').classList.toggle('hidden')
+      if (mobileMenu.clientHeight === 0) {
+        mobileMenu.style.paddingTop = '20px'
+        // navbar.style.paddingBottom = '20px'
+        mobileMenu.style.height = `\${parseInt(mobileMenu.scrollHeight + 30)}px`
+        return
+        // console.log("1")
+      }
+      mobileMenu.style.height = '0px'
+      mobileMenu.style.paddingTop = '0px'
     }
     if(mobileMenu && mobileMenuButton){
       mobileMenuButton.addEventListener('click', toggleMenu)
