@@ -237,32 +237,6 @@ class PageBase {
             src: "/scripts.min.js"
           ),
           Script(
-            script: """const darkmode = document.querySelector('.toggle-dark-mode');
-    function toggleDarkMode() {
-      if (document.documentElement.classList.contains('dark')) {
-        document.documentElement.classList.remove('dark')
-        localStorage.setItem('darkmode', 'light')
-      } else {
-        document.documentElement.classList.add('dark')
-        localStorage.setItem('darkmode', 'dark')
-      }
-    }
-    if (darkmode) {
-      darkmode.addEventListener('click', toggleDarkMode);
-    }
-
-    //darkStorage = localStorage.getItem('darkmode');
-    //isBrowserDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-    //if (!darkStorage && isBrowserDark) {
-    //  document.documentElement.classList.add('dark');
-    //}
-
-    //if (darkStorage && darkStorage === 'dark') {
-    //  toggleDarkMode();
-    //}"""
-          ),
-          Script(
             script: """const mobileMenuButton = document.querySelector('.mobile-menu-button')
     const mobileMenu = document.querySelector('.mobile-menu')
     function toggleMenu() {
@@ -286,7 +260,43 @@ class PageBase {
     if(mobileMenu && mobileMenuButton){
       mobileMenuButton.addEventListener('click', toggleMenu)
     }"""
-          )
+          ),
+          Script(
+            script: """const darkmode = document.querySelector('.toggle-dark-mode');
+    function toggleDarkMode() {
+      if (document.documentElement.classList.contains('dark')) {
+        mobileMenu.classList.toggle("duration-300")
+        mobileMenu.classList.toggle("transition-all")
+        document.documentElement.classList.remove('dark')
+        localStorage.setItem('darkmode', 'light')
+        // mobileMenu.classList.toggle("duration-300")
+        // mobileMenu.classList.toggle("transition-all")
+        setTimeout(() => {  mobileMenu.classList.toggle("duration-300"); mobileMenu.classList.toggle("transition-all"); }, 500);
+      } else {
+        mobileMenu.classList.toggle("duration-300")
+        mobileMenu.classList.toggle("transition-all")
+        document.documentElement.classList.add('dark')
+        localStorage.setItem('darkmode', 'dark')
+        // mobileMenu.classList.toggle("duration-300")
+        // mobileMenu.classList.toggle("transition-all")
+        setTimeout(() => {  mobileMenu.classList.toggle("duration-300"); mobileMenu.classList.toggle("transition-all"); }, 500);
+      }
+    }
+    if (darkmode) {
+      darkmode.addEventListener('click', toggleDarkMode);
+    }
+
+    //darkStorage = localStorage.getItem('darkmode');
+    //isBrowserDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    //if (!darkStorage && isBrowserDark) {
+    //  document.documentElement.classList.add('dark');
+    //}
+
+    //if (darkStorage && darkStorage === 'dark') {
+    //  toggleDarkMode();
+    //}"""
+          ),
         ]
       )
     );
