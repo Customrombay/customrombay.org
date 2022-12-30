@@ -43,6 +43,8 @@ class PageBase {
       ),
       body: Body(
         widget_class: "bg-gray-100 dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen",
+        // Fixes mobileMenu size
+        onresize: "onWindowResize();",
         widgets: [
           Script(
             script: """
@@ -295,8 +297,22 @@ class PageBase {
 
     //if (darkStorage && darkStorage === 'dark') {
     //  toggleDarkMode();
-    //}"""
+    //}
+    """
           ),
+          Script(
+            script: """function onWindowResize() {
+        mobileMenuButton.querySelector('#line').classList.remove('rotate-45')
+        mobileMenuButton.querySelector('#line').classList.remove('translate-y-1.5')
+
+        mobileMenuButton.querySelector('#line3').classList.remove('-rotate-45')
+        mobileMenuButton.querySelector('#line3').classList.remove('-translate-y-1')
+
+        mobileMenuButton.querySelector('#line2').classList.remove('hidden')
+        mobileMenu.style.height = "";
+        mobileMenu.style.paddingTop = "";
+      }"""
+          )
         ]
       )
     );
