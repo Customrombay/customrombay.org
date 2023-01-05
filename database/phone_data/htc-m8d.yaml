@@ -1,10 +1,13 @@
-device-name: m8d
-device-vendor: HTC
-device-model-name: One (M8) Dual SIM
-roms:
-  - rom-name: LineageOS
+device-name: 'm8d'
+device-vendor: 'HTC'
+device-model-name: 'One (M8) Dual SIM'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/m8d/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/m8d/'
+

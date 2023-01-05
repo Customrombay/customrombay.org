@@ -1,10 +1,13 @@
-device-name: j7elte
-device-vendor: Samsung
-device-model-name: Galaxy J7 (2015)
-roms:
-  - rom-name: LineageOS
+device-name: 'j7elte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy J7 (2015)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/j7elte/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/j7elte/'
+

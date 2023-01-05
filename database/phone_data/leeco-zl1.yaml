@@ -1,10 +1,13 @@
-device-name: zl1
-device-vendor: LeEco
-device-model-name: Le Pro3 / Le Pro3 Elite
-roms:
-  - rom-name: LineageOS
+device-name: 'zl1'
+device-vendor: 'LeEco'
+device-model-name: 'Le Pro3 / Le Pro3 Elite'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/zl1/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/zl1/'
+

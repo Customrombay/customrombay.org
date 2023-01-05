@@ -1,10 +1,13 @@
-device-name: vs995
-device-vendor: LG
-device-model-name: V20 (Verizon)
-roms:
-  - rom-name: LineageOS
+device-name: 'vs995'
+device-vendor: 'LG'
+device-model-name: 'V20 (Verizon)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/vs995/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/vs995/'
+

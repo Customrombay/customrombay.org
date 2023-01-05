@@ -1,10 +1,13 @@
-device-name: castor
-device-vendor: Sony
-device-model-name: Xperia Tablet Z2 LTE
-roms:
-  - rom-name: LineageOS
+device-name: 'castor'
+device-vendor: 'Sony'
+device-model-name: 'Xperia Tablet Z2 LTE'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/castor/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/castor/'
+

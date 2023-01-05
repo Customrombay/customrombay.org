@@ -1,10 +1,13 @@
-device-name: gtesqltespr
-device-vendor: Samsung
-device-model-name: Galaxy Tab E 8.0 LTE (Sprint)
-roms:
-  - rom-name: LineageOS
+device-name: 'gtesqltespr'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Tab E 8.0 LTE (Sprint)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/gtesqltespr/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/gtesqltespr/'
+

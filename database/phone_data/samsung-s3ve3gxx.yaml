@@ -1,10 +1,13 @@
-device-name: s3ve3gxx
-device-vendor: Samsung
-device-model-name: Galaxy S III Neo (Sony Camera)
-roms:
-  - rom-name: LineageOS
+device-name: 's3ve3gxx'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S III Neo (Sony Camera)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/s3ve3gxx/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/s3ve3gxx/'
+

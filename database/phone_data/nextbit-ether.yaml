@@ -1,10 +1,13 @@
-device-name: ether
-device-vendor: Nextbit
-device-model-name: Robin
-roms:
-  - rom-name: LineageOS
+device-name: 'ether'
+device-vendor: 'Nextbit'
+device-model-name: 'Robin'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/ether/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/ether/'
+

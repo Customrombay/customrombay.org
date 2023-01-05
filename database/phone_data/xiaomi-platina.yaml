@@ -1,22 +1,27 @@
-device-name: platina
-device-vendor: Xiaomi
-device-model-name: Mi 8 Lite
-roms:
-  - rom-name: LineageOS
+device-name: 'platina'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi 8 Lite'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/platina/
-  - rom-name: PixelExperience
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/platina/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/platina/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/platina/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/platina/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/platina/'
+

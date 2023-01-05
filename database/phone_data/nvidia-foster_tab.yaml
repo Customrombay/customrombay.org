@@ -1,10 +1,13 @@
-device-name: foster_tab
-device-vendor: NVIDIA
-device-model-name: Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Tablet]
-roms:
-  - rom-name: LineageOS
+device-name: 'foster_tab'
+device-vendor: 'NVIDIA'
+device-model-name: 'Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Tablet]'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/foster_tab/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/foster_tab/'
+

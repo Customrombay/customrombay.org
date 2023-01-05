@@ -1,10 +1,13 @@
-device-name: nx563j
-device-vendor: Nubia
-device-model-name: Z17
-roms:
-  - rom-name: LineageOS
+device-name: 'nx563j'
+device-vendor: 'Nubia'
+device-model-name: 'Z17'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/nx563j/
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/nx563j/'
+

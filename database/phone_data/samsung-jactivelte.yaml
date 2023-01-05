@@ -1,10 +1,13 @@
-device-name: jactivelte
-device-vendor: Samsung
-device-model-name: Galaxy S4 Active
-roms:
-  - rom-name: LineageOS
+device-name: 'jactivelte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S4 Active'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/jactivelte/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/jactivelte/'
+

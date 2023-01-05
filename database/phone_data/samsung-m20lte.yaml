@@ -1,10 +1,13 @@
-device-name: m20lte
-device-vendor: Samsung
-device-model-name: Galaxy M20
-roms:
-  - rom-name: LineageOS
+device-name: 'm20lte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy M20'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/m20lte/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/m20lte/'
+

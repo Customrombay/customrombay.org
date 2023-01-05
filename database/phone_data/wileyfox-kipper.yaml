@@ -1,10 +1,13 @@
-device-name: kipper
-device-vendor: Wileyfox
-device-model-name: Storm
-roms:
-  - rom-name: LineageOS
+device-name: 'kipper'
+device-vendor: 'Wileyfox'
+device-model-name: 'Storm'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/kipper/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/kipper/'
+

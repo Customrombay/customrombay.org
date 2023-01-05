@@ -1,10 +1,13 @@
-device-name: z3
-device-vendor: Sony
-device-model-name: Xperia Z3
-roms:
-  - rom-name: LineageOS
+device-name: 'z3'
+device-vendor: 'Sony'
+device-model-name: 'Xperia Z3'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/z3/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/z3/'
+

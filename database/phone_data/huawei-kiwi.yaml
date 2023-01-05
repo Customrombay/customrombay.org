@@ -1,16 +1,20 @@
-device-name: kiwi
-device-vendor: Huawei
-device-model-name: Honor 5X
-roms:
-  - rom-name: LineageOS
+device-name: 'kiwi'
+device-vendor: 'Huawei'
+device-model-name: 'Honor 5X'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/kiwi/
-  - rom-name: ArrowOS
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/kiwi/'
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 9
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+

@@ -1,28 +1,34 @@
-device-name: X01BD
-device-vendor: ASUS
-device-model-name: Zenfone Max Pro M2
-roms:
-  - rom-name: LineageOS
+device-name: 'X01BD'
+device-vendor: 'ASUS'
+device-model-name: 'Zenfone Max Pro M2'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/X01BD/
-  - rom-name: ArrowOS
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/X01BD/'
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Experiments
+    rom-state: 'Experiments'
     android-version: 13
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
-  - rom-name: PixelExperience
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/X01BD/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/X01BD/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/X01BD/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/X01BD/'
+

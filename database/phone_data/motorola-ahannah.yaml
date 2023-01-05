@@ -1,10 +1,13 @@
-device-name: ahannah
-device-vendor: Motorola
-device-model-name: moto e5 plus (XT1924-3/9)
-roms:
-  - rom-name: LineageOS
+device-name: 'ahannah'
+device-vendor: 'Motorola'
+device-model-name: 'moto e5 plus (XT1924-3/9)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/ahannah/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/ahannah/'
+

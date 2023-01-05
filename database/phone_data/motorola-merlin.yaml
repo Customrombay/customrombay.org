@@ -1,10 +1,13 @@
-device-name: merlin
-device-vendor: Motorola
-device-model-name: moto g3 turbo
-roms:
-  - rom-name: LineageOS
+device-name: 'merlin'
+device-vendor: 'Motorola'
+device-model-name: 'moto g3 turbo'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/merlin/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/merlin/'
+

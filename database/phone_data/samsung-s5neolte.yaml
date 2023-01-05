@@ -1,10 +1,13 @@
-device-name: s5neolte
-device-vendor: Samsung
-device-model-name: Galaxy S5 Neo
-roms:
-  - rom-name: LineageOS
+device-name: 's5neolte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S5 Neo'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/s5neolte/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/s5neolte/'
+

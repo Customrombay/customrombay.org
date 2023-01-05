@@ -1,10 +1,13 @@
-device-name: mondrianwifi
-device-vendor: Samsung
-device-model-name: Galaxy Tab Pro 8.4
-roms:
-  - rom-name: LineageOS
+device-name: 'mondrianwifi'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Tab Pro 8.4'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 6
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/mondrianwifi/
+    rom-state: 'Discontinued'
+    android-version: '6'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/mondrianwifi/'
+

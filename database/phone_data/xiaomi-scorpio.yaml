@@ -1,22 +1,27 @@
-device-name: scorpio
-device-vendor: Xiaomi
-device-model-name: Mi Note 2
-roms:
-  - rom-name: LineageOS
+device-name: 'scorpio'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi Note 2'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/scorpio/
-  - rom-name: PixelExperience
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/scorpio/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 11
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/scorpio/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/scorpio/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 11
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/scorpio/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/scorpio/'
+

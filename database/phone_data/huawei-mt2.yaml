@@ -1,10 +1,13 @@
-device-name: mt2
-device-vendor: Huawei
-device-model-name: Ascend Mate 2 4G
-roms:
-  - rom-name: LineageOS
+device-name: 'mt2'
+device-vendor: 'Huawei'
+device-model-name: 'Ascend Mate 2 4G'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/mt2/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/mt2/'
+

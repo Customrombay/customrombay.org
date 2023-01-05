@@ -1,10 +1,13 @@
-device-name: kingdom
-device-vendor: Lenovo
-device-model-name: Vibe Z2 Pro
-roms:
-  - rom-name: LineageOS
+device-name: 'kingdom'
+device-vendor: 'Lenovo'
+device-model-name: 'Vibe Z2 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/kingdom/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/kingdom/'
+

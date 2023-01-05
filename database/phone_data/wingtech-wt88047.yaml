@@ -1,10 +1,13 @@
-device-name: wt88047
-device-vendor: Wingtech
-device-model-name: Redmi 2
-roms:
-  - rom-name: LineageOS
+device-name: 'wt88047'
+device-vendor: 'Wingtech'
+device-model-name: 'Redmi 2'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/wt88047/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/wt88047/'
+

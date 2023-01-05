@@ -1,10 +1,13 @@
-device-name: zangyapro
-device-vendor: BQ
-device-model-name: Aquaris X2 Pro
-roms:
-  - rom-name: LineageOS
+device-name: 'zangyapro'
+device-vendor: 'BQ'
+device-model-name: 'Aquaris X2 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/zangyapro/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/zangyapro/'
+

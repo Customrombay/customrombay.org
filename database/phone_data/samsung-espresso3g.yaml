@@ -1,10 +1,13 @@
-device-name: espresso3g
-device-vendor: Samsung
-device-model-name: Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)
-roms:
-  - rom-name: LineageOS
+device-name: 'espresso3g'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 6
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/espresso3g/
+    rom-state: 'Discontinued'
+    android-version: '6'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/espresso3g/'
+

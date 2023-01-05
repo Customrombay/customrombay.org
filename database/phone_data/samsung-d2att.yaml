@@ -1,10 +1,13 @@
-device-name: d2att
-device-vendor: Samsung
-device-model-name: Galaxy S III (AT&T)
-roms:
-  - rom-name: LineageOS
+device-name: 'd2att'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S III (AT&T)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/d2att/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/d2att/'
+

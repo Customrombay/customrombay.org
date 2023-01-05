@@ -1,10 +1,13 @@
-device-name: gts28vewifi
-device-vendor: Samsung
-device-model-name: Galaxy Tab S2 8.0 Wi-Fi (2016)
-roms:
-  - rom-name: LineageOS
+device-name: 'gts28vewifi'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Tab S2 8.0 Wi-Fi (2016)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/gts28vewifi/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/gts28vewifi/'
+

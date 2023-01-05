@@ -1,10 +1,13 @@
-device-name: i9305
-device-vendor: Samsung
-device-model-name: Galaxy S III (LTE / International)
-roms:
-  - rom-name: LineageOS
+device-name: 'i9305'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S III (LTE / International)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/i9305/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/i9305/'
+

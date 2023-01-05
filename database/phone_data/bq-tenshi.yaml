@@ -1,10 +1,13 @@
-device-name: tenshi
-device-vendor: BQ
-device-model-name: Aquaris U Plus
-roms:
-  - rom-name: LineageOS
+device-name: 'tenshi'
+device-vendor: 'BQ'
+device-model-name: 'Aquaris U Plus'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/tenshi/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/tenshi/'
+

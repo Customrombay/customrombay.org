@@ -1,10 +1,13 @@
-device-name: n1awifi
-device-vendor: Samsung
-device-model-name: Galaxy Note 10.1 Wi-Fi (2014)
-roms:
-  - rom-name: LineageOS
+device-name: 'n1awifi'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Note 10.1 Wi-Fi (2014)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/n1awifi/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/n1awifi/'
+

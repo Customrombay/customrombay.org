@@ -1,10 +1,13 @@
-device-name: mint
-device-vendor: Sony
-device-model-name: Xperia T
-roms:
-  - rom-name: LineageOS
+device-name: 'mint'
+device-vendor: 'Sony'
+device-model-name: 'Xperia T'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 8.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/mint/
+    rom-state: 'Discontinued'
+    android-version: '8.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/mint/'
+

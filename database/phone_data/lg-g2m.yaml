@@ -1,10 +1,13 @@
-device-name: g2m
-device-vendor: LG
-device-model-name: G2 Mini
-roms:
-  - rom-name: LineageOS
+device-name: 'g2m'
+device-vendor: 'LG'
+device-model-name: 'G2 Mini'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/g2m/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/g2m/'
+

@@ -1,28 +1,34 @@
-device-name: oneplus3
-device-vendor: OnePlus
-device-model-name: 3 / 3T
-roms:
-  - rom-name: LineageOS
+device-name: 'oneplus3'
+device-vendor: 'OnePlus'
+device-model-name: '3 / 3T'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/oneplus3/
-  - rom-name: ArrowOS
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/oneplus3/'
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 11
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
-  - rom-name: PixelExperience
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 11
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/oneplus3/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/oneplus3/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 11
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/oneplus3/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/oneplus3/'
+

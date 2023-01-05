@@ -1,28 +1,34 @@
-device-name: gauguin
-device-vendor: Xiaomi
-device-model-name: Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G
-roms:
-  - rom-name: LineageOS
+device-name: 'gauguin'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/gauguin/
-  - rom-name: ArrowOS
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/gauguin/'
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Experiments
+    rom-state: 'Experiments'
     android-version: 13
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
-  - rom-name: PixelExperience
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/gauguin/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/gauguin/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/gauguin/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/gauguin/'
+

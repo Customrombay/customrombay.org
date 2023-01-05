@@ -1,10 +1,13 @@
-device-name: hlte
-device-vendor: Samsung
-device-model-name: Galaxy Note 3 LTE (N9005/P)
-roms:
-  - rom-name: LineageOS
+device-name: 'hlte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Note 3 LTE (N9005/P)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/hlte/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/hlte/'
+

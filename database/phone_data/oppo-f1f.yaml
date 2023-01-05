@@ -1,10 +1,13 @@
-device-name: f1f
-device-vendor: OPPO
-device-model-name: F1 (International)
-roms:
-  - rom-name: LineageOS
+device-name: 'f1f'
+device-vendor: 'OPPO'
+device-model-name: 'F1 (International)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/f1f/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/f1f/'
+

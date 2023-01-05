@@ -1,10 +1,13 @@
-device-name: che10
-device-vendor: Huawei
-device-model-name: Honor 4x (China Telecom)
-roms:
-  - rom-name: LineageOS
+device-name: 'che10'
+device-vendor: 'Huawei'
+device-model-name: 'Honor 4x (China Telecom)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 8.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/che10/
+    rom-state: 'Discontinued'
+    android-version: '8.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/che10/'
+

@@ -1,10 +1,13 @@
-device-name: ido
-device-vendor: Xiaomi
-device-model-name: Redmi 3/Prime
-roms:
-  - rom-name: LineageOS
+device-name: 'ido'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi 3/Prime'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/ido/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/ido/'
+

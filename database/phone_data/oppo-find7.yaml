@@ -1,10 +1,13 @@
-device-name: find7
-device-vendor: OPPO
-device-model-name: Find 7a/s
-roms:
-  - rom-name: LineageOS
+device-name: 'find7'
+device-vendor: 'OPPO'
+device-model-name: 'Find 7a/s'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/find7/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/find7/'
+

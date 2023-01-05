@@ -1,10 +1,13 @@
-device-name: serranoltexx
-device-vendor: Samsung
-device-model-name: Galaxy S4 Mini (International LTE)
-roms:
-  - rom-name: LineageOS
+device-name: 'serranoltexx'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S4 Mini (International LTE)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/serranoltexx/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/serranoltexx/'
+

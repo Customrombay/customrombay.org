@@ -1,10 +1,13 @@
-device-name: ls990
-device-vendor: LG
-device-model-name: G3 (Sprint)
-roms:
-  - rom-name: LineageOS
+device-name: 'ls990'
+device-vendor: 'LG'
+device-model-name: 'G3 (Sprint)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/ls990/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/ls990/'
+

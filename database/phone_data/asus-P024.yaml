@@ -1,10 +1,13 @@
-device-name: P024
-device-vendor: ASUS
-device-model-name: ZenPad 8.0 (Z380KL)
-roms:
-  - rom-name: LineageOS
+device-name: 'P024'
+device-vendor: 'ASUS'
+device-model-name: 'ZenPad 8.0 (Z380KL)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/P024/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/P024/'
+

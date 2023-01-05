@@ -1,10 +1,13 @@
-device-name: jfltespr
-device-vendor: Samsung
-device-model-name: Galaxy S4 (SCH-R970, SPH-L720)
-roms:
-  - rom-name: LineageOS
+device-name: 'jfltespr'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S4 (SCH-R970, SPH-L720)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/jfltespr/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/jfltespr/'
+

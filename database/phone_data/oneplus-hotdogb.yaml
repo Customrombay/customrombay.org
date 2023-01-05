@@ -1,22 +1,27 @@
-device-name: hotdogb
-device-vendor: OnePlus
-device-model-name: 7T
-roms:
-  - rom-name: LineageOS
+device-name: 'hotdogb'
+device-vendor: 'OnePlus'
+device-model-name: '7T'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/hotdogb/
-  - rom-name: PixelExperience
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/hotdogb/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/hotdogb/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/hotdogb/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/hotdogb/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/hotdogb/'
+

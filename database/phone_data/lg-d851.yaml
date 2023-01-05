@@ -1,10 +1,13 @@
-device-name: d851
-device-vendor: LG
-device-model-name: G3 (T-Mobile)
-roms:
-  - rom-name: LineageOS
+device-name: 'd851'
+device-vendor: 'LG'
+device-model-name: 'G3 (T-Mobile)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/d851/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/d851/'
+

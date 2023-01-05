@@ -1,10 +1,13 @@
-device-name: v1awifi
-device-vendor: Samsung
-device-model-name: Galaxy Note Pro 12.2 Wi-Fi
-roms:
-  - rom-name: LineageOS
+device-name: 'v1awifi'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Note Pro 12.2 Wi-Fi'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/v1awifi/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/v1awifi/'
+

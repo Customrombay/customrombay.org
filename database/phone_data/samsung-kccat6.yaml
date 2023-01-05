@@ -1,10 +1,13 @@
-device-name: kccat6
-device-vendor: Samsung
-device-model-name: Galaxy S5 Plus
-roms:
-  - rom-name: LineageOS
+device-name: 'kccat6'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S5 Plus'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/kccat6/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/kccat6/'
+

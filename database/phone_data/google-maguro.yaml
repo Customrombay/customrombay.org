@@ -1,10 +1,13 @@
-device-name: maguro
-device-vendor: Google
-device-model-name: Galaxy Nexus GSM
-roms:
-  - rom-name: LineageOS
+device-name: 'maguro'
+device-vendor: 'Google'
+device-model-name: 'Galaxy Nexus GSM'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 6
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/maguro/
+    rom-state: 'Discontinued'
+    android-version: '6'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/maguro/'
+

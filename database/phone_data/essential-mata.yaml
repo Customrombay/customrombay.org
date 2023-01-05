@@ -1,10 +1,13 @@
-device-name: mata
-device-vendor: Essential
-device-model-name: PH-1
-roms:
-  - rom-name: LineageOS
+device-name: 'mata'
+device-vendor: 'Essential'
+device-model-name: 'PH-1'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/mata/
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/mata/'
+

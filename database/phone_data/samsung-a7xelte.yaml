@@ -1,10 +1,13 @@
-device-name: a7xelte
-device-vendor: Samsung
-device-model-name: Galaxy A7 (2016)
-roms:
-  - rom-name: LineageOS
+device-name: 'a7xelte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy A7 (2016)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/a7xelte/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/a7xelte/'
+

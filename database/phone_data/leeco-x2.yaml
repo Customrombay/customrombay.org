@@ -1,10 +1,13 @@
-device-name: x2
-device-vendor: LeEco
-device-model-name: Le Max2
-roms:
-  - rom-name: LineageOS
+device-name: 'x2'
+device-vendor: 'LeEco'
+device-model-name: 'Le Max2'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/x2/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/x2/'
+

@@ -1,10 +1,13 @@
-device-name: z3c
-device-vendor: Sony
-device-model-name: Xperia Z3 Compact
-roms:
-  - rom-name: LineageOS
+device-name: 'z3c'
+device-vendor: 'Sony'
+device-model-name: 'Xperia Z3 Compact'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/z3c/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/z3c/'
+

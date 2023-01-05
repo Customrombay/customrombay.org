@@ -1,10 +1,13 @@
-device-name: kltedv
-device-vendor: Samsung
-device-model-name: Galaxy S5 LTE (G900I/P)
-roms:
-  - rom-name: LineageOS
+device-name: 'kltedv'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S5 LTE (G900I/P)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/kltedv/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/kltedv/'
+

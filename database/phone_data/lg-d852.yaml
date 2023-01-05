@@ -1,10 +1,13 @@
-device-name: d852
-device-vendor: LG
-device-model-name: G3 (Canada)
-roms:
-  - rom-name: LineageOS
+device-name: 'd852'
+device-vendor: 'LG'
+device-model-name: 'G3 (Canada)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/d852/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/d852/'
+

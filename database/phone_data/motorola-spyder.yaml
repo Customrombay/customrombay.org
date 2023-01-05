@@ -1,10 +1,13 @@
-device-name: spyder
-device-vendor: Motorola
-device-model-name: DROID RAZR/RAZR MAXX (CDMA)
-roms:
-  - rom-name: LineageOS
+device-name: 'spyder'
+device-vendor: 'Motorola'
+device-model-name: 'DROID RAZR/RAZR MAXX (CDMA)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/spyder/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/spyder/'
+

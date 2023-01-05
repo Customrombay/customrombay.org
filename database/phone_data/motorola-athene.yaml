@@ -1,16 +1,20 @@
-device-name: athene
-device-vendor: Motorola
-device-model-name: moto g4
-roms:
-  - rom-name: LineageOS
+device-name: 'athene'
+device-vendor: 'Motorola'
+device-model-name: 'moto g4'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/athene/
-  - rom-name: ArrowOS
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/athene/'
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 9
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+

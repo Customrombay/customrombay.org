@@ -1,10 +1,13 @@
-device-name: rs988
-device-vendor: LG
-device-model-name: G5 (US Unlocked)
-roms:
-  - rom-name: LineageOS
+device-name: 'rs988'
+device-vendor: 'LG'
+device-model-name: 'G5 (US Unlocked)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/rs988/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/rs988/'
+

@@ -1,10 +1,13 @@
-device-name: xt897
-device-vendor: Motorola
-device-model-name: PHOTON Q 4G LTE
-roms:
-  - rom-name: LineageOS
+device-name: 'xt897'
+device-vendor: 'Motorola'
+device-model-name: 'PHOTON Q 4G LTE'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/xt897/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/xt897/'
+

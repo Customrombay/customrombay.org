@@ -1,10 +1,13 @@
-device-name: hydrogen
-device-vendor: Xiaomi
-device-model-name: Mi Max
-roms:
-  - rom-name: LineageOS
+device-name: 'hydrogen'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi Max'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/hydrogen/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/hydrogen/'
+

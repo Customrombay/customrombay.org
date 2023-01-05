@@ -1,10 +1,13 @@
-device-name: anne
-device-vendor: Huawei
-device-model-name: P20 Lite
-roms:
-  - rom-name: LineageOS
+device-name: 'anne'
+device-vendor: 'Huawei'
+device-model-name: 'P20 Lite'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/anne/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/anne/'
+

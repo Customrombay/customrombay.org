@@ -1,10 +1,13 @@
-device-name: harpia
-device-vendor: Motorola
-device-model-name: moto g4 play
-roms:
-  - rom-name: LineageOS
+device-name: 'harpia'
+device-vendor: 'Motorola'
+device-model-name: 'moto g4 play'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/harpia/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/harpia/'
+

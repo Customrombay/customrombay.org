@@ -1,10 +1,13 @@
-device-name: porg
-device-vendor: NVIDIA
-device-model-name: Jetson (Nano / Nano 2GB) [Android TV]
-roms:
-  - rom-name: LineageOS
+device-name: 'porg'
+device-vendor: 'NVIDIA'
+device-model-name: 'Jetson (Nano / Nano 2GB) [Android TV]'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/porg/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/porg/'
+

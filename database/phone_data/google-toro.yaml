@@ -1,10 +1,13 @@
-device-name: toro
-device-vendor: Google
-device-model-name: Galaxy Nexus LTE (Verizon)
-roms:
-  - rom-name: LineageOS
+device-name: 'toro'
+device-vendor: 'Google'
+device-model-name: 'Galaxy Nexus LTE (Verizon)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 6
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/toro/
+    rom-state: 'Discontinued'
+    android-version: '6'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/toro/'
+

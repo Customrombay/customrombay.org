@@ -1,10 +1,13 @@
-device-name: berkeley
-device-vendor: Huawei
-device-model-name: Honor View 10
-roms:
-  - rom-name: LineageOS
+device-name: 'berkeley'
+device-vendor: 'Huawei'
+device-model-name: 'Honor View 10'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/berkeley/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/berkeley/'
+

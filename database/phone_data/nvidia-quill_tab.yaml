@@ -1,10 +1,13 @@
-device-name: quill_tab
-device-vendor: NVIDIA
-device-model-name: Jetson (TX2 / TX2 NX) [Tablet]
-roms:
-  - rom-name: LineageOS
+device-name: 'quill_tab'
+device-vendor: 'NVIDIA'
+device-model-name: 'Jetson (TX2 / TX2 NX) [Tablet]'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/quill_tab/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/quill_tab/'
+

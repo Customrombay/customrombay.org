@@ -1,10 +1,13 @@
-device-name: us996
-device-vendor: LG
-device-model-name: V20 (US Unlocked)
-roms:
-  - rom-name: LineageOS
+device-name: 'us996'
+device-vendor: 'LG'
+device-model-name: 'V20 (US Unlocked)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/us996/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/us996/'
+

@@ -1,10 +1,13 @@
-device-name: voyager
-device-vendor: Sony
-device-model-name: Xperia XA2 Plus
-roms:
-  - rom-name: LineageOS
+device-name: 'voyager'
+device-vendor: 'Sony'
+device-model-name: 'Xperia XA2 Plus'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/voyager/
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/voyager/'
+

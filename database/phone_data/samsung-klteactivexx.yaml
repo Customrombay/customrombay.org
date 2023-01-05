@@ -1,10 +1,13 @@
-device-name: klteactivexx
-device-vendor: Samsung
-device-model-name: Galaxy S5 Active (G870F)
-roms:
-  - rom-name: LineageOS
+device-name: 'klteactivexx'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S5 Active (G870F)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/klteactivexx/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/klteactivexx/'
+

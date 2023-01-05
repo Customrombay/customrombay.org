@@ -1,10 +1,13 @@
-device-name: YTX703L
-device-vendor: Lenovo
-device-model-name: Yoga Tab 3 Plus LTE
-roms:
-  - rom-name: LineageOS
+device-name: 'YTX703L'
+device-vendor: 'Lenovo'
+device-model-name: 'Yoga Tab 3 Plus LTE'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/YTX703L/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/YTX703L/'
+

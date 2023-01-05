@@ -1,10 +1,13 @@
-device-name: gta4xl
-device-vendor: Samsung
-device-model-name: Galaxy Tab S6 Lite (LTE)
-roms:
-  - rom-name: LineageOS
+device-name: 'gta4xl'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Tab S6 Lite (LTE)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/gta4xl/
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/gta4xl/'
+

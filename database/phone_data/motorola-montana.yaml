@@ -1,10 +1,13 @@
-device-name: montana
-device-vendor: Motorola
-device-model-name: moto g5s
-roms:
-  - rom-name: LineageOS
+device-name: 'montana'
+device-vendor: 'Motorola'
+device-model-name: 'moto g5s'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/montana/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/montana/'
+

@@ -1,10 +1,13 @@
-device-name: s3ve3gds
-device-vendor: Samsung
-device-model-name: Galaxy S III Neo (Dual SIM)
-roms:
-  - rom-name: LineageOS
+device-name: 's3ve3gds'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S III Neo (Dual SIM)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/s3ve3gds/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/s3ve3gds/'
+

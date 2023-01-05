@@ -1,10 +1,13 @@
-device-name: nicki
-device-vendor: Sony
-device-model-name: Xperia M
-roms:
-  - rom-name: LineageOS
+device-name: 'nicki'
+device-vendor: 'Sony'
+device-model-name: 'Xperia M'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/nicki/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/nicki/'
+

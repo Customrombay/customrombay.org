@@ -1,16 +1,20 @@
-device-name: sake
-device-vendor: ASUS
-device-model-name: ZenFone 8
-roms:
-  - rom-name: LineageOS
+device-name: 'sake'
+device-vendor: 'ASUS'
+device-model-name: 'ZenFone 8'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/sake/
-  - rom-name: ArrowOS
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/sake/'
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 12L
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-state: 'Discontinued'
+    android-version: '12L'
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+

@@ -1,10 +1,13 @@
-device-name: nx512j
-device-vendor: Nubia
-device-model-name: Z9 Max
-roms:
-  - rom-name: LineageOS
+device-name: 'nx512j'
+device-vendor: 'Nubia'
+device-model-name: 'Z9 Max'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/nx512j/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/nx512j/'
+

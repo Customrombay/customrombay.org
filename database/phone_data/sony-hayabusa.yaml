@@ -1,10 +1,13 @@
-device-name: hayabusa
-device-vendor: Sony
-device-model-name: Xperia TX
-roms:
-  - rom-name: LineageOS
+device-name: 'hayabusa'
+device-vendor: 'Sony'
+device-model-name: 'Xperia TX'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 8.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/hayabusa/
+    rom-state: 'Discontinued'
+    android-version: '8.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/hayabusa/'
+

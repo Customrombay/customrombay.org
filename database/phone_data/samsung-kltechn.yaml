@@ -1,10 +1,13 @@
-device-name: kltechn
-device-vendor: Samsung
-device-model-name: Galaxy S5 LTE (G9006V/8V)
-roms:
-  - rom-name: LineageOS
+device-name: 'kltechn'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S5 LTE (G9006V/8V)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/kltechn/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/kltechn/'
+

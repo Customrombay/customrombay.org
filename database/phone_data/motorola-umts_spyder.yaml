@@ -1,10 +1,13 @@
-device-name: umts_spyder
-device-vendor: Motorola
-device-model-name: DROID RAZR / RAZR MAXX (GSM)
-roms:
-  - rom-name: LineageOS
+device-name: 'umts_spyder'
+device-vendor: 'Motorola'
+device-model-name: 'DROID RAZR / RAZR MAXX (GSM)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/umts_spyder/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/umts_spyder/'
+

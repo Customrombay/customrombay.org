@@ -1,10 +1,13 @@
-device-name: hammerhead
-device-vendor: Google
-device-model-name: Nexus 5
-roms:
-  - rom-name: LineageOS
+device-name: 'hammerhead'
+device-vendor: 'Google'
+device-model-name: 'Nexus 5'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/hammerhead/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/hammerhead/'
+

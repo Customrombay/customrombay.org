@@ -1,10 +1,13 @@
-device-name: d801
-device-vendor: LG
-device-model-name: G2 (T-Mobile)
-roms:
-  - rom-name: LineageOS
+device-name: 'd801'
+device-vendor: 'LG'
+device-model-name: 'G2 (T-Mobile)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/d801/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/d801/'
+

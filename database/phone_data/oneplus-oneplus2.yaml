@@ -1,10 +1,13 @@
-device-name: oneplus2
-device-vendor: OnePlus
+device-name: 'oneplus2'
+device-vendor: 'OnePlus'
 device-model-name: 2
-roms:
-  - rom-name: LineageOS
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 10
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/oneplus2/
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/oneplus2/'
+

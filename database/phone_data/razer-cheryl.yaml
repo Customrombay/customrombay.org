@@ -1,10 +1,13 @@
-device-name: cheryl
-device-vendor: Razer
-device-model-name: Phone
-roms:
-  - rom-name: LineageOS
+device-name: 'cheryl'
+device-vendor: 'Razer'
+device-model-name: 'Phone'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/cheryl/
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/cheryl/'
+

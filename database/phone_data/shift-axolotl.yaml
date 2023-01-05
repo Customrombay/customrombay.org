@@ -1,10 +1,13 @@
-device-name: axolotl
-device-vendor: SHIFT
-device-model-name: SHIFT6mq
-roms:
-  - rom-name: LineageOS
+device-name: 'axolotl'
+device-vendor: 'SHIFT'
+device-model-name: 'SHIFT6mq'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/axolotl/
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/axolotl/'
+

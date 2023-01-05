@@ -1,10 +1,13 @@
-device-name: xmsirius
-device-vendor: Xiaomi
-device-model-name: Mi 8 SE
-roms:
-  - rom-name: LineageOS
+device-name: 'xmsirius'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi 8 SE'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/xmsirius/
+    rom-state: 'Official'
+    android-version: ''
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/xmsirius/'
+

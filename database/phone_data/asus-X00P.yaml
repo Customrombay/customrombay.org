@@ -1,10 +1,13 @@
-device-name: X00P
-device-vendor: ASUS
-device-model-name: Zenfone Max M1
-roms:
-  - rom-name: LineageOS
+device-name: 'X00P'
+device-vendor: 'ASUS'
+device-model-name: 'Zenfone Max M1'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/X00P/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/X00P/'
+

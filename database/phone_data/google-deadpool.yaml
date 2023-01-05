@@ -1,10 +1,13 @@
-device-name: deadpool
-device-vendor: Google
-device-model-name: ADT-3
-roms:
-  - rom-name: LineageOS
+device-name: 'deadpool'
+device-vendor: 'Google'
+device-model-name: 'ADT-3'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 12L
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/deadpool/
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/deadpool/'
+

@@ -1,10 +1,13 @@
-device-name: w7
-device-vendor: LG
-device-model-name: L90
-roms:
-  - rom-name: LineageOS
+device-name: 'w7'
+device-vendor: 'LG'
+device-model-name: 'L90'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 7.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/w7/
+    rom-state: 'Discontinued'
+    android-version: '7.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/w7/'
+

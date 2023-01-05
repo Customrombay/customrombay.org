@@ -1,10 +1,13 @@
-device-name: r7sf
-device-vendor: OPPO
-device-model-name: R7s (International)
-roms:
-  - rom-name: LineageOS
+device-name: 'r7sf'
+device-vendor: 'OPPO'
+device-model-name: 'R7s (International)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 9
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/r7sf/
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/r7sf/'
+

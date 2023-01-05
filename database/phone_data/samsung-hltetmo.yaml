@@ -1,10 +1,13 @@
-device-name: hltetmo
-device-vendor: Samsung
-device-model-name: Galaxy Note 3 LTE (N900T/V/W8)
-roms:
-  - rom-name: LineageOS
+device-name: 'hltetmo'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Note 3 LTE (N900T/V/W8)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/hltetmo/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/hltetmo/'
+

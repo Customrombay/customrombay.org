@@ -1,10 +1,13 @@
-device-name: d802
-device-vendor: LG
-device-model-name: G2 (International)
-roms:
-  - rom-name: LineageOS
+device-name: 'd802'
+device-vendor: 'LG'
+device-model-name: 'G2 (International)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/d802/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/d802/'
+

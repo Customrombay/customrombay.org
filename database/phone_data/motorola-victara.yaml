@@ -1,10 +1,13 @@
-device-name: victara
-device-vendor: Motorola
-device-model-name: moto x (2014)
-roms:
-  - rom-name: LineageOS
+device-name: 'victara'
+device-vendor: 'Motorola'
+device-model-name: 'moto x (2014)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/victara/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/victara/'
+

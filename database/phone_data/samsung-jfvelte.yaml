@@ -1,10 +1,13 @@
-device-name: jfvelte
-device-vendor: Samsung
-device-model-name: Galaxy S4 Value Edition (GT-I9515/L)
-roms:
-  - rom-name: LineageOS
+device-name: 'jfvelte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S4 Value Edition (GT-I9515/L)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Official
-    android-version: 11
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/jfvelte/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/jfvelte/'
+

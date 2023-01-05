@@ -1,10 +1,13 @@
-device-name: shieldtablet
-device-vendor: NVIDIA
-device-model-name: Shield Tablet
-roms:
-  - rom-name: LineageOS
+device-name: 'shieldtablet'
+device-vendor: 'NVIDIA'
+device-model-name: 'Shield Tablet'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 8.1
-    rom-webpage: https://lineageos.org/
-    phone-webpage: https://wiki.lineageos.org/devices/shieldtablet/
+    rom-state: 'Discontinued'
+    android-version: '8.1'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/shieldtablet/'
+

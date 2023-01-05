@@ -1,6 +1,6 @@
-device-name: 'nash'
-device-vendor: 'Motorola'
-device-model-name: 'moto z2 force'
+device-name: 'nx611j'
+device-vendor: 'Nubia'
+device-model-name: 'Z18 Mini'
 device-description: null
 roms: 
   - 
@@ -9,5 +9,5 @@ roms:
     rom-state: 'Official'
     android-version: '12L'
     rom-webpage: 'https://lineageos.org/'
-    phone-webpage: 'https://wiki.lineageos.org/devices/nash/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/nx611j/'
 
