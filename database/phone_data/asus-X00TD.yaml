@@ -31,4 +31,11 @@ roms:
     android-version: 12
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/X00TD/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '12'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#X00TD'
 

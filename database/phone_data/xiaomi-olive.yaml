@@ -1,10 +1,20 @@
-device-name: olive
-device-vendor: Xiaomi
-device-model-name: Redmi 8
-roms:
-  - rom-name: ArrowOS
+device-name: 'olive'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi 8'
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Community experiments
+    rom-state: 'Community experiments'
     android-version: 11
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#olive'
+

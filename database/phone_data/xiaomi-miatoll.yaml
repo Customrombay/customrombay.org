@@ -31,4 +31,11 @@ roms:
     android-version: 13
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/miatoll/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#miatoll'
 

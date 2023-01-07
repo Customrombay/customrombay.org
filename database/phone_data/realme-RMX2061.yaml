@@ -1,16 +1,27 @@
-device-name: RMX2061
-device-vendor: Realme
-device-model-name: 6 Pro
-roms:
-  - rom-name: PixelExperience
+device-name: 'RMX2061'
+device-vendor: 'Realme'
+device-model-name: '6 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/RMX2061/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/RMX2061/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/RMX2061/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/RMX2061/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#RMX2061'
+

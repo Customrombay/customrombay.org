@@ -1,10 +1,20 @@
-device-name: deen
-device-vendor: Motorola
-device-model-name: One
-roms:
-  - rom-name: ArrowOS
+device-name: 'deen'
+device-vendor: 'Motorola'
+device-model-name: 'One'
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 10
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#deen'
+

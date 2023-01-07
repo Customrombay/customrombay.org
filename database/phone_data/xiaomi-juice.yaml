@@ -1,10 +1,20 @@
-device-name: juice
-device-vendor: Xiaomi
-device-model-name: Xiaomi Redmi 9T / Redmi 9 Power / Redmi Note 9 4G and POCO M3
-roms:
-  - rom-name: ArrowOS
+device-name: 'juice'
+device-vendor: 'Xiaomi'
+device-model-name: 'Xiaomi Redmi 9T / Redmi 9 Power / Redmi Note 9 4G and POCO M3'
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 11
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#juice'
+

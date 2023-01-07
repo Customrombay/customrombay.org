@@ -1,10 +1,20 @@
-device-name: munch
-device-vendor: Xiaomi
-device-model-name: POCO F4
-roms:
-  - rom-name: ArrowOS
+device-name: 'munch'
+device-vendor: 'Xiaomi'
+device-model-name: 'POCO F4'
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#munch'
+

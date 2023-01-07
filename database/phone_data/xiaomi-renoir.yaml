@@ -1,16 +1,27 @@
-device-name: renoir
-device-vendor: Xiaomi
-device-model-name: Mi 11 Lite 5G
-roms:
-  - rom-name: PixelExperience
+device-name: 'renoir'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi 11 Lite 5G'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/renoir/
-  - rom-name: PixelExperience Plus
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/renoir/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/renoir/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/renoir/'
+  - 
+    rom-name: 'PixelExperience Plus'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: 12
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/renoir/'
+
