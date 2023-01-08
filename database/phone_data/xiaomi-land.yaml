@@ -31,4 +31,11 @@ roms:
     android-version: 11
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/land/'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/land'
 

@@ -10,4 +10,11 @@ roms:
     android-version: '7.1'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/jalebi/'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '7'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/jalebi'
 

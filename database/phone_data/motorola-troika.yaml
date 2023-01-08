@@ -24,4 +24,11 @@ roms:
     android-version: 12
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/troika/'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/troika'
 

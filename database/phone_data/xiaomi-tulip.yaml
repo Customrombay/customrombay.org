@@ -9,7 +9,7 @@ roms:
     rom-state: 'Discontinued'
     android-version: '11'
     rom-webpage: 'https://lineageos.org/'
-    phone-webpage: 'https://wiki.lineageos.org/devices/tulip/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/twolip/'
   - 
     rom-name: 'ArrowOS'
     rom-support: true
@@ -24,4 +24,11 @@ roms:
     android-version: '11'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#twolip'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/twolip'
 
