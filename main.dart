@@ -51,7 +51,8 @@ void main() async {
         AboutPage(text: await getAboutDetails()).toHtmlDoc(),
         ContributingPage(text: await getContributingDetails()).toHtmlDoc()
       ] + await renderDevicePages()
-    )
+    ),
+    "tailwind.config.js"
   );
 }
 
