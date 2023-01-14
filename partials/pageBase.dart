@@ -159,7 +159,7 @@ class PageBase {
             widgets: [
               Paragraph(
                 widget_class: "text-sm font-light",
-                text: """Copyright © 2022 - ${Hyperlink(href: "https://github.com/PiotrZPL", text:"Piotr Lange").toHTML()} - All rights reserved"""
+                text: """Copyright © 2022-${DateTime.now().year} - ${Hyperlink(href: "https://github.com/PiotrZPL", text:"Piotr Lange").toHTML()} - All rights reserved"""
               ),
               Paragraph(
                 widget_class: "text-sm font-light",
