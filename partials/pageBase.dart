@@ -163,7 +163,7 @@ class PageBase {
               ),
               Paragraph(
                 widget_class: "text-sm font-light",
-                text: """Generated on ${DateTime.now().day.toString().length == 2 ? DateTime.now().day : "0" + DateTime.now().day.toString()}.${DateTime.now().month}.${DateTime.now().year} using ${Hyperlink(href: "https://github.com/PiotrZPL/dbml", text:"DBML").toHTML()}"""
+                text: """Generated on ${generateDate()} using ${Hyperlink(href: "https://github.com/PiotrZPL/dbml", text:"DBML").toHTML()}"""
               )
             ]
           ),
@@ -317,4 +317,17 @@ class PageBase {
       )
     );
   }
+}
+
+String generateDate() {
+  DateTime now = DateTime.now();
+  String day = now.day.toString();
+  if (day.length == 1) {
+    day = "0" + day;
+  }
+  String month = now.month.toString();
+  if (month.length == 1) {
+    month = "0" + month;
+  }
+  return "$day.$month.${now.year}";
 }
