@@ -92,7 +92,7 @@ String romDataGen(bool romSupport, String romState, String androidVersion, Strin
   else {
     if (romState == "") {
       output = "Yes";
-      if (androidVersion == ""){
+      if (androidVersion == "" || androidVersion == "null"){
         return output;
       }
       else {
@@ -102,7 +102,7 @@ String romDataGen(bool romSupport, String romState, String androidVersion, Strin
     }
     else {
       output = romState;
-      if (androidVersion == "") {
+      if (androidVersion == "" || androidVersion == "null") {
         return output;
       }
       else {
