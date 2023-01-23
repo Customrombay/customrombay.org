@@ -1,0 +1,13 @@
+device-name: 'raven'
+device-vendor: 'Google'
+device-model-name: 'Pixel 6 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'GrapheneOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: 13
+    rom-webpage: 'https://grapheneos.org/'
+    phone-webpage: 'https://grapheneos.org/faq#supported-devices'
+

@@ -1,23 +1,34 @@
-device-name: r5x
-device-vendor: Realme
-device-model-name: X5x
-device-description: Realme 5 Series
-roms:
-  - rom-name: ArrowOS
+device-name: 'r5x'
+device-vendor: 'Realme'
+device-model-name: 'X5x'
+device-description: 'Realme 5 Series'
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 12L
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
-  - rom-name: PixelExperience
+    rom-state: 'Discontinued'
+    android-version: '12L'
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/r5x/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/r5x/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Discontinued
+    rom-state: 'Discontinued'
     android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/r5x/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/r5x/'
+  - 
+    rom-name: 'CorvusOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: null
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://downloads.corvusrom.com/?dir=r5x'
+

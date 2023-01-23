@@ -45,4 +45,11 @@ roms:
     android-version: '12'
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/kebab'
+  - 
+    rom-name: 'CorvusOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: null
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://www.pling.com/p/1579785/'
 

@@ -7,7 +7,7 @@ roms:
     rom-name: 'LineageOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '12L'
+    android-version: '13'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/surya/'
   - 
@@ -38,4 +38,11 @@ roms:
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#surya'
+  - 
+    rom-name: 'CorvusOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: null
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://www.pling.com/p/1590082/'
 

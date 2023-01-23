@@ -24,4 +24,11 @@ roms:
     android-version: '12'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#RMX1971'
+  - 
+    rom-name: 'CorvusOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: null
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://downloads.corvusrom.com/?dir=RMX1971/gapps'
 

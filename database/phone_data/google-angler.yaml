@@ -31,4 +31,11 @@ roms:
     android-version: '8'
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/angler'
+  - 
+    rom-name: 'GrapheneOS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: 8
+    rom-webpage: 'https://grapheneos.org/'
+    phone-webpage: 'https://grapheneos.org/faq#which-legacy-devices'
 

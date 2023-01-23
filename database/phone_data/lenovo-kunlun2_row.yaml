@@ -1,16 +1,27 @@
-device-name: kunlun2_row
-device-vendor: Lenovo
-device-model-name: K10 Note
-roms:
-  - rom-name: PixelExperience
+device-name: 'kunlun2_row'
+device-vendor: 'Lenovo'
+device-model-name: 'K10 Note'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/kunlun2_row/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/kunlun2_row/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/kunlun2_row/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/kunlun2_row/'
+  - 
+    rom-name: 'CorvusOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: null
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://downloads.corvusrom.com/?dir=kunlun2/kunlun2_row'
+

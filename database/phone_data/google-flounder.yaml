@@ -10,4 +10,11 @@ roms:
     android-version: '7.1'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/flounder/'
+  - 
+    rom-name: 'GrapheneOS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: 7
+    rom-webpage: 'https://grapheneos.org/'
+    phone-webpage: 'https://grapheneos.org/faq#which-legacy-devices'
 

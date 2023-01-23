@@ -1,16 +1,27 @@
-device-name: jd2019
-device-vendor: Lenovo
-device-model-name: Z5s
-roms:
-  - rom-name: PixelExperience
+device-name: 'jd2019'
+device-vendor: 'Lenovo'
+device-model-name: 'Z5s'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Beta
+    rom-state: 'Beta'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/jd2019/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/jd2019/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Beta
+    rom-state: 'Beta'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/jd2019/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/jd2019/'
+  - 
+    rom-name: 'CorvusOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: null
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://downloads.corvusrom.com/?dir=jd2019/oss-vendor'
+

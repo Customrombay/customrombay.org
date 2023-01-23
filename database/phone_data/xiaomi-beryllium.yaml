@@ -20,6 +20,8 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '12L'
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://downloads.corvusrom.com/?dir=beryllium'
   - 
     rom-name: 'ArrowOS'
     rom-support: true
