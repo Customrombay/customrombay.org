@@ -10,4 +10,11 @@ roms:
     android-version: null
     rom-webpage: 'https://www.corvusrom.com/'
     phone-webpage: 'https://www.pling.com/p/1372381/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#ysl'
 

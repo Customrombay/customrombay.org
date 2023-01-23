@@ -1,0 +1,13 @@
+device-name: 'X00QD'
+device-vendor: 'ASUS'
+device-model-name: 'Zenfone 5'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#X00QD'
+

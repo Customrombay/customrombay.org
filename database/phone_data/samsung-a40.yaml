@@ -1,0 +1,13 @@
+device-name: 'a40'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy A40'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '12'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#a40'
+
