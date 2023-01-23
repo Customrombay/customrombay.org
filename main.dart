@@ -138,12 +138,19 @@ Future<List<Div>> deviceShows() async {
   for (var vendor in listOfDeviceVendors) {
     var listOfThisDevices = vendor.listOfDevices;
     listOfThisDevices.sort((a, b) => a.deviceModelName.toLowerCase().compareTo(b.deviceModelName.toLowerCase()));
+    String deviceText = "";
+    if (vendor.listOfDevices.length > 1) {
+      deviceText = "devices";
+    }
+    else {
+      deviceText = "device";
+    }
     listOfShows += [
       Div(
         widget_class: "col-span-1 md:col-span-2 lg:col-span-3 text-3xl font-semibold",
         widgets: [
           Paragraph(
-            text: vendor.vendorName
+            text: "${vendor.vendorName}: ${vendor.listOfDevices.length} $deviceText"
           )
         ]
       )
