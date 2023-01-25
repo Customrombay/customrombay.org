@@ -10,4 +10,11 @@ roms:
     android-version: '12'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#a10'
+  - 
+    rom-name: 'HavocOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://havoc-os.com/'
+    phone-webpage: 'https://havoc-os.com/device#a10'
 

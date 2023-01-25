@@ -10,4 +10,11 @@ roms:
     android-version: '7.1'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/h870/'
+  - 
+    rom-name: 'HavocOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://havoc-os.com/'
+    phone-webpage: 'https://havoc-os.com/device#h870'
 

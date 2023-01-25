@@ -1,7 +1,7 @@
 device-name: 'surya'
 device-vendor: 'Xiaomi'
-device-model-name: 'POCO X3 NFC'
-device-description: null
+device-model-name: 'POCO X3'
+device-description: "Both Poco X3 (karna) and Poco X3 NFC (surya) should work with the same ROMs. For more specific information visit ROM maintainer's pages"
 roms: 
   - 
     rom-name: 'LineageOS'
@@ -45,4 +45,11 @@ roms:
     android-version: null
     rom-webpage: 'https://www.corvusrom.com/'
     phone-webpage: 'https://www.pling.com/p/1590082/'
+  - 
+    rom-name: 'HavocOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-webpage: 'https://havoc-os.com/'
+    phone-webpage: 'https://havoc-os.com/device#surya'
 

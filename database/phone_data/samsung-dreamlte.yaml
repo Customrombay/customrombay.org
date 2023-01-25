@@ -1,0 +1,20 @@
+device-name: 'dreamlte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S8'
+device-description: null
+roms: 
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '9'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/dreamlte'
+  - 
+    rom-name: 'HavocOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://havoc-os.com/'
+    phone-webpage: 'https://havoc-os.com/device#dreamlte'
+

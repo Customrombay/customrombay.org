@@ -1,0 +1,13 @@
+device-name: 'ulysse'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi Note 5A'
+device-description: null
+roms: 
+  - 
+    rom-name: 'HavocOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://havoc-os.com/'
+    phone-webpage: 'https://havoc-os.com/device#ulysse'
+
