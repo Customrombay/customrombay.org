@@ -1,10 +1,13 @@
-device-name: z2_row
-device-vendor: ZUK
-device-model-name: Z2 Pro
-roms:
-  - rom-name: ArrowOS
+device-name: 'z2_row'
+device-vendor: 'ZUK'
+device-model-name: 'Z2 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-state: 'Official'
+    android-version: '10'
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+

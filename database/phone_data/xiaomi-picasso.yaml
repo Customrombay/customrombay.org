@@ -6,8 +6,8 @@ roms:
   - 
     rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: 'Discontinued'
-    android-version: 12
+    rom-state: 'Official'
+    android-version: '12'
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 

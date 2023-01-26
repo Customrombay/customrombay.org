@@ -1,13 +1,13 @@
-device-name: 'perseus'
-device-vendor: 'Xiaomi'
-device-model-name: 'Mi Mix 3'
+device-name: 'x3'
+device-vendor: 'Realme'
+device-model-name: 'X3'
 device-description: null
 roms: 
   - 
     rom-name: 'ArrowOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '11'
+    android-version: '13'
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -16,5 +16,5 @@ roms:
     rom-state: 'Discontinued'
     android-version: '11'
     rom-webpage: 'https://crdroid.net/'
-    phone-webpage: 'https://crdroid.net/downloads#perseus'
+    phone-webpage: 'https://crdroid.net/downloads#x3'
 

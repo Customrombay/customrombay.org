@@ -1,0 +1,13 @@
+device-name: 'hima'
+device-vendor: 'HTC'
+device-model-name: 'One M9'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#hima'
+

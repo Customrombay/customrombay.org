@@ -1,22 +1,27 @@
-device-name: vangogh
-device-vendor: Xiaomi
-device-model-name: Mi 10 Lite Zoom
-roms:
-  - rom-name: ArrowOS
+device-name: 'vangogh'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi 10 Lite Zoom'
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
-  - rom-name: PixelExperience
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/vangogh/
-  - rom-name: PixelExperience Plus
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/vangogh/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Official
+    rom-state: 'Official'
     android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/vangogh/
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/vangogh/'
+

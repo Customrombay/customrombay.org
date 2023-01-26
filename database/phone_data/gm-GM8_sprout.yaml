@@ -1,10 +1,13 @@
-device-name: GM8_sprout
-device-vendor: GM
+device-name: 'GM8_sprout'
+device-vendor: 'GM'
 device-model-name: 8
-roms:
-  - rom-name: ArrowOS
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://arrowos.net/
-    phone-webpage: https://arrowos.net/download/
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+

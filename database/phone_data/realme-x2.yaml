@@ -1,0 +1,20 @@
+device-name: 'x2'
+device-vendor: 'Realme'
+device-model-name: 'X2'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#X2'
+  - 
+    rom-name: 'HavocOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://havoc-os.com/'
+    phone-webpage: 'https://havoc-os.com/device#X2'
+
