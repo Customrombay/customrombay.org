@@ -24,4 +24,11 @@ roms:
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#mars'
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/mars'
 

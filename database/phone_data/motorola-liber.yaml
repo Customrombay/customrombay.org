@@ -24,4 +24,11 @@ roms:
     android-version: 11
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/liber/'
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/liber'
 
