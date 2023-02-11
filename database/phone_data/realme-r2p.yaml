@@ -1,16 +1,20 @@
-device-name: r2p
-device-vendor: Realme
-device-model-name: 2 Pro
-roms:
-  - rom-name: PixelExperience
+device-name: 'r2p'
+device-vendor: 'Realme'
+device-model-name: '2 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 12
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/r2p/
-  - rom-name: PixelExperience Plus
+    rom-state: 'Discontinued'
+    android-version: '12'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/r2p/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/r2p/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/r2p/'
+

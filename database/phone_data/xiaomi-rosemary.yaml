@@ -1,16 +1,27 @@
-device-name: rosemary
-device-vendor: Xiaomi
-device-model-name: Redmi Note 10S/11 SE/POCO M5S
-roms:
-  - rom-name: PixelExperience
+device-name: 'rosemary'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi Note 10S/11 SE/POCO M5S'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/rosemary/
-  - rom-name: PixelExperience Plus
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/rosemary/'
+  - 
+    rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 13
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/rosemary/
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/rosemary/'
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/rosemary'
+

@@ -1,10 +1,13 @@
-device-name: v7101o
-device-vendor: Teracube
-device-model-name: One
-roms:
-  - rom-name: PixelExperience
+device-name: 'v7101o'
+device-vendor: 'Teracube'
+device-model-name: 'One'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: Discontinued
-    android-version: 11
-    rom-webpage: https://download.pixelexperience.org/
-    phone-webpage: https://download.pixelexperience.org/v7101o/
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/v7101o/'
+

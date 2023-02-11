@@ -14,14 +14,14 @@ roms:
     rom-name: 'PixelExperience'
     rom-support: true
     rom-state: 'Discontinued'
-    android-version: 11
+    android-version: '11'
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/sanders/'
   - 
     rom-name: 'PixelExperience Plus'
     rom-support: true
     rom-state: 'Discontinued'
-    android-version: 11
+    android-version: '11'
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/sanders/'
   - 
