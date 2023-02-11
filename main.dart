@@ -1,4 +1,4 @@
-import 'package:dbml/dbml.dart';
+import 'package:staurolite/staurolite.dart';
 import 'partials/devicePage.dart';
 import 'partials/device.dart';
 import 'partials/romForDevice.dart';
@@ -19,11 +19,11 @@ void main() async {
           title: "Customrombay.org",
           listOfWidgets: [
             Article(
-              widget_class: "mx-auto p-6 text-center",
-              widgets:[
+              properties: "mx-auto p-6 text-center",
+              children:[
                 Heading(
                   level: 1,
-                  widget_class: "text-3xl font-bold lg:text-5xl mx-5 text-center",
+                  properties: "text-3xl font-bold lg:text-5xl mx-5 text-center",
                   text: "Welcome to Customrombay.org!"
                 ),
   //               Style(
@@ -32,19 +32,19 @@ void main() async {
   // }""",
   //               ),
                 Paragraph(
-                  widget_class: "text-xl lg:text-2xl mt-8 mx-5 text-center",
+                  properties: "text-xl lg:text-2xl mt-8 mx-5 text-center",
                   text: "A place to find all custom ROMs available for your device."
                 ),
                 Heading(
                   level: 2,
-                  widget_class: "text-xl font-bold lg:text-3xl mx-5 text-center",
+                  properties: "text-xl font-bold lg:text-3xl mx-5 text-center",
                   text: "We already support ${(await listOfDevices()).length} devices!"
                 ),
               ]
             ),
             Div(
-              widget_class: "container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8",
-              widgets: await deviceShows()
+              properties: "container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8",
+              children: await deviceShows()
             )
           ]
         ).toHtmlDoc(),
@@ -147,8 +147,8 @@ Future<List<Div>> deviceShows() async {
     }
     listOfShows += [
       Div(
-        widget_class: "col-span-1 md:col-span-2 lg:col-span-3 text-3xl font-semibold",
-        widgets: [
+        properties: "col-span-1 md:col-span-2 lg:col-span-3 text-3xl font-semibold",
+        children: [
           Paragraph(
             text: "${vendor.vendorName}: ${vendor.listOfDevices.length} $deviceText"
           )
@@ -158,25 +158,25 @@ Future<List<Div>> deviceShows() async {
     for (var device in listOfThisDevices) {
       listOfShows += [
         Div(
-          widget_class: "p-2",
-          widgets: [
+          properties: "p-2",
+          children: [
             Hyperlink(
               href: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/",
-              widgets: [
+              children: [
                 Div(
-                  widget_class: "grid place-content-center",
-                  widgets: [
-                    Img(
+                  properties: "grid place-content-center",
+                  children: [
+                    Image(
                       src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "small"),
-                      widget_class: "rounded-lg shadow-sm h-52 object-cover",
+                      properties: "rounded-lg shadow-sm h-52 object-cover",
                       loading: isFirst ? "" : "lazy",
                       alt: "${device.deviceVendor.toLowerCase()}-${device.deviceName}"
                     )
                   ]
                 ),
                 Div(
-                  widget_class: "my-2 text-xl font-semibold text-center",
-                  widgets: [
+                  properties: "my-2 text-xl font-semibold text-center",
+                  children: [
                     Paragraph(
                       text: "${device.deviceModelName}"
                     ),

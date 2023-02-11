@@ -1,4 +1,4 @@
-import 'package:dbml/dbml.dart';
+import 'package:staurolite/staurolite.dart';
 import 'pageBase.dart';
 
 class AboutPage {
@@ -15,8 +15,8 @@ class AboutPage {
       title: "CustomRomBay.org - about",
       listOfWidgets: [
         Article(
-          widget_class: "prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4",
-          widgets:[
+          properties: "prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4",
+          children:[
             MarkdownElement(markdown: text)
           ]
         )

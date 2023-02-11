@@ -1,5 +1,5 @@
 import 'romForDevice.dart';
-import 'package:dbml/dbml.dart';
+import 'package:staurolite/staurolite.dart';
 
 class PhoneTable extends HtmlWidget {
   PhoneTable({
@@ -26,7 +26,7 @@ class PhoneTable extends HtmlWidget {
     }
 
     return Table(
-      widgets: listInTable
+      children: listInTable
     ).toHTML();
   }
 }
@@ -52,22 +52,22 @@ class RomInfoRow extends HtmlWidget {
 
   String toHTML() {
     return TableRow(
-      widgets: [
+      children: [
         TableData(
-          widgets: [
+          children: [
             Hyperlink(
-              widget_class: "text-xl no-underline",
+              properties: "text-xl no-underline",
               text: romName,
               href: romWebpage
             )
           ]
         ),
         TableData(
-          widgets: [
+          children: [
             Paragraph(
-              widget_class: "text-right text-xl",
+              properties: "text-right text-xl",
               text: """${Hyperlink(
-                widget_class: "no-underline",
+                properties: "no-underline",
                 text: romDataGen(
                 romSupport,
                 romState,

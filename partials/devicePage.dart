@@ -1,4 +1,4 @@
-import 'package:dbml/dbml.dart';
+import 'package:staurolite/staurolite.dart';
 import 'device.dart';
 import 'phoneTable.dart';
 import 'pageBase.dart';
@@ -24,11 +24,11 @@ class DevicePage {
       description: "${device.deviceVendor} ${device.deviceModelName}",
       listOfWidgets: [
         Article(
-          widget_class: "prose lg:prose-lg mx-auto mb-8 dark:prose-dark px-4",
-          widgets:[
+          properties: "prose lg:prose-lg mx-auto mb-8 dark:prose-dark px-4",
+          children:[
             Heading(
               level: 1,
-              widget_class: "text-2xl font-bold mb-2",
+              properties: "text-2xl font-bold mb-2",
               text: "${device.deviceVendor} ${device.deviceModelName}"
             ),
 //             Style(
@@ -43,9 +43,9 @@ class DevicePage {
               listOfRoms: device.listOfRoms
             ),
             Div(
-              widget_class: "grid place-content-center",
-              widgets: [
-                Img(
+              properties: "grid place-content-center",
+              children: [
+                Image(
                   src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "medium")
                 )
               ]

@@ -18,7 +18,7 @@ dependencies:
   path: ^1.8.0
   serve: ^3.0.1
   yaml: ^3.1.1
-  dbml:
+  staurolite:
     git: 
-      url: https://github.com/piotrzpl/dbml
+      url: https://github.com/piotrzpl/staurolite
 

@@ -1,4 +1,4 @@
-import 'package:dbml/dbml.dart';
+import 'package:staurolite/staurolite.dart';
 
 class PageBase {
   PageBase ({
@@ -20,7 +20,7 @@ class PageBase {
       path: path,
       head: Head(
         title: title,
-        widgets: [
+        children: [
           GoogleAnalytics(
             tagid: "G-S2SPCWG41N"
           ),
@@ -42,10 +42,10 @@ class PageBase {
         ]
       ),
       body: Body(
-        widget_class: "bg-gray-100 dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen",
+        properties: "bg-gray-100 dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen",
         // Fixes mobileMenu size
         onresize: "onWindowResize();",
-        widgets: [
+        children: [
           Script(
             script: """
     var darkStorage = localStorage.getItem('darkmode');
@@ -60,42 +60,42 @@ class PageBase {
     }"""
           ),
           Header(
-            widget_class: "container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative",
-            widgets: [
+            properties: "container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative",
+            children: [
               Hyperlink(
                 href: "/",
-                widget_class: "capitalize font-extrabold text-2xl",
-                widgets: [
-                  Img(
+                properties: "capitalize font-extrabold text-2xl",
+                children: [
+                  Image(
                     src: "/banner.webp",
                     alt: "Customrombay.org",
-                    widget_class: "h-8 max-w-full"
+                    properties: "h-8 max-w-full"
                   )
                 ]
               ),
               Button(
-                widget_class: "block relative h-auto mobile-menu-button md:hidden",
-                widgets: [
+                properties: "block relative h-auto mobile-menu-button md:hidden",
+                children: [
                   Div(
                     id: "line",
-                    widget_class: "m-auto h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
+                    properties: "m-auto h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
                   ),
                   Div(
                     id: "line2",
-                    widget_class: "m-auto mt-2 h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
+                    properties: "m-auto mt-2 h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
                   ),
                   Div(
                     id: "line3",
-                    widget_class: "m-auto mt-2 h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
+                    properties: "m-auto mt-2 h-0.5 w-6 rounded dark:bg-gray-100 bg-gray-900 transition duration-300"
                   )
                 ]
               ),
               UnorderedList(
-                widget_class: "mobile-menu h-0 md:h-auto overflow-hidden px-6 md:pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative md:flex md:flex-row flex-col items-center md:items-center gap-6 md:gap-6 bg-gray-100 dark:bg-gray-800 transition-all ease-in duration-300",
-                widgets: [
+                properties: "mobile-menu h-0 md:h-auto overflow-hidden px-6 md:pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative md:flex md:flex-row flex-col items-center md:items-center gap-6 md:gap-6 bg-gray-100 dark:bg-gray-800 transition-all ease-in duration-300",
+                children: [
                   ListItem(
-                    widget_class: "grid place-items-center my-2",
-                    widgets: [
+                    properties: "grid place-items-center my-2",
+                    children: [
                       Hyperlink(
                         href: "/contributing",
                         text: "Contributing"
@@ -103,8 +103,8 @@ class PageBase {
                     ]
                   ),
                   ListItem(
-                    widget_class: "grid place-items-center my-2",
-                    widgets: [
+                    properties: "grid place-items-center my-2",
+                    children: [
                       Hyperlink(
                         href: "/about",
                         text: "About"
@@ -112,10 +112,10 @@ class PageBase {
                     ]
                   ),
                   ListItem(
-                    widget_class: "grid place-items-center my-2",
-                    widgets: [
+                    properties: "grid place-items-center my-2",
+                    children: [
                       Span(
-                        widget_class: "open-search inline-block cursor-pointer",
+                        properties: "open-search inline-block cursor-pointer",
                         text: """<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" stroke-width="1.5"
             stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
             <path stroke="none" d="M0 0h24v24H0z" fill="none" />
@@ -126,10 +126,10 @@ class PageBase {
                     ]
                   ),
                   ListItem(
-                    widget_class: "grid place-items-center my-2",
-                    widgets: [
+                    properties: "grid place-items-center my-2",
+                    children: [
                       Span(
-                        widget_class: "toggle-dark-mode inline-block cursor-pointer",
+                        properties: "toggle-dark-mode inline-block cursor-pointer",
                         text: """<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5"
             stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
             <path stroke="none" d="M0 0h24v24H0z" fill="none" />
@@ -151,42 +151,42 @@ class PageBase {
             ]
           ),
           Main(
-            widget_class: "flex-1",
-            widgets: listOfWidgets
+            properties: "flex-1",
+            children: listOfWidgets
           ),
           Footer(
-            widget_class: "container p-6 mx-auto md:flex justify-between items-center",
-            widgets: [
+            properties: "container p-6 mx-auto md:flex justify-between items-center",
+            children: [
               Paragraph(
-                widget_class: "text-sm font-light",
+                properties: "text-sm font-light",
                 text: """Copyright © 2022-${DateTime.now().year} - ${Hyperlink(href: "https://github.com/PiotrZPL", text:"Piotr Lange").toHTML()} - All rights reserved"""
               ),
               Paragraph(
-                widget_class: "text-sm font-light",
+                properties: "text-sm font-light",
                 text: """Generated on ${generateDate()} using ${Hyperlink(href: "https://github.com/PiotrZPL/dbml", text:"DBML").toHTML()}"""
               )
             ]
           ),
 
           Div(
-            widget_class: "search-ui absolute top-0 left-0 w-full h-full bg-white dark:bg-gray-800 hidden",
-            widgets: [
+            properties: "search-ui absolute top-0 left-0 w-full h-full bg-white dark:bg-gray-800 hidden",
+            children: [
               Div(
-                widget_class: "container max-w-3xl mx-auto p-12",
-                widgets: [
+                properties: "container max-w-3xl mx-auto p-12",
+                children: [
                   Div(
-                    widget_class: "relative",
-                    widgets: [
+                    properties: "relative",
+                    children: [
                       Div(
-                        widget_class: "my-4 text-center text-2xl font-bold",
-                        widgets: [
+                        properties: "my-4 text-center text-2xl font-bold",
+                        children: [
                           Paragraph(
                             text: "Search"
                           )
                         ]
                       ),
                       Span(
-                        widget_class: "p-2 absolute right-0 top-0 cursor-pointer close-search",
+                        properties: "p-2 absolute right-0 top-0 cursor-pointer close-search",
                         text: """<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5"
           stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
           <path stroke="none" d="M0 0h24v24H0z" fill="none" />
@@ -198,33 +198,33 @@ class PageBase {
                   ),
                   Input(
                     type: "search",
-                    widget_class: "py-2 px-3 w-full dark:text-black border dark:border-transparent",
+                    properties: "py-2 px-3 w-full dark:text-black border dark:border-transparent",
                     placeholder: "Enter search query"
                   ),
                   Div(
-                    widget_class: "search-results text-lg font-medium my-4 hidden",
-                    widgets: [
+                    properties: "search-results text-lg font-medium my-4 hidden",
+                    children: [
                       Paragraph(
                         text: "Results"
                       )
                     ]
                   ),
                   UnorderedList(
-                    widget_class: "search-list my-2"
+                    properties: "search-list my-2"
                   ),
                   Div(
-                    widget_class: "no-results text-center my-8 hidden",
-                    widgets: [
+                    properties: "no-results text-center my-8 hidden",
+                    children: [
                       Div(
-                        widget_class: "text-xl font-semibold mb-2",
-                        widgets: [
+                        properties: "text-xl font-semibold mb-2",
+                        children: [
                           Paragraph(
                             text: "No results found"
                           )
                         ]
                       ),
                       Paragraph(
-                        widget_class: "font-light text-sm",
+                        properties: "font-light text-sm",
                         text: "Try adjusting your search query"
                       )
                     ]
