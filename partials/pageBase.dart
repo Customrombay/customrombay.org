@@ -163,7 +163,7 @@ class PageBase {
               ),
               Paragraph(
                 properties: "text-sm font-light",
-                text: """Generated on ${generateDate()} using ${Hyperlink(href: "https://github.com/PiotrZPL/dbml", text:"DBML").toHTML()}"""
+                text: """Generated on ${generateDate()} using ${Hyperlink(href: "https://github.com/PiotrZPL/staurolite", text:"Staurolite").toHTML()}"""
               )
             ]
           ),
