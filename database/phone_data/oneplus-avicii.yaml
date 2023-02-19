@@ -52,4 +52,11 @@ roms:
     android-version: null
     rom-webpage: 'https://www.corvusrom.com/'
     phone-webpage: 'https://downloads.corvusrom.com/?dir=avicii/gapps'
+  - 
+    rom-name: 'PixysOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-webpage: 'https://pixysos.com/'
+    phone-webpage: 'https://pixysos.com/avicii'
 

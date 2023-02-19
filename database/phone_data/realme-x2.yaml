@@ -17,4 +17,11 @@ roms:
     android-version: '11'
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#X2'
+  - 
+    rom-name: 'PixysOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '10'
+    rom-webpage: 'https://pixysos.com/'
+    phone-webpage: 'https://pixysos.com/x2'
 

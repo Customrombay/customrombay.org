@@ -52,4 +52,11 @@ roms:
     android-version: '13'
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/phoenix'
+  - 
+    rom-name: 'PixysOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://pixysos.com/'
+    phone-webpage: 'https://pixysos.com/phoenix'
 

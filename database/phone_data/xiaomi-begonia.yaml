@@ -31,4 +31,11 @@ roms:
     android-version: null
     rom-webpage: 'https://www.corvusrom.com/'
     phone-webpage: 'https://www.pling.com/p/1590115/'
+  - 
+    rom-name: 'PixysOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://pixysos.com/'
+    phone-webpage: 'https://pixysos.com/begonia'
 

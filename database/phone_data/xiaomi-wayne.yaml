@@ -31,4 +31,11 @@ roms:
     android-version: '11'
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/wayne'
+  - 
+    rom-name: 'PixysOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '10'
+    rom-webpage: 'https://pixysos.com/'
+    phone-webpage: 'https://pixysos.com/wayne'
 

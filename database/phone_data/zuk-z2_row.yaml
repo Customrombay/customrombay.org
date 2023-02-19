@@ -10,4 +10,11 @@ roms:
     android-version: '10'
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
+  - 
+    rom-name: 'PixysOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '10'
+    rom-webpage: 'https://pixysos.com/'
+    phone-webpage: 'https://pixysos.com/z2_row'
 

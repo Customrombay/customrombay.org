@@ -4,6 +4,13 @@ device-model-name: 'Pixel 7'
 device-description: null
 roms: 
   - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/panther/'
+  - 
     rom-name: 'GrapheneOS'
     rom-support: true
     rom-state: 'Official'
