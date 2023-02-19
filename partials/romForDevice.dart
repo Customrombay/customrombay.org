@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 class RomForDevice {
   RomForDevice ({
     required this.romName,
