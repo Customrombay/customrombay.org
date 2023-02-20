@@ -66,4 +66,11 @@ roms:
     android-version: '11'
     rom-webpage: 'https://pixysos.com/'
     phone-webpage: 'https://pixysos.com/sweet'
+  - 
+    rom-name: 'SuperiorOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://sourceforge.net/projects/superioros/'
+    phone-webpage: 'https://sourceforge.net/projects/superioros/'
 

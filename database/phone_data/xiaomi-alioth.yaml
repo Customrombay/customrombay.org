@@ -73,4 +73,11 @@ roms:
     android-version: '13'
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/alioth'
+  - 
+    rom-name: 'SuperiorOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://sourceforge.net/projects/superioros/'
+    phone-webpage: 'https://sourceforge.net/projects/superioros/'
 
