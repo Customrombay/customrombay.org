@@ -1,0 +1,13 @@
+device-name: 'pdx206'
+device-vendor: 'Sony'
+device-model-name: 'Xperia 5 II'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/pdx206/'
+

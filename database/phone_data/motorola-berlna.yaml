@@ -1,0 +1,13 @@
+device-name: 'berlna'
+device-vendor: 'Motorola'
+device-model-name: 'edge 2021'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/berlna/'
+
