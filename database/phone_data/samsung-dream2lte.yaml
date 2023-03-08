@@ -18,3 +18,11 @@ roms:
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/dream2lte'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxys8plus.html'
+

@@ -1,0 +1,21 @@
+device-name: 'Mi8937'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi 3S / 3X / 4 (India) / 4X / [Note 5A / Y1 - Prime]'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/Mi8937/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#mi8937'
+
+recoveries: []

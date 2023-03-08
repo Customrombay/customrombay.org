@@ -11,3 +11,11 @@ roms:
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/i9100/'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Currently Supported via IsoRec'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxys2i9100.html'
+

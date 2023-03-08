@@ -11,3 +11,4 @@ roms:
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#ulysse'
 
+recoveries: null

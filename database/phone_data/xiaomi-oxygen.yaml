@@ -25,3 +25,11 @@ roms:
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#oxygen'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomimimax2.html'
+

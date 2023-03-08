@@ -59,4 +59,19 @@ roms:
     android-version: '11'
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#taimen'
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/taimen'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/google/googlepixel2xl.html'
 

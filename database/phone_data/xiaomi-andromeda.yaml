@@ -25,3 +25,11 @@ roms:
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#andromeda'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomimix35g.html'
+

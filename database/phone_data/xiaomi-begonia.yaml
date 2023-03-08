@@ -46,3 +46,11 @@ roms:
     rom-webpage: 'https://sourceforge.net/projects/superioros/'
     phone-webpage: 'https://sourceforge.net/projects/superioros/'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomiredminote8pro.html'
+

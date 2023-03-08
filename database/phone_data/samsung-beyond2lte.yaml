@@ -46,3 +46,11 @@ roms:
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/beyond2lte'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxys10plus.html'
+

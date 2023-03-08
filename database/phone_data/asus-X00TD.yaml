@@ -7,7 +7,7 @@ roms:
     rom-name: 'LineageOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '12L'
+    android-version: '13'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/X00TD/'
   - 
@@ -80,4 +80,12 @@ roms:
     android-version: '13'
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/X00T'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/asus/asuszenfonemaxprom1.html'
 

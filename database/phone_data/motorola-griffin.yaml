@@ -6,8 +6,8 @@ roms:
   - 
     rom-name: 'LineageOS'
     rom-support: true
-    rom-state: 'Discontinued'
-    android-version: '10'
+    rom-state: 'Official'
+    android-version: '11'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/griffin/'
   - 
@@ -17,4 +17,12 @@ roms:
     android-version: '10'
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/griffin'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/motorola/motorolamotoz2016.html'
 

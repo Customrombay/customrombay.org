@@ -18,3 +18,4 @@ roms:
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/kltedv'
 
+recoveries: null

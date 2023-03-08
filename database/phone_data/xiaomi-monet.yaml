@@ -46,3 +46,11 @@ roms:
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/monet'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomimi10lite.html'
+

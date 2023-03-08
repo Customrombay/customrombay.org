@@ -18,3 +18,11 @@ roms:
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#dreamlte'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxys8.html'
+

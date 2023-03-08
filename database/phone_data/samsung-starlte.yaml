@@ -34,8 +34,8 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Discontinued'
-    android-version: '11'
+    rom-state: 'Official'
+    android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#starlte'
   - 
@@ -59,4 +59,12 @@ roms:
     android-version: '13'
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/starlte'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxys9.html'
 

@@ -39,3 +39,4 @@ roms:
     rom-webpage: 'https://grapheneos.org/'
     phone-webpage: 'https://grapheneos.org/faq#supported-devices'
 
+recoveries: null

@@ -46,3 +46,11 @@ roms:
     rom-webpage: 'https://grapheneos.org/'
     phone-webpage: 'https://grapheneos.org/faq#which-legacy-devices'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/google/googlepixelxl.html'
+

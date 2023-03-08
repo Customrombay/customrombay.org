@@ -18,3 +18,4 @@ roms:
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#X00QD'
 
+recoveries: null

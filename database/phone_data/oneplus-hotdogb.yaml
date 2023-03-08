@@ -53,3 +53,11 @@ roms:
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/hotdogb'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Unmaintained'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/oneplus/oneplus7t.html'
+

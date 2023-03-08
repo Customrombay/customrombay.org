@@ -1,0 +1,70 @@
+device-name: 'Mi439'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi 7A / 8 / 8A / 8A Dual'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/Mi439/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '12'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#Mi439'
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/mi439'
+  - 
+    rom-name: 'HavocOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-webpage: 'https://havoc-os.com/'
+    phone-webpage: 'https://havoc-os.com/device#mi439'
+  - 
+    rom-name: 'PixelExperience'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/mi439/'
+  - 
+    rom-name: 'PixelExperience Plus'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/mi439/'
+  - 
+    rom-name: 'SuperiorOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://sourceforge.net/projects/superioros/'
+    phone-webpage: 'https://sourceforge.net/projects/superioros/'
+  - 
+    rom-name: 'PixysOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '10'
+    rom-webpage: 'https://pixysos.com/'
+    phone-webpage: 'https://pixysos.com/riva'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomi-mi439.html'
+

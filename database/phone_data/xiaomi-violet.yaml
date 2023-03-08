@@ -77,7 +77,7 @@ roms:
     rom-name: 'PixysOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '11'
+    android-version: '13'
     rom-webpage: 'https://pixysos.com/'
     phone-webpage: 'https://pixysos.com/violet'
   - 
@@ -87,4 +87,12 @@ roms:
     android-version: '13'
     rom-webpage: 'https://sourceforge.net/projects/superioros/'
     phone-webpage: 'https://sourceforge.net/projects/superioros/'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomiredminote7pro.html'
 

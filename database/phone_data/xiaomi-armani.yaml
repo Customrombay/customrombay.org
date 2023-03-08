@@ -18,3 +18,11 @@ roms:
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
 
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomiredmi1s.html'
+

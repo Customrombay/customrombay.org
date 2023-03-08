@@ -1,0 +1,14 @@
+device-name: 'lancelot'
+device-vendor: 'Xiaomi'
+device-model-name: ' Mi CC9 Meitu Edition'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/vela/'
+
+recoveries: []
