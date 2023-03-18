@@ -14,7 +14,7 @@ roms:
     rom-name: 'ArrowOS'
     rom-support: true
     rom-state: 'Community'
-    android-version: '12L'
+    android-version: '13'
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
