@@ -29,7 +29,7 @@ class DevicePage {
             Heading(
               level: 1,
               properties: "text-2xl font-bold mb-2",
-              text: "${device.deviceVendor} ${device.deviceModelName}"
+              text: "${device.deviceVendor} ${device.deviceModelName} (${device.deviceName})"
             ),
 //             Style(
 //               css: """img {
@@ -38,6 +38,10 @@ class DevicePage {
 //             ),
             Paragraph(
               text: device.deviceDescription
+            ),
+            Heading(
+              level: 3,
+              text: "The following custom ROMs support ${device.deviceName}:"
             ),
             PhoneTable(
               listOfRoms: device.listOfRoms
