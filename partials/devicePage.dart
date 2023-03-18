@@ -1,6 +1,7 @@
 import 'package:staurolite/staurolite.dart';
 import 'device.dart';
 import 'phoneTable.dart';
+import 'recovery_table.dart';
 import 'pageBase.dart';
 import '../utils/getDeviceImagePath.dart';
 
@@ -14,7 +15,8 @@ class DevicePage {
     deviceVendor: "",
     deviceModelName: "",
     deviceDescription: "",
-    listOfRoms: []
+    listOfRoms: [],
+    listOfRecoveries: []
   );
 
   Future<HtmlDoc> toHtmlDoc() async {
@@ -46,6 +48,13 @@ class DevicePage {
             PhoneTable(
               listOfRoms: device.listOfRoms
             ),
+            device.listOfRecoveries.length > 0 ?  Heading(
+              level: 3,
+              text: "The following custom recoveries support ${device.deviceName}:"
+            ) : null,
+            device.listOfRecoveries.length > 0 ?  RecoveryTable(
+              listOfRecoveries: device.listOfRecoveries
+            ) : null,
             Div(
               properties: "grid place-content-center",
               children: [

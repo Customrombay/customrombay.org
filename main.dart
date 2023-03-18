@@ -2,6 +2,7 @@ import 'package:staurolite/staurolite.dart';
 import 'partials/devicePage.dart';
 import 'partials/device.dart';
 import 'partials/romForDevice.dart';
+import 'partials/recovery_for_device.dart';
 import 'partials/deviceVendor.dart';
 import 'partials/pageBase.dart';
 import 'partials/aboutPage.dart';
@@ -78,7 +79,7 @@ Future<List<Device>> listOfDevices() async {
   for (var deviceFile in await deviceDir.list().toList()) {
     String deviceFileContent = await File(deviceFile.path).readAsString();
     print(deviceFile.path);
-    var ydoc = loadYaml(deviceFileContent);
+    YamlMap ydoc = loadYaml(deviceFileContent);
     List<RomForDevice> listOfRoms = [];
     for (var rom in ydoc["roms"]) {
       //print(rom.runtimeType);
@@ -94,6 +95,22 @@ Future<List<Device>> listOfDevices() async {
         )
       ];
     }
+    List<RecoveryForDevice> listOfRecoveries =[];
+    if (ydoc.containsKey("recoveries")) {
+      if (ydoc["recoveries"] != null) {
+        for (YamlMap recovery in ydoc["recoveries"]) {
+          listOfRecoveries += [
+            RecoveryForDevice(
+              recoveryName: recovery["recovery-name"],
+              recoverySupport: recovery["recovery-support"],
+              recoveryState: recovery["recovery-state"],
+              recoveryWebpage: recovery["recovery-webpage"],
+              deviceWebpage: recovery["device-webpage"]
+            )
+          ];
+        }
+      }
+    }
 
     listOfDevices += [
       Device(
@@ -101,7 +118,8 @@ Future<List<Device>> listOfDevices() async {
         deviceVendor: ydoc["device-vendor"],
         deviceModelName: ydoc["device-model-name"].toString(),
         deviceDescription: ydoc["device-description"] ?? "",
-        listOfRoms: listOfRoms
+        listOfRoms: listOfRoms,
+        listOfRecoveries: listOfRecoveries
       )
     ];
   }
