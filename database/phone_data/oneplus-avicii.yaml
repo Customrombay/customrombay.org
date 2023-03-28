@@ -56,7 +56,7 @@ roms:
     rom-name: 'PixysOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '12'
+    android-version: '13'
     rom-webpage: 'https://pixysos.com/'
     phone-webpage: 'https://pixysos.com/avicii'
   - 

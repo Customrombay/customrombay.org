@@ -7,7 +7,7 @@ roms:
     rom-name: 'LineageOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '11'
+    android-version: '12L'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/us996/'
   - 
