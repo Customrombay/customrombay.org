@@ -33,23 +33,24 @@ class DevicePage {
               properties: "text-2xl font-bold mb-2",
               text: "${device.deviceVendor} ${device.deviceModelName} (${device.deviceName})"
             ),
-//             Style(
-//               css: """img {
-// margin-bottom: 0.7em!important;
-// }""",
-//             ),
             Paragraph(
               text: device.deviceDescription
             ),
             Heading(
-              level: 3,
+              level: 2,
+              text: "Custom ROMs"
+            ),
+            Paragraph(
               text: "The following custom ROMs support ${device.deviceName}:"
             ),
             PhoneTable(
               listOfRoms: device.listOfRoms
             ),
             device.listOfRecoveries.length > 0 ?  Heading(
-              level: 3,
+              level: 2,
+              text: "Custom recoveries"
+            ) : null,
+            device.listOfRecoveries.length > 0 ?  Paragraph(
               text: "The following custom recoveries support ${device.deviceName}:"
             ) : null,
             device.listOfRecoveries.length > 0 ?  RecoveryTable(
