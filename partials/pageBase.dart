@@ -31,6 +31,10 @@ class PageBase {
             name: "viewport",
             content: "width=device-width, initial-scale=1"
           ),
+          Meta(
+            name: "description",
+            content: description
+          ),
           Link(
             rel: "stylesheet",
             href: "/style/tailwind.css",
