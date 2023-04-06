@@ -79,6 +79,7 @@ class PageBase {
               ),
               Button(
                 properties: "block relative h-auto mobile-menu-button md:hidden",
+                ariaLabel: "Mobile menu button",
                 children: [
                   Div(
                     id: "line",
