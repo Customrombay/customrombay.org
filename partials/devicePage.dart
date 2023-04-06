@@ -60,7 +60,8 @@ class DevicePage {
               properties: "grid place-content-center",
               children: [
                 Image(
-                  src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "medium")
+                  src: await getDeviceImagePath("${device.deviceVendor.toLowerCase()}-${device.deviceName}", "medium"),
+                  alt: "${device.deviceVendor.toLowerCase()}-${device.deviceName}"
                 )
               ]
             ),
