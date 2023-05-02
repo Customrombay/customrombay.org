@@ -1,0 +1,14 @@
+device-name: 'pdx215'
+device-vendor: 'Sony'
+device-model-name: 'Xperia 1 III'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/pdx215/'
+
+recoveries: null

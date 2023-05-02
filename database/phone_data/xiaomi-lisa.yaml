@@ -18,13 +18,6 @@ roms:
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
-    rom-name: 'EvolutionX'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: '12'
-    rom-webpage: 'https://evolution-x.org/'
-    phone-webpage: 'https://evolution-x.org/device/lisa'
-  - 
     rom-name: 'PixelOS'
     rom-support: true
     rom-state: 'Official'

@@ -1,0 +1,14 @@
+device-name: 'OP4A89'
+device-vendor: 'OPPO'
+device-model-name: 'Reno Ace'
+device-description: null
+roms: 
+  - 
+    rom-name: 'ArrowOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://arrowos.net/download/'
+
+recoveries: null

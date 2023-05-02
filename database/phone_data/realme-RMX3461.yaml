@@ -1,0 +1,14 @@
+device-name: 'RMX3461'
+device-vendor: 'Realme'
+device-model-name: '9 SE 5G'
+device-description: null
+roms: 
+  - 
+    rom-name: 'SuperiorOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://sourceforge.net/projects/superioros/'
+    phone-webpage: 'https://sourceforge.net/projects/superioros/'
+
+recoveries: null

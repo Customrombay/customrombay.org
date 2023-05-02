@@ -1,0 +1,14 @@
+device-name: 'us996d'
+device-vendor: 'LG'
+device-model-name: 'V20 (GSM Unlocked - DirtySanta)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12L'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/us996d/'
+
+recoveries: []
