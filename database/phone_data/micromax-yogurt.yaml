@@ -1,0 +1,14 @@
+device-name: 'yogurt'
+device-vendor: 'Micromax'
+device-model-name: 'IN Note 1 / IN1'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://pixelos.net/download/yogurt'
+
+recoveries: null

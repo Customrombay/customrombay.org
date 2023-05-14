@@ -1,0 +1,28 @@
+device-name: 'RMX1941'
+device-vendor: 'Realme'
+device-model-name: 'C2'
+device-description: null
+roms: 
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://pixelos.net/download/RMX1941'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '12'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#RMX1941'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Unspecified'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/realme/realmec2.html'
+

@@ -1,0 +1,14 @@
+device-name: 'CPH1859'
+device-vendor: 'Realme'
+device-model-name: '1'
+device-description: null
+roms: 
+  - 
+    rom-name: 'CorvusOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: null
+    rom-webpage: 'https://www.corvusrom.com/'
+    phone-webpage: 'https://downloads.corvusrom.com/?dir=cph1859'
+
+recoveries: null

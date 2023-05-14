@@ -1,7 +1,7 @@
 device-name: 'RM6785'
 device-vendor: 'Realme'
 device-model-name: '6/7'
-device-description: null
+device-description: 'ROMs for RM6785 should work on Realme 6/6i/6s, Realme 7, Narzo, Narzo 20 Pro and Narzo 30 4G. Among supported models are RMX2001 and RMX2151.'
 roms: 
   - 
     rom-name: 'PixelExperience'

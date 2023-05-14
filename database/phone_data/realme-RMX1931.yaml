@@ -1,0 +1,21 @@
+device-name: 'RMX1931'
+device-vendor: 'Realme'
+device-model-name: 'X2 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#RMX1931'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/realme/realmex2pro.html'
+

@@ -23,7 +23,7 @@ roms:
     rom-state: 'Official'
     android-version: '13'
     rom-webpage: 'https://evolution-x.org/'
-    phone-webpage: 'https://evolution-x.org/device/Mi439'
+    phone-webpage: 'https://evolution-x.org/device/mi439'
   - 
     rom-name: 'HavocOS'
     rom-support: true
