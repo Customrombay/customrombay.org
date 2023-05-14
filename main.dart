@@ -53,7 +53,9 @@ void main() async {
         ContributingPage(text: await getContributingDetails()).toHtmlDoc()
       ] + await renderDevicePages()
     ),
-    "tailwind.config.js"
+    customConfigPath: "tailwind.config.js",
+    buildIndexJSON: true,
+    shortenIndexJSONPaths: true
   );
 }
 
