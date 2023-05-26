@@ -4,6 +4,13 @@ device-model-name: '9RT'
 device-description: null
 roms: 
   - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/martini/'
+  - 
     rom-name: 'PixelExperience'
     rom-support: true
     rom-state: 'Official'
