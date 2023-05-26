@@ -40,12 +40,18 @@ class DevicePage {
               level: 2,
               text: "Custom ROMs"
             ),
-            Paragraph(
+            device.listOfRoms.length > 0
+            ? Paragraph(
               text: "The following custom ROMs support ${device.deviceName}:"
+            )
+            : Paragraph(
+              text: "There are no custom ROMs available for ${device.deviceName} at this moment. If you found one, make sure to ${Hyperlink(href: "https://customrombay.org/contributing/", text: "add it").toHTML()} to ${Hyperlink(href: "https://customrombay.org/", text: "customrombay.org").toHTML()}."
             ),
-            PhoneTable(
+            device.listOfRoms.length > 0
+            ? PhoneTable(
               listOfRoms: device.listOfRoms
-            ),
+            )
+            : null,
             device.listOfRecoveries.length > 0 ?  Heading(
               level: 2,
               text: "Custom recoveries"
