@@ -31,6 +31,13 @@ roms:
     android-version: null
     rom-webpage: 'https://www.corvusrom.com/'
     phone-webpage: 'https://downloads.corvusrom.com/?dir=haydn'
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
 
 recoveries: 
   - 
