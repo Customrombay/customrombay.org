@@ -92,21 +92,29 @@ String romDataGen(bool romSupport, String romState, String androidVersion, Strin
   else {
     if (romState == "") {
       output = "Yes";
-      if (androidVersion == "" || androidVersion == "null"){
+      if ((androidVersion == "" || androidVersion == "null") && (romNotes == "" || romNotes == "null")){
+        return output;
+      }
+      else if (androidVersion != "" && androidVersion != "null") {
+        output += " (Android: $androidVersion)";
         return output;
       }
       else {
-        output += " (Android: $androidVersion)";
+        output += " ($romNotes)";
         return output;
       }
     }
     else {
       output = romState;
-      if (androidVersion == "" || androidVersion == "null") {
+      if ((androidVersion == "" || androidVersion == "null") && (romNotes == "" || romNotes == "null")){
+        return output;
+      }
+      else if (androidVersion != "" && androidVersion != "null") {
+        output += " (Android: $androidVersion)";
         return output;
       }
       else {
-        output += " (Android: $androidVersion)";
+        output += " ($romNotes)";
         return output;
       }
     }
