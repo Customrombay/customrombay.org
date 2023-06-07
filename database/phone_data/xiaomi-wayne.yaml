@@ -15,6 +15,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '12'
+    rom-notes: ''
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -36,6 +37,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '10'
+    rom-notes: ''
     rom-webpage: 'https://pixysos.com/'
     phone-webpage: 'https://pixysos.com/wayne'
 

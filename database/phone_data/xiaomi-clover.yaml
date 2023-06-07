@@ -8,6 +8,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -22,6 +23,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/clover/'
   - 
@@ -29,6 +31,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/clover/'
 

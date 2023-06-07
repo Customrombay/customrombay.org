@@ -8,6 +8,7 @@ roms:
     rom-support: true
     rom-state: 'Community'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -29,6 +30,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#juice'
   - 
@@ -43,6 +45,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/juice'
   - 
@@ -50,6 +53,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/lime/'
   - 
@@ -57,6 +61,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/lime/'
 

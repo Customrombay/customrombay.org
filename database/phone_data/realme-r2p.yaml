@@ -8,6 +8,7 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '12'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/r2p/'
   - 
@@ -15,6 +16,7 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/r2p/'
 

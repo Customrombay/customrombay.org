@@ -15,6 +15,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '12L'
+    rom-notes: ''
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -22,6 +23,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/alioth/'
   - 
@@ -29,6 +31,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/alioth/'
   - 
@@ -57,6 +60,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '12'
+    rom-notes: ''
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#alioth'
   - 
@@ -64,6 +68,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/alioth'
   - 
@@ -71,6 +76,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/alioth'
   - 
@@ -78,13 +84,15 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://sourceforge.net/projects/superioros/'
     phone-webpage: 'https://sourceforge.net/projects/superioros/'
   - 
     rom-name: 'xiaomi.eu'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: ''
+    rom-notes: 'MIUI 14'
     rom-webpage: 'https://xiaomi.eu/community/'
     phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
 

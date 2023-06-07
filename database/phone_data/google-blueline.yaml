@@ -15,6 +15,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '12L'
+    rom-notes: ''
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -22,6 +23,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/blueline/'
   - 
@@ -29,6 +31,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/blueline/'
   - 
@@ -50,6 +53,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/blueline'
 

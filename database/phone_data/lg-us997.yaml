@@ -15,6 +15,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#us997'
 

@@ -8,6 +8,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -15,6 +16,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/mojito/'
   - 
@@ -22,12 +24,13 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/mojito/'
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Discontinued'
+    rom-state: 'Official'
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#mojito'
@@ -43,6 +46,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#mojito'
   - 
@@ -50,6 +54,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/mojito'
 

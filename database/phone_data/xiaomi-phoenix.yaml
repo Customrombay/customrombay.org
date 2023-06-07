@@ -8,6 +8,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '12L'
+    rom-notes: ''
     rom-webpage: 'https://arrowos.net/'
     phone-webpage: 'https://arrowos.net/download/'
   - 
@@ -15,6 +16,7 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '12'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/phoenix/'
   - 
@@ -22,6 +24,7 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '12'
+    rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/phoenix/'
   - 
@@ -43,6 +46,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#phoenix'
   - 
@@ -50,6 +54,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/phoenix'
   - 
@@ -57,6 +62,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://pixysos.com/'
     phone-webpage: 'https://pixysos.com/phoenix'
 

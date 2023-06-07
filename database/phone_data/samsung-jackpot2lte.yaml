@@ -1,0 +1,13 @@
+device-name: 'jackpot2lte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy A8+ 2018'
+device-description: null
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxya8plus2018.html'
+
