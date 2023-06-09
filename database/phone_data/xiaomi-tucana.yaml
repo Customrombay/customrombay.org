@@ -34,6 +34,14 @@ roms:
     android-version: '11'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#tucana'
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: 'MIUI 13'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/'
 
 recoveries: 
   - 

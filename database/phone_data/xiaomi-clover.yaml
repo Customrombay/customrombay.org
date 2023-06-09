@@ -34,6 +34,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/clover/'
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: 'MIUI 10'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://xiaomi.eu/community/'
 
 recoveries: 
   - 

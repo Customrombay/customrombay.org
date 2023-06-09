@@ -10,6 +10,14 @@ roms:
     android-version: '13'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/grus/'
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: 'MIUI 12'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/'
 
 recoveries: 
   - 

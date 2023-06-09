@@ -39,5 +39,13 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#santoni'
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: 'MIUI 10'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://xiaomi.eu/community/'
 
 recoveries: null

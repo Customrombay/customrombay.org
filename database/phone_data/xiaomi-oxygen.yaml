@@ -26,6 +26,14 @@ roms:
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#oxygen'
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: 'MIUI 10'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://xiaomi.eu/community/'
 
 recoveries: 
   - 
