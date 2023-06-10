@@ -24,6 +24,15 @@ class PageBase {
           GoogleAnalytics(
             tagid: "G-S2SPCWG41N"
           ),
+          Script(
+            script: """""",
+            async: true,
+            src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3824950651657334",
+            crossorigin: "anonymous"
+          ),
+          Script(
+            script: """(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',6034719,document.body||document.documentElement)"""
+          ),
           Meta(
             charset: "UTF-8"
           ),
