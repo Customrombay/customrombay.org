@@ -1,6 +1,6 @@
-device-name: 'ODROID-C4'
+device-name: 'odroidc4'
 device-vendor: 'HardKernel'
-device-model-name: 'odroidc4'
+device-model-name: 'ODROID-C4'
 device-description: null
 roms: 
   - 

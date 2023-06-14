@@ -1,6 +1,6 @@
-device-name: 'Zero'
+device-name: 'radxa0'
 device-vendor: 'Radxa'
-device-model-name: 'radxa0'
+device-model-name: 'Zero'
 device-description: null
 roms: 
   - 

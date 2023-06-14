@@ -1,6 +1,6 @@
-device-name: 'M5'
+device-name: 'm5'
 device-vendor: 'Banana Pi'
-device-model-name: 'm5'
+device-model-name: 'M5'
 device-description: null
 roms: 
   - 
