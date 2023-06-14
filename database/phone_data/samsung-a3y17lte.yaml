@@ -10,4 +10,10 @@ recoveries:
     recovery-state: 'Current'
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/samsung/samsunggalaxya32017.html'
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Discontinued'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/a3y17lte'
 

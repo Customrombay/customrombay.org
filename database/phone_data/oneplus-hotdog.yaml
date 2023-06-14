@@ -72,4 +72,10 @@ recoveries:
     recovery-state: 'Unmaintained'
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/oneplus/oneplus7tpro.html'
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Discontinued'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/hotdog'
 

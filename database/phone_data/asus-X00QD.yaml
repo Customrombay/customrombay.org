@@ -19,4 +19,11 @@ roms:
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#X00QD'
 
-recoveries: null
+recoveries: 
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Official'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/x00qd'
+

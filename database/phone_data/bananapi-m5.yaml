@@ -1,0 +1,14 @@
+device-name: 'M5'
+device-vendor: 'Banana Pi'
+device-model-name: 'm5'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/m5/'
+
+recoveries: null

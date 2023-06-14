@@ -40,6 +40,22 @@ roms:
     rom-notes: 'MIUI 11'
     rom-webpage: 'https://xiaomi.eu/community/'
     phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/'
+  - 
+    rom-name: 'PixelExperience'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/chiron/'
+  - 
+    rom-name: 'PixelExperience Plus'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/chiron/'
 
 recoveries: 
   - 
@@ -48,4 +64,10 @@ recoveries:
     recovery-state: 'Current'
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomimimix2.html'
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Discontinued'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/chiron'
 
