@@ -358,10 +358,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "508356e7a37d6743db8a0483a65f77da5d28b9b5"
+      resolved-ref: "8dad8bc90b08902d74b478761f7a71ad88e2f4d9"
       url: "https://github.com/piotrzpl/staurolite"
     source: git
-    version: "1.1.8"
+    version: "1.2.0"
   stream_channel:
     dependency: transitive
     description:

@@ -24,14 +24,26 @@ class PageBase {
           GoogleAnalytics(
             tagid: "G-S2SPCWG41N"
           ),
+          // Script(
+          //   script: """""",
+          //   async: true,
+          //   src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3824950651657334",
+          //   crossorigin: "anonymous"
+          // ),
+          // Script(
+          //   script: """(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',6034719,document.body||document.documentElement)"""
+          // ),
           Script(
-            script: """""",
-            async: true,
-            src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3824950651657334",
-            crossorigin: "anonymous"
+            src: "https://cdn.prplads.com/load.js?publisherId=ce43a606e34ae09e834a1177c1a60f21:8e3b0d5054c4f560f31fce8ebaed8e82dffc285338570e521b8964d3d39c3d8ada634607fb957dadf1551a56978dc8e4424604a1cc1ab223a325d7c721685fd6",
+            id: "purpleads-client",
+            defer: true
           ),
-          Script(
-            script: """(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',6034719,document.body||document.documentElement)"""
+          CustomComponent(
+            html: """<script src="https://cdn.prplads.com/video-agent.js?publisherId=ed55d100f55bb6f6c1d8c738d92224c7:1b2beddb65636a91a650adc8259c9a9a4c4e7791ac72be5b20a4fb6828093748a6f4150b9f0d0bf41c959967f692ff7cd8c7e16f3321d76647aa3d86cab32c4f" defer></script>"""
+          ),
+          Meta(
+            name: "purpleads-verification",
+            content: "7a72f9d7e94be898a0c3d129"
           ),
           Meta(
             charset: "UTF-8"
