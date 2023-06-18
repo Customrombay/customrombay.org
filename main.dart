@@ -51,11 +51,13 @@ void main() async {
         ).toHtmlDoc(),
         AboutPage(text: await getAboutDetails()).toHtmlDoc(),
         ContributingPage(text: await getContributingDetails()).toHtmlDoc()
-      ] + await renderDevicePages()
+      ] + await renderDevicePages(),
+      baseUrl: "https://customrombay.org",
     ),
     customConfigPath: "tailwind.config.js",
     buildIndexJSON: true,
-    shortenIndexJSONPaths: true
+    shortenIndexJSONPaths: true,
+    buildSiteMap: true,
   );
 }
 

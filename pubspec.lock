@@ -358,10 +358,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "8dad8bc90b08902d74b478761f7a71ad88e2f4d9"
+      resolved-ref: f72c0d7ded55e01193f9098006be2b57e6f4cd55
       url: "https://github.com/piotrzpl/staurolite"
     source: git
-    version: "1.2.0"
+    version: "1.2.1"
   stream_channel:
     dependency: transitive
     description:
@@ -422,10 +422,10 @@ packages:
     dependency: transitive
     description:
       name: vm_service
-      sha256: f3743ca475e0c9ef71df4ba15eb2d7684eecd5c8ba20a462462e4e8b561b2e11
+      sha256: c620a6f783fa22436da68e42db7ebbf18b8c44b9a46ab911f666ff09ffd9153f
       url: "https://pub.dev"
     source: hosted
-    version: "11.6.0"
+    version: "11.7.1"
   watcher:
     dependency: transitive
     description:
