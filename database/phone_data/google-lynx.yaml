@@ -4,6 +4,13 @@ device-model-name: 'Pixel 7a'
 device-description: null
 roms: 
   - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/lynx/'
+  - 
     rom-name: 'EvolutionX'
     rom-support: true
     rom-state: 'Official'
