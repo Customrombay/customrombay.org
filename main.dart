@@ -3,6 +3,7 @@ import 'partials/devicePage.dart';
 import 'partials/device.dart';
 import 'partials/romForDevice.dart';
 import 'partials/recovery_for_device.dart';
+import 'partials/linux_for_device.dart';
 import 'partials/deviceVendor.dart';
 import 'partials/pageBase.dart';
 import 'partials/aboutPage.dart';
@@ -99,7 +100,7 @@ Future<List<Device>> listOfDevices() async {
         )
       ];
     }
-    List<RecoveryForDevice> listOfRecoveries =[];
+    List<RecoveryForDevice> listOfRecoveries = [];
     if (ydoc.containsKey("recoveries")) {
       if (ydoc["recoveries"] != null) {
         for (YamlMap recovery in ydoc["recoveries"]) {
@@ -116,6 +117,24 @@ Future<List<Device>> listOfDevices() async {
       }
     }
 
+    List<LinuxForDevice> listOfDistributions = [];
+    if (ydoc.containsKey("linux")) {
+      if (ydoc["linux"] != null) {
+        for (YamlMap distribution in ydoc["linux"]) {
+          listOfDistributions += [
+            LinuxForDevice(
+              distributionName: distribution["distribution-name"],
+              distributionSupport: distribution["distribution-support"],
+              distributionState: distribution["distribution-state"],
+              distributionNotes: distribution["distribution-notes"],
+              distributionWebpage: distribution["distribution-webpage"],
+              deviceWebpage: distribution["device-webpage"],
+            )
+          ];
+        }
+      }
+    }
+
     listOfDevices += [
       Device(
         deviceName: ydoc["device-name"],
@@ -123,7 +142,8 @@ Future<List<Device>> listOfDevices() async {
         deviceModelName: ydoc["device-model-name"].toString(),
         deviceDescription: ydoc["device-description"] ?? "",
         listOfRoms: listOfRoms,
-        listOfRecoveries: listOfRecoveries
+        listOfRecoveries: listOfRecoveries,
+        listOfLinuxDistributions: listOfDistributions
       )
     ];
   }
