@@ -57,3 +57,12 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/samsung/samsunggalaxys10.html'
 
+linux: 
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/beyond1lte'
+

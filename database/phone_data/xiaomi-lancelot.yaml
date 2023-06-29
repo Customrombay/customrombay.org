@@ -28,3 +28,12 @@ roms:
     phone-webpage: 'https://pixelos.net/download/lancelot'
 
 recoveries: []
+linux: 
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/lancelot'
+

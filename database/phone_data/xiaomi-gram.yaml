@@ -12,3 +12,12 @@ roms:
     phone-webpage: 'https://www.pling.com/p/1421725/'
 
 recoveries: null
+linux: 
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/gram'
+
