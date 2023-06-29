@@ -83,7 +83,7 @@ roms:
     rom-name: 'PixysOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '10'
+    android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://pixysos.com/'
     phone-webpage: 'https://pixysos.com/miatoll'
