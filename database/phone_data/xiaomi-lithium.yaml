@@ -58,3 +58,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomimimix.html'
 
+linux: null

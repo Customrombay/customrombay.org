@@ -49,3 +49,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/motorola/motorolamotoz3play.html'
 
+linux: null

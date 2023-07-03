@@ -64,3 +64,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomimia1.html'
 
+linux: null

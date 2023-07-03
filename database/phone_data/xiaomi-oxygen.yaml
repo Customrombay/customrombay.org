@@ -49,3 +49,4 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/oxygen'
 
+linux: null

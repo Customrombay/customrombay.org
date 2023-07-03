@@ -27,3 +27,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/lenovo/lenovoA6020.html'
 
+linux: null

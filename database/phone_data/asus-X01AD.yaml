@@ -56,3 +56,4 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/x01ad'
 
+linux: null

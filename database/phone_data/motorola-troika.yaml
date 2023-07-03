@@ -42,3 +42,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/motorola/motorolaoneaction.html'
 
+linux: null

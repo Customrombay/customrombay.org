@@ -33,3 +33,4 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/dreamlte'
 
+linux: null

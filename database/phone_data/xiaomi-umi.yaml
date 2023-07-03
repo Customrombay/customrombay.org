@@ -43,3 +43,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomimi10.html'
 
+linux: null

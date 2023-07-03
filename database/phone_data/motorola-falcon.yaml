@@ -26,3 +26,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/motorola/motorolamotog2013.html'
 
+linux: null

@@ -26,3 +26,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/samsung/samsunggalaxys4active.html'
 
+linux: null

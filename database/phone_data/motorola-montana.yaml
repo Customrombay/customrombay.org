@@ -26,3 +26,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/motorola/motorolamotog5s.html'
 
+linux: null

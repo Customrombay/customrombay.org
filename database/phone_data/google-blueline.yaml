@@ -65,3 +65,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/google/googlepixel3.html'
 
+linux: null

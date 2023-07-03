@@ -80,3 +80,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/oneplus/oneplusnord.html'
 
+linux: null

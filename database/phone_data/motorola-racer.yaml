@@ -34,3 +34,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/motorola/motorolamotoedge.html'
 
+linux: null

@@ -33,3 +33,4 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/a10'
 
+linux: null

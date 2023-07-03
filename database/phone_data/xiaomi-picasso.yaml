@@ -51,3 +51,4 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/picasso'
 
+linux: null

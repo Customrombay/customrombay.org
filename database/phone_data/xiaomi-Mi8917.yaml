@@ -12,3 +12,4 @@ roms:
     phone-webpage: 'https://wiki.lineageos.org/devices/Mi8917/'
 
 recoveries: []
+linux: null

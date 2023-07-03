@@ -32,3 +32,4 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/rs988'
 
+linux: null

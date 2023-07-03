@@ -26,3 +26,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/oppo/oppor5.html'
 
+linux: null

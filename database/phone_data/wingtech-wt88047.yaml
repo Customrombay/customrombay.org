@@ -26,3 +26,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/wingtech/wingtechredmi2.html'
 
+linux: null

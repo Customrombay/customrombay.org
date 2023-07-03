@@ -1,0 +1,15 @@
+device-name: 'rhode'
+device-vendor: 'Motorola'
+device-model-name: 'moto g52'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/rhode/'
+
+recoveries: null
+linux: null

@@ -50,3 +50,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomimi9lite.html'
 
+linux: null

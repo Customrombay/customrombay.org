@@ -19,3 +19,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/huawei/huaweip20lite.html'
 
+linux: null

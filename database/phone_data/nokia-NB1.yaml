@@ -28,3 +28,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/nokia/nokia8.html'
 
+linux: null

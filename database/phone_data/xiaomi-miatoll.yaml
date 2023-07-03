@@ -104,3 +104,4 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/miatoll'
 
+linux: null

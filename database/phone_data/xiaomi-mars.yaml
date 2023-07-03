@@ -51,3 +51,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomimi11pro.html'
 
+linux: null

@@ -33,3 +33,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/asus/asuszenfonemaxm1.html'
 
+linux: null

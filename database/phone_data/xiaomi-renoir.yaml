@@ -43,3 +43,4 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomimi11lite5g.html'
 
+linux: null
