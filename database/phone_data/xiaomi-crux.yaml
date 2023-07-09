@@ -1,0 +1,16 @@
+device-name: 'crux'
+device-vendor: 'Xiaomi'
+device-model-name: 'Mi 9 Pro'
+device-description: null
+roms: 
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: 'MIUI 13'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/'
+
+recoveries: []
+linux: null

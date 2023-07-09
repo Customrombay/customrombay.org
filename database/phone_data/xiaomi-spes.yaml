@@ -55,9 +55,9 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: ''
-    rom-notes: 'MIUI 13'
+    rom-notes: 'MIUI 14'
     rom-webpage: 'https://xiaomi.eu/community/'
-    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
 
 recoveries: null
 linux: null
