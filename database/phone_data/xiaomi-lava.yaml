@@ -26,6 +26,14 @@ roms:
     android-version: '12'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#lava'
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
 
 recoveries: null
 linux: null

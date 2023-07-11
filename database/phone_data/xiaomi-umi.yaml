@@ -42,6 +42,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://paranoidandroid.co/'
     phone-webpage: 'https://paranoidandroid.co/umi'
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
 
 recoveries: 
   - 

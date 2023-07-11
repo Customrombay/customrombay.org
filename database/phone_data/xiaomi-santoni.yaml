@@ -47,6 +47,14 @@ roms:
     rom-notes: 'MIUI 10'
     rom-webpage: 'https://xiaomi.eu/community/'
     phone-webpage: 'https://xiaomi.eu/community/'
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
 
 recoveries: 
   - 

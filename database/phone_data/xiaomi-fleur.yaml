@@ -1,0 +1,14 @@
+device-name: 'fleur'
+device-vendor: 'Xiaomi'
+device-model-name: 'POCO M4 Pro / Redmi Note 11S'
+device-description: null
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomi_pocom4pro_redminote11s.html'
+
+linux: null

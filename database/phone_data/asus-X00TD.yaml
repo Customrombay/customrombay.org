@@ -86,6 +86,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/X00T'
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
 
 recoveries: 
   - 
