@@ -1,0 +1,16 @@
+device-name: 'certus'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi 6 / Redmi 6a'
+device-description: null
+roms: 
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
+
+recoveries: []
+linux: null
