@@ -1,0 +1,8 @@
+device-name: 'pi3'
+device-vendor: 'Raspberry'
+device-model-name: 'Pi 3'
+device-description: null
+roms: []
+recoveries: null
+linux: []
+

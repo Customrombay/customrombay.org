@@ -1,0 +1,15 @@
+device-name: 'pi'
+device-vendor: 'Raspberry'
+device-model-name: 'Pi 1 & 2'
+device-description: null
+roms: []
+recoveries: null
+linux: 
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/rpi'
+

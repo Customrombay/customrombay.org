@@ -50,4 +50,12 @@ roms:
     phone-webpage: 'https://pixysos.com/z2_plus'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/zuk_z2_plus'
+

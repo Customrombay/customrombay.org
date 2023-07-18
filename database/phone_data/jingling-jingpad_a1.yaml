@@ -1,0 +1,15 @@
+device-name: 'jingpad_a1'
+device-vendor: 'Jingling'
+device-model-name: 'JingPad A1'
+device-description: null
+roms: []
+recoveries: null
+linux: 
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/jingpad_a1'
+
