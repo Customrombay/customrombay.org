@@ -4,5 +4,12 @@ device-model-name: 'Pinebook Pro'
 device-description: null
 roms: []
 recoveries: null
-linux: []
+linux:
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Community'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/PINE64_Pinebook_Pro_(pine64-pinebookpro)'
 

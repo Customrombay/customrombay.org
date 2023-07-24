@@ -3,7 +3,13 @@ device-vendor: 'Samsung'
 device-model-name: 'Galaxy A53 5G'
 device-description: null
 roms: []
-
 recoveries: []
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Samsung_Galaxy_A53_5G_(samsung-a53x)'
 
-linux: null

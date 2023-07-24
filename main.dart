@@ -126,7 +126,7 @@ Future<List<Device>> listOfDevices() async {
               distributionName: distribution["distribution-name"],
               distributionSupport: distribution["distribution-support"],
               distributionState: distribution["distribution-state"],
-              distributionNotes: distribution["distribution-notes"],
+              distributionNotes: distribution["distribution-notes"] ?? "",
               distributionWebpage: distribution["distribution-webpage"],
               deviceWebpage: distribution["device-webpage"],
             )

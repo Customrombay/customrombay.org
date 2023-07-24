@@ -50,4 +50,12 @@ roms:
     phone-webpage: 'https://evolution-x.org/device/sunfish'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Google_Pixel_4a_(google-sunfish)'
+

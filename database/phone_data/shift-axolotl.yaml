@@ -19,4 +19,11 @@ roms:
     phone-webpage: 'https://doc.e.foundation/devices/axolotl'
 
 recoveries: null
-linux: null
+linux:
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Community'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/SHIFT_SHIFT6mq_(shift-axolotl)'

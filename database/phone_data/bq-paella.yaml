@@ -12,4 +12,11 @@ roms:
     phone-webpage: 'https://wiki.lineageos.org/devices/paella/'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Community'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/BQ_Aquaris_X5_(bq-paella)'

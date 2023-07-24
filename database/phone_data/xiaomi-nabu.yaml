@@ -21,4 +21,12 @@ roms:
     phone-webpage: 'https://sourceforge.net/projects/superioros/'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_Pad_5_(xiaomi-nabu)'
+

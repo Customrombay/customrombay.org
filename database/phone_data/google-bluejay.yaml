@@ -35,4 +35,12 @@ roms:
     phone-webpage: 'https://paranoidandroid.co/bluejay'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Google_Pixel_6a_(google-bluejay)'
+

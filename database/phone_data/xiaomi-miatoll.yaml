@@ -120,4 +120,12 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/miatoll'
 
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_POCO_M2_Pro_/_Redmi_Note_9S_/_Redmi_Note_9_Pro_/_Redmi_Note_9_Pro_Max_/_Redmi_Note_10_Lite_(xiaomi-miatoll)'
+

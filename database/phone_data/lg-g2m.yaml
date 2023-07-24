@@ -12,4 +12,12 @@ roms:
     phone-webpage: 'https://wiki.lineageos.org/devices/g2m/'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/LG_G2_mini_(lg-g2m)'
+

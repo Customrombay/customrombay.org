@@ -81,4 +81,12 @@ roms:
     phone-webpage: 'https://downloads.cherishos.com/'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_POCO_F2_Pro_(xiaomi-lmi)'
+

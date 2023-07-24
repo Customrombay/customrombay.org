@@ -19,4 +19,12 @@ roms:
     phone-webpage: 'https://doc.e.foundation/devices/castor'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Sony_Xperia_Z2_Tablet_LTE_(sony-castor)'
+

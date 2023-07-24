@@ -12,4 +12,12 @@ roms:
     phone-webpage: 'https://wiki.lineageos.org/devices/n1awifi/'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Note_10.1_2014_(samsung-n1awifi)'
+

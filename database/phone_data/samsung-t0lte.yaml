@@ -19,4 +19,12 @@ roms:
     phone-webpage: 'https://doc.e.foundation/devices/t0lte'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Note_II_LTE_(samsung-t0lte)'
+

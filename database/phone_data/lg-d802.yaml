@@ -19,4 +19,12 @@ roms:
     phone-webpage: 'https://doc.e.foundation/devices/d802'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/LG_G2_International_(lg-d802)'
+

@@ -28,4 +28,12 @@ roms:
     phone-webpage: 'https://crdroid.net/downloads#redwood'
 
 recoveries: []
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_POCO_X5_Pro_/_Redmi_Note_12_Pro_Speed_(xiaomi-redwood)'
+
