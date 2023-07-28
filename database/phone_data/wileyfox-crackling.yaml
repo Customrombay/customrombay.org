@@ -32,7 +32,7 @@ recoveries:
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/crackling'
 
-linux:
+linux: 
   - 
     distribution-name: 'PostmarketOS'
     distribution-support: true
@@ -40,3 +40,4 @@ linux:
     distribution-notes: null
     distribution-webpage: 'https://postmarketos.org/'
     device-webpage: 'https://wiki.postmarketos.org/wiki/Wileyfox_Swift_(wileyfox-crackling)'
+
