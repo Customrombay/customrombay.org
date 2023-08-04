@@ -12,4 +12,12 @@ roms:
     phone-webpage: 'https://wiki.lineageos.org/devices/pro1x/'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Focal'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/pro1x'
+

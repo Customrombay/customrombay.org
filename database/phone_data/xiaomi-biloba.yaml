@@ -1,0 +1,14 @@
+device-name: 'biloba'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi Note 8 (2021)'
+device-description: null
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Official'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/biloba'
+
+linux: null

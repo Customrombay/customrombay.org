@@ -123,7 +123,7 @@ linux:
   - 
     distribution-name: 'PostmarketOS'
     distribution-support: true
-    distribution-state: 'Non-booting'
+    distribution-state: 'Testing'
     distribution-notes: null
     distribution-webpage: 'https://postmarketos.org/'
     device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_Mi_9T_/_Redmi_K20_(xiaomi-davinci)'
