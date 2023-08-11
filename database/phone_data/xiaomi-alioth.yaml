@@ -125,5 +125,5 @@ linux:
     distribution-state: 'Testing'
     distribution-notes: null
     distribution-webpage: 'https://postmarketos.org/'
-    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_Poco_F3_(xiaomi-alioth)'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_POCO_F3_(xiaomi-alioth)'
 

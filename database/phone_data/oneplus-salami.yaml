@@ -1,0 +1,15 @@
+device-name: 'salami'
+device-vendor: 'OnePlus'
+device-model-name: '11 5G'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#salami'
+
+recoveries: []
+linux: []

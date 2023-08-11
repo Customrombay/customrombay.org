@@ -1,0 +1,15 @@
+device-name: 'PNX_sprout'
+device-vendor: 'Nokia'
+device-model-name: '8.1'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#PNX_sprout'
+
+recoveries: []
+linux: null

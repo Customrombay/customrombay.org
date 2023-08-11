@@ -1,0 +1,15 @@
+device-name: 'g3ds'
+device-vendor: 'LG'
+device-model-name: 'G3 (dualsim)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '10'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#g3ds'
+
+recoveries: []
+linux: null

@@ -1,0 +1,38 @@
+device-name: 'honami'
+device-vendor: 'Sony'
+device-model-name: 'Xperia Z1'
+device-description: null
+roms: 
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/sony/sonyxperiaz1.html'
+
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Sony_Xperia_Z1_(sony-honami)'
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/honami'
+

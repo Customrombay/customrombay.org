@@ -1,0 +1,15 @@
+device-name: 'nx659j'
+device-vendor: 'Nubia'
+device-model-name: 'Red Magic 5G / Red Magic 5S'
+device-description: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/nx659j/'
+
+recoveries: []
+linux: null

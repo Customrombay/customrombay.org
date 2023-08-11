@@ -1,0 +1,23 @@
+device-name: 'RMX1901'
+device-vendor: 'Realme'
+device-model-name: 'X'
+device-description: ''
+roms: 
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
+
+recoveries: 
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Discontinued'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/rmx1901'
+
+linux: null

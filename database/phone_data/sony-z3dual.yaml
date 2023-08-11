@@ -1,0 +1,15 @@
+device-name: 'z3dual'
+device-vendor: 'Sony'
+device-model-name: 'Xperia Z3 Dual'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#z3dual'
+
+recoveries: null
+linux: null

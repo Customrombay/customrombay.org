@@ -1,0 +1,15 @@
+device-name: 'lunaa'
+device-vendor: 'Realme'
+device-model-name: 'GT Master Editon'
+device-description: ''
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#lunaa'
+
+recoveries: null
+linux: null

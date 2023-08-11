@@ -7,7 +7,7 @@ recoveries:
   - 
     recovery-name: 'OrangeFox'
     recovery-support: true
-    recovery-state: 'Official'
+    recovery-state: 'Discontinued'
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/biloba'
 

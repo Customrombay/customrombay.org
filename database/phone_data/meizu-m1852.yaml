@@ -1,0 +1,15 @@
+device-name: 'm1852'
+device-vendor: 'Meizu'
+device-model-name: 'X8'
+device-description: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '11'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#m1852'
+
+recoveries: null
+linux: null

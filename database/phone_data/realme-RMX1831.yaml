@@ -1,0 +1,16 @@
+device-name: 'RMX1831'
+device-vendor: 'Realme'
+device-model-name: 'U1'
+device-description: ''
+roms: 
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '11'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://downloads.cherishos.com/'
+
+recoveries: null
+linux: null
