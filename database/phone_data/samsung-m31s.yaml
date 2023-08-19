@@ -1,0 +1,16 @@
+device-name: 'm31s'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy M31s'
+device-description: null
+roms: 
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/m31s'
+
+recoveries: []
+linux: []

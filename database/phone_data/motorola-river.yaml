@@ -64,6 +64,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://cherishos.com/'
     phone-webpage: 'https://downloads.cherishos.com/'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RisingTechOSS/android'
+    phone-webpage: 'https://sourceforge.net/projects/fpsensor-builds/files/river/RisingOSS/risingOS-v1.1-Babylon-202305192328-river-CORE-OFFICIAL.zip/download'
 
 recoveries: 
   - 

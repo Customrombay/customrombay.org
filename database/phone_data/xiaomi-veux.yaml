@@ -53,7 +53,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#veux'
@@ -73,6 +73,22 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://cherishos.com/'
     phone-webpage: 'https://downloads.cherishos.com/'
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/veux'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RisingTechOSS/android'
+    phone-webpage: 'https://drive.google.com/file/d/1XalRVIOIPww_jsrVMneaxZNUiZRfDNTh/view?usp=drive_link'
 
 recoveries: null
 linux: null

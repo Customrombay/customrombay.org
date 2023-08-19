@@ -17,6 +17,14 @@ roms:
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#hawao'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RisingTechOSS/android'
+    phone-webpage: 'https://sourceforge.net/projects/dhrv00-releases/files/RisingOS/risingOS-v1.2-Caspian-RELEASE-202307130506-hawao-GAPPS-OFFICIAL.zip/download'
 
 recoveries: null
 linux: null

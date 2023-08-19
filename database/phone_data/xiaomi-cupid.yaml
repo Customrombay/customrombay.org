@@ -21,4 +21,12 @@ roms:
     phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
 
 recoveries: []
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_12_(xiaomi-cupid)'
+

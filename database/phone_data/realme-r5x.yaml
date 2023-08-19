@@ -58,6 +58,30 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://cherishos.com/'
     phone-webpage: 'https://downloads.cherishos.com/'
+  - 
+    rom-name: 'AlphaDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
+    phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/r5x/'
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/r5x'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RisingTechOSS/android'
+    phone-webpage: ''
 
 recoveries: null
 linux: null

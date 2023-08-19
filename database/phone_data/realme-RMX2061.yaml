@@ -22,10 +22,18 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#RMX2061'
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/RMX2061'
 
 recoveries: null
 linux: null

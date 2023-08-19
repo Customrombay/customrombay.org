@@ -1,0 +1,14 @@
+device-name: 'beyond0qlte'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S10e (Snapdragon)'
+device-description: null
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxyS10Eqcom.html'
+
+linux: null

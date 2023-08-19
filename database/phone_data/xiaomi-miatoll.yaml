@@ -7,7 +7,7 @@ roms:
     rom-name: 'LineageOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '12L'
+    android-version: '13'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/miatoll/'
   - 
@@ -111,6 +111,22 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://cherishos.com/'
     phone-webpage: 'https://downloads.cherishos.com/'
+  - 
+    rom-name: 'AlphaDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
+    phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/miatoll/'
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/miatoll'
 
 recoveries: 
   - 

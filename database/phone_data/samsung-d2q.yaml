@@ -1,0 +1,20 @@
+device-name: 'd2q'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Note 10+ (Snapdragon)'
+device-description: null
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxynote10+qcom.html'
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Discontinued'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/d2q'
+
+linux: null

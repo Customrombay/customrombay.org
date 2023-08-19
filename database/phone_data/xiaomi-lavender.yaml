@@ -21,7 +21,7 @@ roms:
   - 
     rom-name: 'PixelExperience'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
@@ -29,7 +29,7 @@ roms:
   - 
     rom-name: 'PixelExperience Plus'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://download.pixelexperience.org/'
@@ -103,6 +103,22 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://cherishos.com/'
     phone-webpage: 'https://downloads.cherishos.com/'
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/lavender'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RisingTechOSS/android'
+    phone-webpage: 'https://sourceforge.net/projects/fpsensor-builds/files/lavender/riceDroid/10.2/riceDroid-13.0-202302131844-lavender-v10.2-PIXEL-OFFICIAL.zip/download'
 
 recoveries: 
   - 

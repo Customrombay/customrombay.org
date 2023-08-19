@@ -57,4 +57,12 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/google/googlepixel3axl.html'
 
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Google_Pixel_3a_XL_(google-bonito)'
+

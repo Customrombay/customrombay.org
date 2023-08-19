@@ -1,0 +1,14 @@
+device-name: 'd1q'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Note 10 (Snapdragon)'
+device-description: null
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxynote10qcom.html'
+
+linux: null
