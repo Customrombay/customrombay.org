@@ -127,6 +127,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/miatoll'
+  - 
+    rom-name: 'AwakenOS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://awakenos.vercel.app/'
+    phone-webpage: 'https://awakenos.vercel.app/downloads/miatoll'
 
 recoveries: 
   - 

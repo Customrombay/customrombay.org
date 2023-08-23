@@ -48,7 +48,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://sourceforge.net/projects/risingos-for-bluejay/files/Tiramisu/OTAs/risingOS-v1.3-Dvaraka-BETA-202308132307-bluejay-GAPPS-OFFICIAL.zip/download'
+    phone-webpage: 'https://sourceforge.net/projects/risingos-for-bluejay/files/Tiramisu/OTAs/risingOS-v1.3-Dvaraka-RELEASE-202308190022-bluejay-GAPPS-OFFICIAL.zip/download'
 
 recoveries: null
 linux: 
