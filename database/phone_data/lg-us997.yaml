@@ -18,6 +18,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://havoc-os.com/'
     phone-webpage: 'https://havoc-os.com/device#us997'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/us997/'
 
 recoveries: 
   - 

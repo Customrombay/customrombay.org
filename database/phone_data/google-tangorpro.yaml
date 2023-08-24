@@ -10,6 +10,22 @@ roms:
     android-version: '13'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/tangorpro/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/tangorpro/'
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/tangorpro'
 
 recoveries: null
 linux: []

@@ -17,6 +17,14 @@ roms:
     android-version: '12'
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/mata'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/mata/'
 
 recoveries: 
   - 

@@ -80,6 +80,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/X01BD'
+  - 
+    rom-name: 'DerpFest'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-notes: ''
+    rom-webpage: 'https://derpfest.org/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/asus/'
 
 recoveries: 
   - 

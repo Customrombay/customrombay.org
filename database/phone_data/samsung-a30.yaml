@@ -2,7 +2,16 @@ device-name: 'a30'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A30'
 device-description: null
-roms: []
+roms: 
+  - 
+    rom-name: 'DerpFest'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://derpfest.org/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/samsung/'
+
 recoveries: 
   - 
     recovery-name: 'TWRP'

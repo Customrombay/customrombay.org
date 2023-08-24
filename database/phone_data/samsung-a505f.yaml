@@ -2,7 +2,16 @@ device-name: 'a505f'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A50'
 device-description: null
-roms: []
+roms: 
+  - 
+    rom-name: 'DerpFest'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '12'
+    rom-notes: ''
+    rom-webpage: 'https://derpfest.org/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/samsung/'
+
 recoveries: 
   - 
     recovery-name: 'TWRP'

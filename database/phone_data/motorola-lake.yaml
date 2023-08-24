@@ -47,6 +47,14 @@ roms:
     android-version: '11'
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/lake'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/lake/'
 
 recoveries: 
   - 
