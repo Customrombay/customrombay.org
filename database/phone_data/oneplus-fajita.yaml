@@ -94,7 +94,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://master.dl.sourceforge.net/project/ricedroid-oneplus-6-t/risingos/fajita/risingOS-v1.0-Atlantis-202304251500-fajita-GAPPS-OFFICIAL.zip'
+    phone-webpage: 'https://master.dl.sourceforge.net/project/ricedroid-oneplus-6-t/risingos/fajita/risingOS-v1.3.1-Damascus-RELEASE-202308260702-fajita-GAPPS-OFFICIAL.zip'
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true

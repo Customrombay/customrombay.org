@@ -73,4 +73,11 @@ linux:
     distribution-notes: null
     distribution-webpage: 'https://postmarketos.org/'
     device-webpage: 'https://wiki.postmarketos.org/wiki/Google_Pixel_3a_XL_(google-bonito)'
+  - 
+    distribution-name: 'Ubuntu Touch'
+    distribution-support: true
+    distribution-state: 'Official'
+    distribution-notes: 'Xenial & Focal'
+    distribution-webpage: 'https://ubuntu-touch.io/'
+    device-webpage: 'https://devices.ubuntu-touch.io/device/bonito'
 

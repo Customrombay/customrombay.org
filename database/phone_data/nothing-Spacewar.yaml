@@ -58,7 +58,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://master.dl.sourceforge.net/project/risingos-np1/risingOS-v1.2.5-Camelot-RELEASE-202307231615-Spacewar-GAPPS-OFFICIAL.zip'
+    phone-webpage: 'https://master.dl.sourceforge.net/project/risingos-np1/risingOS-v1.3.1-Damascus-RELEASE-202308261241-Spacewar-GAPPS-OFFICIAL.zip'
   - 
     rom-name: 'DerpFest'
     rom-support: true
