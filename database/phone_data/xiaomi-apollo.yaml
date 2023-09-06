@@ -102,7 +102,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
-    phone-webpage: 'https://projectelixiros.com/device/apollon'
+    phone-webpage: 'https://projectelixiros.com/device/apollo'
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true

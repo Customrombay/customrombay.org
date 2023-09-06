@@ -37,4 +37,12 @@ roms:
     phone-webpage: 'https://awakenos.vercel.app/downloads/porsche'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Realme_GT_2_(realme-porsche)'
+
