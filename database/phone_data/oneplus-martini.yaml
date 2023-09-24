@@ -57,7 +57,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://files.inferno0230.in/release/risingOS-v1.3-Dvaraka-RELEASE-202308180347-martini-CORE-OFFICIAL.zip'
+    phone-webpage: 'https://files.inferno0230.in/release/risingOS-v1.4-Elysium-FINAL-202309120818-martini-GAPPS-OFFICIAL.zip'
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true

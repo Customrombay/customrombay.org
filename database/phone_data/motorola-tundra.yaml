@@ -11,6 +11,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://awakenos.vercel.app/'
     phone-webpage: 'https://awakenos.vercel.app/downloads/tundra'
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://pixelos.net/download/tundra'
 
 recoveries: []
 linux: []

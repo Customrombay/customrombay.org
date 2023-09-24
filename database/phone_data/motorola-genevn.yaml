@@ -1,6 +1,6 @@
-device-name: 'hanoip'
+device-name: 'genevn'
 device-vendor: 'Motorola'
-device-model-name: 'moto g40 Fusion'
+device-model-name: 'moto g Stylus 5G (2023)'
 device-description: null
 roms: []
 recoveries: 
@@ -9,6 +9,6 @@ recoveries:
     recovery-support: true
     recovery-state: 'Current'
     recovery-webpage: 'https://twrp.me/'
-    device-webpage: 'https://twrp.me/motorola/motorolamotog60g40fusion.html'
+    device-webpage: 'https://twrp.me/motorola/motorolamotogstylus5g2023.html'
 
 linux: null

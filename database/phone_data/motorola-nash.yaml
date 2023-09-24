@@ -21,7 +21,7 @@ roms:
     rom-name: 'LibreMobileOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '12'
+    android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/nash/'

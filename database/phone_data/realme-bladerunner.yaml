@@ -26,7 +26,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://sourceforge.net/projects/aamir-ali-build-support/files/Bladerunner/RisingOS/risingOS-v1.3.1-Damascus-RELEASE-202308281219-bladerunner-GAPPS-OFFICIAL.zip/download'
+    phone-webpage: 'https://sourceforge.net/projects/aamir-ali-build-support/files/Bladerunner/RisingOS/risingOS-v1.4-Elysium-FINAL-202309210500-bladerunner-GAPPS-OFFICIAL.zip/download'
   - 
     rom-name: 'Project Elixir'
     rom-support: true

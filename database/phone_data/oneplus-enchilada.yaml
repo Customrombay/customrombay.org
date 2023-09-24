@@ -87,7 +87,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://master.dl.sourceforge.net/project/ricedroid-oneplus-6-t/risingos/enchilada/risingOS-v1.3.1-Damascus-RELEASE-202308260810-enchilada-GAPPS-OFFICIAL.zip'
+    phone-webpage: 'https://master.dl.sourceforge.net/project/ricedroid-oneplus-6-t/enchilada/risingOS-v1.4-Elysium-FINAL-202309041532-enchilada-GAPPS-OFFICIAL.zip'
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true

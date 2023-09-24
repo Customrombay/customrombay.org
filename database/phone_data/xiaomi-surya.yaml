@@ -143,7 +143,7 @@ linux:
     distribution-name: 'Ubuntu Touch'
     distribution-support: true
     distribution-state: 'Official'
-    distribution-notes: 'Xenial'
+    distribution-notes: 'Xenial & Focal'
     distribution-webpage: 'https://ubuntu-touch.io/'
     device-webpage: 'https://devices.ubuntu-touch.io/device/surya'
   - 
