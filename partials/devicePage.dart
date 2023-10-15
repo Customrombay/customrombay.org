@@ -56,9 +56,9 @@ class DevicePage {
               listOfRoms: device.listOfRoms
             )
             : null,
-            CustomComponent(
-              html: """<div><script src="https://cdn.prplads.com/agent.js?publisherId=95d8c0eb4d31ad8972e400ce8b2736db:756cb357266ee67ce3af46682e6ab011e7989a150372cdc74cd326319dd3eac7be11adc5061290fec8770e26e1a17b15d3605bc7c84b1c47d0b29305a4a02d97" data-pa-tag defer></script></div>"""
-            ),
+            // CustomComponent(
+            //   html: """<div><script src="https://cdn.prplads.com/agent.js?publisherId=95d8c0eb4d31ad8972e400ce8b2736db:756cb357266ee67ce3af46682e6ab011e7989a150372cdc74cd326319dd3eac7be11adc5061290fec8770e26e1a17b15d3605bc7c84b1c47d0b29305a4a02d97" data-pa-tag defer></script></div>"""
+            // ),
             device.listOfRecoveries.length > 0 ?  Heading(
               level: 2,
               text: "Custom recoveries"
@@ -69,9 +69,9 @@ class DevicePage {
             device.listOfRecoveries.length > 0 ?  RecoveryTable(
               listOfRecoveries: device.listOfRecoveries
             ) : null,
-            CustomComponent(
-              html: """<div><script src="https://cdn.prplads.com/agent.js?publisherId=95d8c0eb4d31ad8972e400ce8b2736db:756cb357266ee67ce3af46682e6ab011e7989a150372cdc74cd326319dd3eac7be11adc5061290fec8770e26e1a17b15d3605bc7c84b1c47d0b29305a4a02d97" data-pa-tag defer></script></div>"""
-            ),
+            // CustomComponent(
+            //   html: """<div><script src="https://cdn.prplads.com/agent.js?publisherId=95d8c0eb4d31ad8972e400ce8b2736db:756cb357266ee67ce3af46682e6ab011e7989a150372cdc74cd326319dd3eac7be11adc5061290fec8770e26e1a17b15d3605bc7c84b1c47d0b29305a4a02d97" data-pa-tag defer></script></div>"""
+            // ),
             device.listOfLinuxDistributions.length > 0 ?  Heading(
               level: 2,
               text: "Linux distributions"

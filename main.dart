@@ -191,9 +191,9 @@ Future<List<Div>> deviceShows() async {
       Div(
         properties: "col-span-1 md:col-span-2 lg:col-span-3 text-3xl font-semibold",
         children: [
-          CustomComponent(
-            html: """<div><script src="https://cdn.prplads.com/agent.js?publisherId=95d8c0eb4d31ad8972e400ce8b2736db:756cb357266ee67ce3af46682e6ab011e7989a150372cdc74cd326319dd3eac7be11adc5061290fec8770e26e1a17b15d3605bc7c84b1c47d0b29305a4a02d97" data-pa-tag defer></script></div>"""
-          ),
+          // CustomComponent(
+          //   html: """<div><script src="https://cdn.prplads.com/agent.js?publisherId=95d8c0eb4d31ad8972e400ce8b2736db:756cb357266ee67ce3af46682e6ab011e7989a150372cdc74cd326319dd3eac7be11adc5061290fec8770e26e1a17b15d3605bc7c84b1c47d0b29305a4a02d97" data-pa-tag defer></script></div>"""
+          // ),
           Paragraph(
             text: "${vendor.vendorName}: ${vendor.listOfDevices.length} $deviceText"
           )
