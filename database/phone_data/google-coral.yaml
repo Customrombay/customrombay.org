@@ -86,6 +86,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/coral/'
+  - 
+    rom-name: 'BlissROM'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: ''
+    rom-webpage: 'https://blissroms.org/'
+    phone-webpage: 'https://downloads.blissroms.org/download/coral/'
 
 recoveries: 
   - 

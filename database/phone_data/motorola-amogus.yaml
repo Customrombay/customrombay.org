@@ -1,0 +1,16 @@
+device-name: 'amogus'
+device-vendor: 'Motorola'
+device-model-name: 'moto g8 / moto g8 Plus / moto g Power (2020) / moto g Fast (2020)'
+device-description: null
+roms: 
+  - 
+    rom-name: 'BlissROM'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: ''
+    rom-webpage: 'https://blissroms.org/'
+    phone-webpage: 'https://downloads.blissroms.org/download/amogus/'
+
+recoveries: []
+linux: null

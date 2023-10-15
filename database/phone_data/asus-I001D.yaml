@@ -17,6 +17,14 @@ roms:
     android-version: '10'
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/I001D'
+  - 
+    rom-name: 'BlissROM'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: ''
+    rom-webpage: 'https://blissroms.org/'
+    phone-webpage: 'https://downloads.blissroms.org/download/I001D/'
 
 recoveries: 
   - 

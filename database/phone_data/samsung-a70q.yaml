@@ -10,6 +10,14 @@ roms:
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#a70q'
+  - 
+    rom-name: 'BlissROM'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: ''
+    rom-webpage: 'https://blissroms.org/'
+    phone-webpage: 'https://downloads.blissroms.org/download/a70q/'
 
 recoveries: 
   - 

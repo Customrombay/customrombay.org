@@ -35,6 +35,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/bladerunner'
+  - 
+    rom-name: 'BlissROM'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: ''
+    rom-webpage: 'https://blissroms.org/'
+    phone-webpage: 'https://downloads.blissroms.org/download/bladerunner/'
 
 recoveries: null
 linux: null

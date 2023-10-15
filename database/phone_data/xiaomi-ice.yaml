@@ -1,0 +1,9 @@
+device-name: 'ice'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi A1 / Redmi A1+ / POCO C50'
+device-description: null
+roms: []
+
+recoveries: []
+
+linux: null
