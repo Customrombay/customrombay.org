@@ -4,6 +4,13 @@ device-model-name: 'Phone (1)'
 device-description: null
 roms: 
   - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/Spacewar/'
+  - 
     rom-name: 'PixelExperience'
     rom-support: true
     rom-state: 'Discontinued'
@@ -83,6 +90,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://paranoidandroid.co/'
     phone-webpage: 'https://paranoidandroid.co/phone1'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/Spacewar/'
 
 recoveries: null
 linux: null

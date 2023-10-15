@@ -142,7 +142,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://sourceforge.net/projects/jxs/files/rice/riceDroid-13.0-202302120737-beryllium-v10.2-AOSP-OFFICIAL.zip/download'
+    phone-webpage: 'https://sourceforge.net/projects/uploads10/files/rise/risingOS-v1.4-Elysium-FINAL-202310051816-beryllium-VANILLA-OFFICIAL.zip/download'
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true

@@ -56,7 +56,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://sourceforge.net/projects/rising-os-for-lynx/files/Official/OTA-Recovery/risingOS-v1.4-Elysium-FINAL-202309041947-lynx-GAPPS-OFFICIAL.zip/download'
+    phone-webpage: 'https://sourceforge.net/projects/rising-os-for-lynx/files/Official/OTA-Recovery/risingOS-v1.4-Elysium-FINAL-202310130038-lynx-GAPPS-OFFICIAL.zip/download'
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true

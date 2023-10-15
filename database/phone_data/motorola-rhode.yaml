@@ -24,7 +24,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://sourceforge.net/projects/dhrv00-releases/files/RisingOS/risingOS-v1.2-Caspian-RELEASE-202307130444-rhode-GAPPS-OFFICIAL.zip/download'
+    phone-webpage: 'https://sourceforge.net/projects/fpsensor-builds/files/risingOS-v1.4-Elysium-FINAL-202310111126-rhode-GAPPS-OFFICIAL.zip/download'
   - 
     rom-name: 'Project Elixir'
     rom-support: true

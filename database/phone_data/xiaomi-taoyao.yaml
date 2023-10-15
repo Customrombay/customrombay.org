@@ -12,5 +12,12 @@ roms:
     rom-webpage: 'https://xiaomi.eu/community/'
     phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
 
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomi12lite.html'
+
 linux: null

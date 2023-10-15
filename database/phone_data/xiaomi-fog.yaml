@@ -34,7 +34,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://sourceforge.net/projects/redmi10c-rom/files/RisingOS/risingOS-v1.4-Elysium-FINAL-202309131826-fog-GAPPS-OFFICIAL.zip/download'
+    phone-webpage: 'https://sourceforge.net/projects/redmi10c-rom/files/RisingOS/risingOS-v1.4-Elysium-FINAL-202309242139-fog-GAPPS-OFFICIAL.zip/download'
   - 
     rom-name: 'Project Elixir'
     rom-support: true
