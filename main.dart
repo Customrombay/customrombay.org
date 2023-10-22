@@ -4,6 +4,7 @@ import 'partials/device.dart';
 import 'partials/romForDevice.dart';
 import 'partials/recovery_for_device.dart';
 import 'partials/linux_for_device.dart';
+import 'partials/post_page.dart';
 import 'partials/deviceVendor.dart';
 import 'partials/pageBase.dart';
 import 'partials/aboutPage.dart';
@@ -51,7 +52,8 @@ void main() async {
           ]
         ).toHtmlDoc(),
         AboutPage(text: await getAboutDetails()).toHtmlDoc(),
-        ContributingPage(text: await getContributingDetails()).toHtmlDoc()
+        ContributingPage(text: await getContributingDetails()).toHtmlDoc(),
+        PostPage(text: await getPostContent(postName: "android14roms"), title: "Android 14-based custom ROMs are here!", path: "/posts/android14roms").toHtmlDoc(),
       ] + await renderDevicePages(),
       baseUrl: "https://customrombay.org",
     ),
@@ -252,5 +254,11 @@ Future<String> getAboutDetails() async {
   File aboutFile = File("README.md");
   String content = await aboutFile.readAsString();
   content = content.replaceAll("static/", "/");
+  return content;
+}
+
+Future<String> getPostContent({required String postName}) async {
+  File postFile = File("posts/$postName.md");
+  String content = await postFile.readAsString();
   return content;
 }
