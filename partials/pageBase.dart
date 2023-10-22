@@ -123,6 +123,15 @@ class PageBase {
                     properties: "grid place-items-center my-2",
                     children: [
                       Hyperlink(
+                        href: "/posts",
+                        text: "Posts"
+                      )
+                    ]
+                  ),
+                  ListItem(
+                    properties: "grid place-items-center my-2",
+                    children: [
+                      Hyperlink(
                         href: "/contributing",
                         text: "Contributing"
                       )
