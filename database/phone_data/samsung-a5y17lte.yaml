@@ -13,7 +13,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '11'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#a5y17lte'

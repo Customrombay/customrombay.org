@@ -95,6 +95,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://sourceforge.net/projects/ancientrom/'
     phone-webpage: ''
+  - 
+    rom-name: 'AlphaDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
+    phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/panther/'
 
 recoveries: null
 linux: null

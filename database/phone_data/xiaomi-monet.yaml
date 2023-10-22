@@ -6,7 +6,7 @@ roms:
   - 
     rom-name: 'LineageOS'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '12L'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/monet/'

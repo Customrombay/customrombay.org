@@ -1,6 +1,6 @@
 device-name: 'odroidc4'
 device-vendor: 'HardKernel'
-device-model-name: 'ODROID-C4'
+device-model-name: 'ODROID-C4 (Android TV)'
 device-description: null
 roms: 
   - 
