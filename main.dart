@@ -1,6 +1,7 @@
 import 'package:staurolite/staurolite.dart';
 import 'partials/devicePage.dart';
 import 'partials/device.dart';
+import 'partials/posts_gallery_page.dart';
 import 'partials/romForDevice.dart';
 import 'partials/recovery_for_device.dart';
 import 'partials/linux_for_device.dart';
@@ -53,6 +54,7 @@ void main() async {
         ).toHtmlDoc(),
         AboutPage(text: await getAboutDetails()).toHtmlDoc(),
         ContributingPage(text: await getContributingDetails()).toHtmlDoc(),
+        PostsGalleryPage().toHtmlDoc(),
         PostPage(text: await getPostContent(postName: "android14roms"), title: "Android 14-based custom ROMs are here!", path: "/posts/android14roms").toHtmlDoc(),
       ] + await renderDevicePages(),
       baseUrl: "https://customrombay.org",
