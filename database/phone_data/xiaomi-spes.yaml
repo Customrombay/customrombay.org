@@ -91,5 +91,12 @@ roms:
     rom-webpage: 'https://sourceforge.net/projects/ancientrom/'
     phone-webpage: ''
 
-recoveries: null
+recoveries: 
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Official'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/spes'
+
 linux: null
