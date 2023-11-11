@@ -21,4 +21,12 @@ roms:
     phone-webpage: 'https://sourceforge.net/projects/derpfest/files/xiaomi/'
 
 recoveries: []
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_12T_Pro_/_Redmi_K50_Ultra_(xiaomi-diting)'
+
