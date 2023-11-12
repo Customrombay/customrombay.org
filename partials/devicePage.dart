@@ -49,11 +49,16 @@ class DevicePage {
               text: "The following custom ROMs support ${device.deviceName}:"
             )
             : Paragraph(
-              text: "There are no custom ROMs available for ${device.deviceName} at this moment. If you found one, make sure to ${Hyperlink(href: "https://customrombay.org/contributing/", text: "add it").toHTML()} to ${Hyperlink(href: "https://customrombay.org/", text: "customrombay.org").toHTML()}."
+              text: "There are no custom ROMs available for ${device.deviceName} at this moment. If you found one, make sure to ${Hyperlink(href: "https://customrombay.org/contributing/", text: "add it").toHTML()} to ${Hyperlink(href: "https://customrombay.org/", text: "customrombay.org").toHTML()}. You can also try ${Hyperlink(text: "installing a GSI ROM", href:"/posts/gsi_roms/").toHTML()} on your device."
             ),
             device.listOfRoms.length > 0
             ? PhoneTable(
               listOfRoms: device.listOfRoms
+            )
+            : null,
+            device.listOfRoms.length > 0
+            ? Paragraph(
+              text: "Haven't found your favorite ROM? You can try ${Hyperlink(text: "installing it as a GSI", href: "/posts/gsi_roms/").toHTML()}!"
             )
             : null,
             // CustomComponent(
