@@ -29,6 +29,12 @@ class PostsGalleryPage {
               path: "/posts/android14roms",
               imagePath: "/post-images/android14_1.webp",
               publishDate: ""
+            ),
+            PostView(
+              title: "GSI custom ROMs - what to do if my device does not have a custom ROM support?",
+              path: "/posts/gsi_roms",
+              imagePath: "/post-images/gsi_roms_1.webp",
+              publishDate: ""
             )
           ]
         )

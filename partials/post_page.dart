@@ -1,4 +1,5 @@
 import 'package:staurolite/staurolite.dart';
+import 'author_view.dart';
 import 'pageBase.dart';
 
 class PostPage {
@@ -21,7 +22,8 @@ class PostPage {
         Article(
           properties: "prose lg:prose-xl mx-auto my-8 dark:prose-dark px-4",
           children:[
-            MarkdownElement(markdown: text)
+            MarkdownElement(markdown: text),
+            AuthorView()
           ]
         )
       ]

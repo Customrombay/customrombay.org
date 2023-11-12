@@ -56,6 +56,7 @@ void main() async {
         ContributingPage(text: await getContributingDetails()).toHtmlDoc(),
         PostsGalleryPage().toHtmlDoc(),
         PostPage(text: await getPostContent(postName: "android14roms"), title: "Android 14-based custom ROMs are here!", path: "/posts/android14roms").toHtmlDoc(),
+        PostPage(text: await getPostContent(postName: "gsi_roms"), title: "GSI custom ROMs - what to do if my device does not have a custom ROM support?", path: "/posts/gsi_roms").toHtmlDoc(),
       ] + await renderDevicePages(),
       baseUrl: "https://customrombay.org",
     ),

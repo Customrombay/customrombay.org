@@ -44,6 +44,9 @@ module.exports = {
                 DEFAULT: {
                     css: {
                         maxWidth: '80ch', // add required value here
+                        img: {
+                            maxHeight: "500px"
+                        },
                     }
                 },
                 dark: {
@@ -82,6 +85,9 @@ module.exports = {
                             color: theme("colors.white"),
                         },
                         h4: {
+                            color: theme("colors.white"),
+                        },
+                        th: {
                             color: theme("colors.white"),
                         },
                         "figure figcaption": {
