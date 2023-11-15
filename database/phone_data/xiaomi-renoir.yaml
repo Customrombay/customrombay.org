@@ -2,6 +2,49 @@ device-name: 'renoir'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 11 Lite 5G'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7350-AB Snapdragon 780G 5G'
+  gpu: 'Qualcomm Adreno 642'
+  ram: '6/8 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4250
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual speakers'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'NAVIC'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Infrared sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Ultrasound proximity sensor'
+    - 'USB OTG'
+  release: '2021-03'
 roms: 
   - 
     rom-name: 'LineageOS'

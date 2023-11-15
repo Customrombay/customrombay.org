@@ -2,6 +2,37 @@ device-name: 'albus'
 device-vendor: 'Motorola'
 device-model-name: 'moto z2 play'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8953 Pro Snapdragon 626'
+  gpu: 'Qualcomm Adreno 506'
+  ram: '4 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'Hall effect sensor'
+    - 'Sensor hub'
+    - 'Light sensor'
+    - 'Moto Mods'
+  release: '2017-06'
 roms: 
   - 
     rom-name: 'LineageOS'

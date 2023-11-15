@@ -2,6 +2,42 @@ device-name: 'xpeng'
 device-vendor: 'Motorola'
 device-model-name: 'moto g200 5G / Edge S30'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8350-AC Snapdragon 888+'
+  gpu: 'Qualcomm Adreno 660'
+  ram: '8/12 GB LPDDR5'
+  storage: '256/512 GB UFS 3.1'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2460'
+    size: 6.8
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Pedometer'
+    - 'Proximity sensor'
+    - 'Sensor hub'
+    - 'USB OTG'
+  release: '2021-12'
 roms: 
   - 
     rom-name: 'LineageOS'

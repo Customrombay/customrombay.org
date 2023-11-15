@@ -2,6 +2,7 @@ device-name: 'clover'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Pad 4'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

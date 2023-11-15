@@ -2,6 +2,7 @@ device-name: 'NB1'
 device-vendor: 'Nokia'
 device-model-name: '8'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

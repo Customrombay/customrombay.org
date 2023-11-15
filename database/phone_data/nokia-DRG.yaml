@@ -2,6 +2,32 @@ device-name: 'DRG'
 device-vendor: 'Nokia'
 device-model-name: '6.1 Plus'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM636 Snapdragon 636'
+  gpu: 'Qualcomm Adreno 509'
+  ram: '4/6 GB LPDDR4X'
+  storage: '32/64 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2280'
+    size: 5.8
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3060
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2018-08-30'
 roms: 
   - 
     rom-name: 'LineageOS'

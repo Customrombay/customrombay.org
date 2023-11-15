@@ -2,6 +2,35 @@ device-name: 'm7'
 device-vendor: 'HTC'
 device-model-name: 'One (GSM)'
 device-description: null
+specs: 
+  soc: 'Qualcomm APQ8064T Snapdragon 600'
+  gpu: 'Qualcomm Adreno 320'
+  ram: '2 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 4.7
+    technology: 'Super LCD'
+  battery: 
+    capacity: 2300
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual front speakers'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'Hall effect sensor'
+    - 'NFC'
+    - 'IR blaster'
+  release: '2013-03'
 roms: 
   - 
     rom-name: 'LineageOS'

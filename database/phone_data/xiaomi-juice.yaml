@@ -2,6 +2,7 @@ device-name: 'juice'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 9T / Redmi 9 Power / Redmi Note 9 4G and POCO M3'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

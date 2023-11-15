@@ -2,6 +2,37 @@ device-name: 'beryllium'
 device-vendor: 'Xiaomi'
 device-model-name: 'Poco F1'
 device-description: 'Something interesting about the device'
+specs: 
+  soc: 'Qualcomm SDM845 Snapdragon 845'
+  gpu: 'Qualcomm Adreno 630'
+  ram: '6/8 GB LPDDR4X'
+  storage: '64/128/256 GB UFS2.1'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2160'
+    size: 6.18
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'IR camera'
+    - 'FM radio'
+  release: '2018-08'
 roms: 
   - 
     rom-name: 'LineageOS'

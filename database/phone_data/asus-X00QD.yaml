@@ -2,6 +2,7 @@ device-name: 'X00QD'
 device-vendor: 'ASUS'
 device-model-name: 'Zenfone 5'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

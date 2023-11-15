@@ -2,6 +2,38 @@ device-name: 'kltekor'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S5 LTE (G900K/L/S)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8974AC Snapdragon 801'
+  gpu: 'Qualcomm Adreno 330'
+  ram: '2 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.1
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 2800
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Heart rate sensor'
+    - 'Motion Coprocessor'
+    - 'Accelerometer'
+    - 'Gesture sensor'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Hall effect sensor'
+    - 'RGB ambient light'
+    - 'Infrared sensor'
+  release: '2014-04'
 roms: 
   - 
     rom-name: 'LineageOS'

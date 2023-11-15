@@ -2,6 +2,7 @@ device-name: 'hima'
 device-vendor: 'HTC'
 device-model-name: 'One M9'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

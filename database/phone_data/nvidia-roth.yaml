@@ -2,6 +2,23 @@ device-name: 'roth'
 device-vendor: 'NVIDIA'
 device-model-name: 'Shield Portable'
 device-description: null
+specs: 
+  soc: 'NVIDIA Tegra 4 (T114)'
+  gpu: 'NVIDIA Tegra 4'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 7350
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 'None'
+  release: '2013-07-31'
 roms: 
   - 
     rom-name: 'LineageOS'

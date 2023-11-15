@@ -2,6 +2,41 @@ device-name: 'sunfish'
 device-vendor: 'Google'
 device-model-name: 'Pixel 4a'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7150-AB Snapdragon 730G'
+  gpu: 'Qualcomm Adreno 618'
+  ram: '6 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 60
+    resolution: '2340x1080'
+    size: 5.81
+    technology: 'AMOLED'
+  battery: 
+    capacity: 3140
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2020-08'
 roms: 
   - 
     rom-name: 'LineageOS'

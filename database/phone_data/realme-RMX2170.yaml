@@ -2,6 +2,7 @@ device-name: 'RMX2170'
 device-vendor: 'Realme'
 device-model-name: '7 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'EvolutionX'

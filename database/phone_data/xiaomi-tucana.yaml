@@ -2,6 +2,7 @@ device-name: 'tucana'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Note 10'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

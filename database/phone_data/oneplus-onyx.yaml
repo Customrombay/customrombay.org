@@ -2,6 +2,32 @@ device-name: 'onyx'
 device-vendor: 'OnePlus'
 device-model-name: 'X'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8974AC Snapdragon 801'
+  gpu: 'Qualcomm Adreno 330'
+  ram: '3 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5
+    technology: 'AMOLED'
+  battery: 
+    capacity: 2525
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Dual SIM'
+    - 'GPS'
+    - 'FM radio'
+  release: '2015-11'
 roms: 
   - 
     rom-name: 'LineageOS'

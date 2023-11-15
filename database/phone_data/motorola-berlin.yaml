@@ -2,6 +2,45 @@ device-name: 'berlin'
 device-vendor: 'Motorola'
 device-model-name: 'edge 20'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7325 Snapdragon 778G 5G'
+  gpu: 'Qualcomm Adreno 642L'
+  ram: '8 GB LPDDR4X'
+  storage: '128 GB UFS 2.2'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2400'
+    size: 6.7
+    technology: 'OLED'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'Google Assist Button'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Pedometer'
+    - 'Proximity sensor'
+    - 'Sensor hub'
+    - 'USB OTG'
+  release: '2021-07-29'
 roms: 
   - 
     rom-name: 'LineageOS'

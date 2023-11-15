@@ -2,6 +2,36 @@ device-name: 'avicii'
 device-vendor: 'OnePlus'
 device-model-name: 'Nord'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7250 Snapdragon 765G'
+  gpu: 'Qualcomm Adreno 620'
+  ram: '6/8/12 GB LPDDR4'
+  storage: '64/128/256 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '2400x1080'
+    size: 6.67
+    technology: 'Fluid AMOLED'
+  battery: 
+    capacity: 4115
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'GPS'
+  release: '2020-07-21'
 roms: 
   - 
     rom-name: 'LineageOS'

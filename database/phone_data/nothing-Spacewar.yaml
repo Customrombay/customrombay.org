@@ -2,6 +2,49 @@ device-name: 'Spacewar'
 device-vendor: 'Nothing'
 device-model-name: 'Phone (1)'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7325-AE Snapdragon 778G+ 5G'
+  gpu: 'Qualcomm Adreno 642L'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.55
+    technology: 'OLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual front speakers'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'QZSS'
+    - 'Gesture sensor'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Pedometer'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+    - 'Sensor hub'
+    - 'USB OTG'
+  release: '2022-07-12'
 roms: 
   - 
     rom-name: 'LineageOS'

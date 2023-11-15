@@ -2,6 +2,24 @@ device-name: 'redwood'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO X5 Pro 5G/Redmi Note 12 Pro Speed'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7325 Snapdragon 778G'
+  gpu: 'Qualcomm Adreno 642L'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-02'
 roms: 
   - 
     rom-name: 'xiaomi.eu'

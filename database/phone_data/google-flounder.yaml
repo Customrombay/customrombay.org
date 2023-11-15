@@ -2,6 +2,28 @@ device-name: 'flounder'
 device-vendor: 'Google'
 device-model-name: 'Nexus 9 (Wi-Fi)'
 device-description: null
+specs: 
+  soc: 'NVIDIA Tegra K1 (T124)'
+  gpu: 'NVIDIA Kepler DX1 192-core'
+  ram: '2 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2048x1536'
+    size: 8.9
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 6700
+    removable: false
+    tech: 'Li-Po'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Light sensor'
+    - 'Gyroscope'
+    - 'Hall effect sensor'
+    - 'GPS'
+  release: '2014-11-03'
 roms: 
   - 
     rom-name: 'LineageOS'

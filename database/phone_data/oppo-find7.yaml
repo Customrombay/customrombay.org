@@ -2,6 +2,36 @@ device-name: 'find7'
 device-vendor: 'OPPO'
 device-model-name: 'Find 7a/s'
 device-description: null
+specs: 
+  soc: 
+    - 'Qualcomm MSM8974AB Snapdragon 801'
+    - 'Qualcomm MSM8974AC Snapdragon 801'
+  gpu: 'Qualcomm Adreno 330'
+  ram: '2/3 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2800
+    removable: true
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Gyroscope'
+    - 'Accelerometer'
+    - 'GPS'
+    - 'GLONASS'
+    - 'NFC'
+    - 'USB OTG'
+  release: '2014-03-19'
 roms: 
   - 
     rom-name: 'LineageOS'

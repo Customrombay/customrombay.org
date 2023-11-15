@@ -2,6 +2,36 @@ device-name: 'k3gxx'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S5 (International 3G)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 5422'
+  gpu: 'ARM Mali-T628 MP6'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.1
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 2800
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Thermometer'
+    - 'Hygrometer'
+    - 'NFC'
+    - 'GPS'
+    - 'GLONASS'
+    - 'Fingerprint reader'
+  release: '2014-03'
 roms: 
   - 
     rom-name: 'LineageOS'

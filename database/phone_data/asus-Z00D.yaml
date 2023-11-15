@@ -2,6 +2,29 @@ device-name: 'Z00D'
 device-vendor: 'ASUS'
 device-model-name: 'Zenfone 2 (ZE500CL)'
 device-description: null
+specs: 
+  soc: 'Intel Atom Z2560'
+  gpu: 'PowerVR SGX544MP2'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '720x1280'
+    size: 5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2500
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+  release: '2015-03'
 roms: 
   - 
     rom-name: 'LineageOS'

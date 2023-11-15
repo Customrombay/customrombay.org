@@ -2,6 +2,7 @@ device-name: 'nabu'
 device-vendor: 'Xiaomi'
 device-model-name: 'Pad 5'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

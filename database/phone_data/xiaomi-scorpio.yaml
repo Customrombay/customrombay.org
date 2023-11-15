@@ -2,6 +2,38 @@ device-name: 'scorpio'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Note 2'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8996 Pro Snapdragon 821'
+  gpu: 'Qualcomm Adreno 530'
+  ram: '4/6 GB LPDDR4'
+  storage: '64/128 GB UFS2.0'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.7
+    technology: 'OLED'
+  battery: 
+    capacity: 4070
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'IR blaster'
+    - 'GPS'
+  release: '2016-11'
 roms: 
   - 
     rom-name: 'LineageOS'

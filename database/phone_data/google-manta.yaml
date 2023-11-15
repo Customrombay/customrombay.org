@@ -2,6 +2,31 @@ device-name: 'manta'
 device-vendor: 'Google'
 device-model-name: 'Nexus 10'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 5250'
+  gpu: 'ARM Mali-T604 MP4'
+  ram: '2 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2560x1600'
+    size: 10
+    technology: 'Super PLS LCD'
+  battery: 
+    capacity: 9000
+    removable: false
+    tech: 'Li-Po'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'Hall effect sensor'
+    - 'Barometer'
+    - 'Dual side NFC'
+  release: '2012-11-13'
 roms: 
   - 
     rom-name: 'LineageOS'

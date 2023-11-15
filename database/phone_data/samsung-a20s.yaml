@@ -2,6 +2,7 @@ device-name: 'a20s'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A20s'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

@@ -2,6 +2,35 @@ device-name: 'ha3g'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 3 (International 3G)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 5420'
+  gpu: 'ARM Mali-T628 MP6'
+  ram: '3 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.7
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 3200
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Thermometer'
+    - 'Hygrometer'
+    - 'NFC'
+    - 'GPS'
+    - 'GLONASS'
+  release: '2013-09'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,7 @@ device-name: 'sakura'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 6 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

@@ -2,6 +2,45 @@ device-name: 'kiev'
 device-vendor: 'Motorola'
 device-model-name: 'moto g 5G / one 5G ace'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7225 Snapdragon 750G'
+  gpu: 'Qualcomm Adreno 619'
+  ram: '4/6 GB LPDDR4X'
+  storage: '64/128 GB UFS 2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2400'
+    size: 6.7
+    technology: 'IPS LTPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'FM radio'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'Google Assist Button'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Pedometer'
+    - 'Proximity sensor'
+    - 'Sensor hub'
+    - 'USB OTG'
+  release: '2020-05'
 roms: 
   - 
     rom-name: 'LineageOS'

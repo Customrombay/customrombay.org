@@ -2,6 +2,36 @@ device-name: 'hydrogen'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Max'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8956 Snapdragon 650'
+  gpu: 'Qualcomm Adreno 510'
+  ram: '3 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 6.44
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4850
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'Infrared sensor'
+    - 'FM radio'
+  release: '2016-05'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,37 @@ device-name: 'gemini'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 5'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8996 Snapdragon 820'
+  gpu: 'Qualcomm Adreno 530'
+  ram: '3 GB LPDDR4 (Standard and Pro editions) / 4 GB LPDDR4 (Exclusive edition)'
+  storage: '32 GB UFS2.0 (Standard edition) / 64 GB UFS2.0 (Pro edition) / 128 GB UFS2.0 (Exclusive edition)'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.15
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'IR blaster'
+    - 'GPS'
+  release: '2016-04'
 roms: 
   - 
     rom-name: 'LineageOS'

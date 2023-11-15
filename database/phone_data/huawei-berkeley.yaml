@@ -2,6 +2,32 @@ device-name: 'berkeley'
 device-vendor: 'Huawei'
 device-model-name: 'Honor View 10'
 device-description: null
+specs: 
+  soc: 'HiSilicon Kirin 970'
+  gpu: 'ARM Mali-G72 MP12'
+  ram: '4/6 GB'
+  storage: '64/128 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2160'
+    size: 5.99
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3750
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2018-01'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,34 @@ device-name: 'addison'
 device-vendor: 'Motorola'
 device-model-name: 'moto z play'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8953 Snapdragon 625'
+  gpu: 'Qualcomm Adreno 506'
+  ram: '3 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 3510
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Light sensor'
+    - 'Fingerprint reader'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'GPS'
+  release: '2016-09'
 roms: 
   - 
     rom-name: 'LineageOS'

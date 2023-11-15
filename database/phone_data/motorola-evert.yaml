@@ -2,6 +2,37 @@ device-name: 'evert'
 device-vendor: 'Motorola'
 device-model-name: 'moto g6 plus'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM630 Snapdragon 630'
+  gpu: 'Qualcomm Adreno 508'
+  ram: '4/6 GB LPDDR4X'
+  storage: '64/128 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x1920'
+    size: 5.2
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3200
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'Hall effect sensor'
+    - 'Sensor hub'
+    - 'Light sensor'
+    - 'GPS'
+    - 'FM radio'
+  release: '2018-05'
 roms: 
   - 
     rom-name: 'LineageOS'

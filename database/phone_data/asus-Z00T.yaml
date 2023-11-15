@@ -2,6 +2,30 @@ device-name: 'Z00T'
 device-vendor: 'ASUS'
 device-model-name: 'Zenfone 2 Laser / Selfie (1080p)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8939 Snapdragon 615'
+  gpu: 'Qualcomm Adreno 405'
+  ram: '2/3 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+  release: '2015-11'
 roms: 
   - 
     rom-name: 'LineageOS'

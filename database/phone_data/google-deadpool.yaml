@@ -2,6 +2,17 @@ device-name: 'deadpool'
 device-vendor: 'Google'
 device-model-name: 'ADT-3'
 device-description: null
+specs: 
+  soc: 'Amlogic S905y2'
+  gpu: 'ARM Mali-G31 MP2'
+  ram: '2 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 'None'
+  battery: 'None'
+  network: 'None'
+  peripherals: 'None'
+  release: '2020-09-22'
 roms: 
   - 
     rom-name: 'LineageOS'

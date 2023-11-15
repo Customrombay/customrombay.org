@@ -2,6 +2,7 @@ device-name: 'dreamlte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S8'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: '/e/OS'

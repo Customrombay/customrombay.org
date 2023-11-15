@@ -2,6 +2,7 @@ device-name: 'jd2019'
 device-vendor: 'Lenovo'
 device-model-name: 'Z5s'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

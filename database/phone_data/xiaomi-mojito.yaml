@@ -2,6 +2,7 @@ device-name: 'mojito'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 10'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

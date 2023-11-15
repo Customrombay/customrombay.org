@@ -2,6 +2,28 @@ device-name: 'gts4lvwifi'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab S5e (Wi-Fi)'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM670 Snapdragon 670'
+  gpu: 'Qualcomm Adreno 615'
+  ram: '4/6 GB'
+  storage: '64/128 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1600x2560'
+    size: 10.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 7040
+    removable: false
+    tech: 'Li-Po'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+  release: 2019
 roms: 
   - 
     rom-name: 'LineageOS'

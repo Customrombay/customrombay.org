@@ -2,6 +2,7 @@ device-name: 'fog'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 10/10C/10 Power'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

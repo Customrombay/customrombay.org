@@ -2,6 +2,7 @@ device-name: 'phoenix'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO X2'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

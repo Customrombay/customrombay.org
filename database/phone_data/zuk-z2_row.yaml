@@ -2,6 +2,7 @@ device-name: 'z2_row'
 device-vendor: 'ZUK'
 device-model-name: 'Z2 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

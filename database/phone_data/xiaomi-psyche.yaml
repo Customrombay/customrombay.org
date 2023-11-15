@@ -2,6 +2,7 @@ device-name: 'psyche'
 device-vendor: 'Xiaomi'
 device-model-name: '12X'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

@@ -2,6 +2,7 @@ device-name: 'angelica'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 9C / Redmi 9C NFC'
 device-description: null
+specs: null
 roms: []
 recoveries: []
 linux: 

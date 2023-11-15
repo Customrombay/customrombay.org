@@ -2,6 +2,32 @@ device-name: 'X00P'
 device-vendor: 'ASUS'
 device-model-name: 'Zenfone Max M1'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8937 Snapdragon 430'
+  gpu: 'Qualcomm Adreno 505'
+  ram: '2/3 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '720x1440'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'FM radio'
+  release: '2018-12'
 roms: 
   - 
     rom-name: 'LineageOS'

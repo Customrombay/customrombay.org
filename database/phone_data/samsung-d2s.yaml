@@ -2,6 +2,35 @@ device-name: 'd2s'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note10+'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 9825'
+  gpu: 'ARM Mali-G76 MP12'
+  ram: '12 GB'
+  storage: '256/512 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '3040x1440'
+    size: 6.8
+    technology: 'Dynamic AMOLED'
+  battery: 
+    capacity: 4300
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+  release: '2019-08-23'
 roms: 
   - 
     rom-name: 'LineageOS'

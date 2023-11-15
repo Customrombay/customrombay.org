@@ -2,6 +2,36 @@ device-name: 'montana'
 device-vendor: 'Motorola'
 device-model-name: 'moto g5s'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8937 Snapdragon 430'
+  gpu: 'Qualcomm Adreno 505'
+  ram: '2/3/4 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.2
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'NFC'
+    - 'FM radio'
+    - 'Light sensor'
+  release: '2017-08'
 roms: 
   - 
     rom-name: 'LineageOS'

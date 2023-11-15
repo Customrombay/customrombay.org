@@ -2,6 +2,54 @@ device-name: 'mars'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 11 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8350 Snapdragon 888'
+  gpu: 'Qualcomm Adreno 660'
+  ram: '8/12GB LPDDR5'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1440x3200'
+    size: 6.81
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual-frequency GNSS'
+    - 'Dual speakers'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'NAVIC'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'IR blaster'
+    - 'Infrared sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Ultrasound proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+    - 'USB OTG'
+  release: '2021-03'
 roms: 
   - 
     rom-name: 'LineageOS'
@@ -29,8 +77,8 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Discontinued'
-    android-version: '13'
+    rom-state: 'Official'
+    android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#mars'
   - 

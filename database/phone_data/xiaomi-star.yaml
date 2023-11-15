@@ -2,6 +2,7 @@ device-name: 'star'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 11 Ultra'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

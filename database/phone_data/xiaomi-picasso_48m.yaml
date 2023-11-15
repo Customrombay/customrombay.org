@@ -2,6 +2,7 @@ device-name: 'picasso_48m'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi K30i 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

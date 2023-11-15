@@ -2,6 +2,26 @@ device-name: 'gta4xlwifi'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab S6 Lite (Wi-Fi)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 9611'
+  gpu: 'ARM Mali-G72 MP3'
+  ram: '4 GB'
+  storage: '64/128 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1200x2000'
+    size: 10.4
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 7040
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'GPS'
+    - 'Gyroscope'
+  release: '2020-04-02'
 roms: 
   - 
     rom-name: 'LineageOS'

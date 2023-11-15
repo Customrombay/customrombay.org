@@ -2,6 +2,7 @@ device-name: 'potter'
 device-vendor: 'Motorola'
 device-model-name: 'moto g5 plus'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

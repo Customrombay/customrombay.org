@@ -2,6 +2,31 @@ device-name: 'armani'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 1S'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8226 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '720x1280'
+    size: 4.7
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2000
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2014-05'
 roms: 
   - 
     rom-name: 'LineageOS'

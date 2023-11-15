@@ -2,6 +2,37 @@ device-name: 'a7xelte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A7 (2016)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 7580'
+  gpu: 'ARM Mali-T720 MP2'
+  ram: '3 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 3300
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GLONASS'
+    - 'GPS'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'RGB ambient light'
+    - 'Sensor hub'
+    - 'USB OTG'
+  release: '2015-12'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,37 @@ device-name: 'starlte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S9'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 9810'
+  gpu: 'ARM Mali-G72 MP18'
+  ram: '4 GB'
+  storage: '64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2960x1440'
+    size: 5.8
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Heart rate sensor'
+    - 'Motion Coprocessor'
+    - 'Accelerometer'
+    - 'Gesture sensor'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Hall effect sensor'
+    - 'RGB ambient light'
+  release: '2018-03-11'
 roms: 
   - 
     rom-name: 'LineageOS'

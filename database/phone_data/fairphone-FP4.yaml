@@ -2,6 +2,42 @@ device-name: 'FP4'
 device-vendor: 'Fairphone'
 device-model-name: 4
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7225 Snapdragon 750G'
+  gpu: 'Qualcomm Adreno 619'
+  ram: '6/8 GB LPDDR4X'
+  storage: '128/256 GB UFS 2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '2340x1080'
+    size: 6.3
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3905
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'GPS'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'BeiDou'
+    - 'Light sensor'
+    - 'RGB ambient light'
+    - 'Dual SIM'
+    - 'USB OTG'
+    - 'DP over USB-C'
+  release: '2021-10'
 roms: 
   - 
     rom-name: 'LineageOS'

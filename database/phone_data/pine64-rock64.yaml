@@ -2,6 +2,7 @@ device-name: 'rock64'
 device-vendor: 'PINE64'
 device-model-name: 'Rock64'
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 

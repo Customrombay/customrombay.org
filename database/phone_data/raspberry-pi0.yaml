@@ -2,6 +2,7 @@ device-name: 'pi0'
 device-vendor: 'Raspberry'
 device-model-name: 'Zero'
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 

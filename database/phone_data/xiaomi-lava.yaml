@@ -2,6 +2,7 @@ device-name: 'lava'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 9 Prime / Poco M2'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

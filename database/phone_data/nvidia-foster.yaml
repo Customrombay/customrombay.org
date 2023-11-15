@@ -2,6 +2,17 @@ device-name: 'foster'
 device-vendor: 'NVIDIA'
 device-model-name: 'Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Android TV]'
 device-description: null
+specs: 
+  soc: 'NVIDIA Tegra X1 (T210)'
+  gpu: 'NVIDIA GM20B (Maxwell)'
+  ram: '3 GB'
+  storage: '16 GB / 500 GB'
+  is_ab_device: null
+  screen: 'None'
+  battery: 'None'
+  network: 'None'
+  peripherals: 'None'
+  release: '2015-05-28'
 roms: 
   - 
     rom-name: 'LineageOS'

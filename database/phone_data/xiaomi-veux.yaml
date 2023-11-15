@@ -2,6 +2,7 @@ device-name: 'veux'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO X4 Pro 5G / Redmi Note 11E Pro / Redmi Note 11 Pro 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

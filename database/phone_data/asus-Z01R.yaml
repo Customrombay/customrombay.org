@@ -2,6 +2,41 @@ device-name: 'Z01R'
 device-vendor: 'ASUS'
 device-model-name: 'Zenfone 5Z (ZS620KL)'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM845 Snapdragon 845'
+  gpu: 'Qualcomm Adreno 630'
+  ram: '4/6/8 GB LPDDR4X'
+  storage: '64/128/256 GB UFS2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '2246x1080'
+    size: 6.2
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3300
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual front speakers'
+    - 'FM radio'
+    - 'Fingerprint reader'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'RGB ambient light'
+    - 'USB OTG'
+  release: '2018-06'
 roms: 
   - 
     rom-name: 'LineageOS'

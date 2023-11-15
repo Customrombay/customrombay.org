@@ -2,6 +2,7 @@ device-name: 'crux'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 9 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

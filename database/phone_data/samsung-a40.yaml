@@ -2,6 +2,7 @@ device-name: 'a40'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A40'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

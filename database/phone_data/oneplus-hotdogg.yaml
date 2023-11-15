@@ -2,6 +2,7 @@ device-name: 'hotdogg'
 device-vendor: 'OnePlus'
 device-model-name: '7T Pro 5G Mclaren'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

@@ -2,6 +2,35 @@ device-name: 'r5'
 device-vendor: 'OPPO'
 device-model-name: 'R5/R5s (International)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8939 Snapdragon 615'
+  gpu: 'Qualcomm Adreno 405'
+  ram: '2 GB (R5), 3 GB (R5s)'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.2
+    technology: 'AMOLED'
+  battery: 
+    capacity: 2000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2014-12'
 roms: 
   - 
     rom-name: 'LineageOS'

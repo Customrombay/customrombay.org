@@ -2,6 +2,7 @@ device-name: 'toco'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Note 10 Lite'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

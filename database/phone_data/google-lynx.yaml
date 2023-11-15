@@ -2,6 +2,41 @@ device-name: 'lynx'
 device-vendor: 'Google'
 device-model-name: 'Pixel 7a'
 device-description: null
+specs: 
+  soc: 'Google Tensor GS201'
+  gpu: 'ARM Mali-G710 MP7'
+  ram: '8 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.1
+    technology: 'OLED'
+  battery: 
+    capacity: 4385
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'USB OTG'
+  release: '2023-05'
 roms: 
   - 
     rom-name: 'LineageOS'

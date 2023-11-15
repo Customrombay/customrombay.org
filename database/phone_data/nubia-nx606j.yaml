@@ -2,6 +2,37 @@ device-name: 'nx606j'
 device-vendor: 'Nubia'
 device-model-name: 'Z18'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM845 Snapdragon 845'
+  gpu: 'Qualcomm Adreno 630'
+  ram: '6/8 GB'
+  storage: '64/128 GB UFS 2.1'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2160'
+    size: 5.99
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3450
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Hall effect sensor'
+    - 'Light sensor'
+    - 'GPS'
+    - 'USB OTG'
+  release: '2018-09'
 roms: 
   - 
     rom-name: 'LineageOS'

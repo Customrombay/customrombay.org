@@ -2,6 +2,7 @@ device-name: 'mona'
 device-vendor: 'Xiaomi'
 device-model-name: 'Civi'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

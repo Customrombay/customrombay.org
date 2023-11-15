@@ -2,6 +2,31 @@ device-name: 'taoshan'
 device-vendor: 'Sony'
 device-model-name: 'Xperia L'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8230 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '480x854'
+    size: 4.3
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 1750
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'GPS'
+    - 'NFC'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Light sensor'
+    - 'Proximity sensor'
+  release: '2013-05'
 roms: 
   - 
     rom-name: 'LineageOS'

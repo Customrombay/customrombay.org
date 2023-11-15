@@ -2,6 +2,23 @@ device-name: 'v400'
 device-vendor: 'LG'
 device-model-name: 'G Pad 7.0 WiFi'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8226 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x800'
+    size: 7
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 'None'
+  release: '2014-07'
 roms: 
   - 
     rom-name: 'LineageOS'

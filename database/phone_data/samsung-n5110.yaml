@@ -2,6 +2,28 @@ device-name: 'n5110'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 8.0 (Wi-Fi)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 4412'
+  gpu: 'ARM Mali-400 MP4'
+  ram: '2 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x800'
+    size: 8
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 4600
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2013-04'
 roms: 
   - 
     rom-name: 'LineageOS'

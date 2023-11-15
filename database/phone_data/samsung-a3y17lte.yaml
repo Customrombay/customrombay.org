@@ -2,6 +2,7 @@ device-name: 'a3y17lte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A3 (2017)'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

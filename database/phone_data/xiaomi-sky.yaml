@@ -2,6 +2,7 @@ device-name: 'sky'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12R / Redmi 12 5G / POCO M6 Pro 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

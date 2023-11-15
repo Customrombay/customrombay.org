@@ -2,6 +2,7 @@ device-name: 'a53x'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A53 5G'
 device-description: null
+specs: null
 roms: []
 recoveries: []
 linux: 

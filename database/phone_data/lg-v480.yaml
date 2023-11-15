@@ -2,6 +2,27 @@ device-name: 'v480'
 device-vendor: 'LG'
 device-model-name: 'G Pad 8.0 (Wi-Fi)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8226 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x800'
+    size: 8
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4200
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GPS'
+    - 'Pedometer'
+  release: '2014-07'
 roms: 
   - 
     rom-name: 'LineageOS'

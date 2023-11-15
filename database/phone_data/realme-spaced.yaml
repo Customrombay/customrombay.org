@@ -2,6 +2,7 @@ device-name: 'spaced'
 device-vendor: 'Realme'
 device-model-name: '8i/Narzo 50'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelOS'

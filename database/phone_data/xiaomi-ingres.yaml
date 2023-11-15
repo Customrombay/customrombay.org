@@ -2,6 +2,7 @@ device-name: 'ingres'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO F4 GT/Redmi K50G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

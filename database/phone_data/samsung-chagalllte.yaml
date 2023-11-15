@@ -2,6 +2,31 @@ device-name: 'chagalllte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab S 10.5 LTE'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 5420'
+  gpu: 'ARM Mali-T628 MP6'
+  ram: '3 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2560x1600'
+    size: 10.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 7900
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Fingerprint reader'
+  release: 2014
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,7 @@ device-name: 'courbet'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 11 Lite 4G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

@@ -2,6 +2,7 @@ device-name: 'yogurt'
 device-vendor: 'Micromax'
 device-model-name: 'IN Note 1 / IN1'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelOS'

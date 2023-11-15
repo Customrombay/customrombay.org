@@ -2,6 +2,7 @@ device-name: 'PNX_sprout'
 device-vendor: 'Nokia'
 device-model-name: '8.1'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

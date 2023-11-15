@@ -2,6 +2,7 @@ device-name: 'odin'
 device-vendor: 'Xiaomi'
 device-model-name: 'MIX 4'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

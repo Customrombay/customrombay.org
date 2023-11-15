@@ -2,6 +2,7 @@ device-name: 'elish'
 device-vendor: 'Xiaomi'
 device-model-name: 'Pad 5 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

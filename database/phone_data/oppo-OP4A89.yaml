@@ -2,6 +2,7 @@ device-name: 'OP4A89'
 device-vendor: 'OPPO'
 device-model-name: 'Reno Ace'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

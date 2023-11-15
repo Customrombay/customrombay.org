@@ -2,6 +2,7 @@ device-name: 'davinci'
 device-vendor: 'ASUS'
 device-model-name: 'Asus Zenfone 9'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'Paranoid Android'

@@ -2,6 +2,7 @@ device-name: 'a505f'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A50'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'DerpFest'

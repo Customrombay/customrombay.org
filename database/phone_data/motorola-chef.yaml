@@ -2,6 +2,34 @@ device-name: 'chef'
 device-vendor: 'Motorola'
 device-model-name: 'one power'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM636 Snapdragon 636'
+  gpu: 'Qualcomm Adreno 509'
+  ram: '4/6 GB LPDDR4X'
+  storage: '64 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '2246x1080'
+    size: 6.14
+    technology: 'IPS LTPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Light sensor'
+    - 'GPS'
+    - 'FM radio'
+  release: '2018-10-10'
 roms: 
   - 
     rom-name: 'LineageOS'

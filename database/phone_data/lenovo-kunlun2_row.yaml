@@ -2,6 +2,7 @@ device-name: 'kunlun2_row'
 device-vendor: 'Lenovo'
 device-model-name: 'K10 Note'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

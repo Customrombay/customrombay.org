@@ -2,6 +2,7 @@ device-name: 'm1852'
 device-vendor: 'Meizu'
 device-model-name: 'X8'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

@@ -2,6 +2,35 @@ device-name: 'FP2'
 device-vendor: 'Fairphone'
 device-model-name: 2
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8974AB-AB Snapdragon 801'
+  gpu: 'Qualcomm Adreno 330'
+  ram: '2 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.1
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2420
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Compass'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'GPS'
+    - 'GLONASS'
+    - 'Proximity sensor'
+  release: '2015-12'
 roms: 
   - 
     rom-name: 'LineageOS'

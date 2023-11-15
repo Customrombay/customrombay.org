@@ -2,6 +2,42 @@ device-name: 'rhode'
 device-vendor: 'Motorola'
 device-model-name: 'moto g52'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM6225 Snapdragon 680 4G'
+  gpu: 'Qualcomm Adreno 610'
+  ram: '4/6 GB LPDDR4X'
+  storage: '64/128/256 GB UFS 2.2'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2400'
+    size: 6.6
+    technology: 'P-OLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual speakers'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Sensor hub'
+    - 'USB OTG'
+  release: '2022-04'
 roms: 
   - 
     rom-name: 'LineageOS'
@@ -14,7 +50,7 @@ roms:
     rom-name: 'crDroid'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#rhode'
   - 

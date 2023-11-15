@@ -2,6 +2,7 @@ device-name: 'cmi'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

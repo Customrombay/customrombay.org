@@ -2,6 +2,34 @@ device-name: 'castor_windy'
 device-vendor: 'Sony'
 device-model-name: 'Xperia Tablet Z2 Wi-Fi'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8974AC Snapdragon 801'
+  gpu: 'Qualcomm Adreno 330'
+  ram: '3 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 10.1
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 6000
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual front speakers'
+    - 'FM radio'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'MHL'
+    - 'NFC'
+    - 'USB OTG'
+  release: '2014-03-26'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,34 @@ device-name: 'a52sxq'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A52s 5G'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7325 Snapdragon 778G 5G'
+  gpu: 'Qualcomm Adreno 642L'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2800'
+    size: 6.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+  release: 2021
 roms: 
   - 
     rom-name: 'LineageOS'

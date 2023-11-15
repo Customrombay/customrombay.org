@@ -2,6 +2,7 @@ device-name: 'pinebook'
 device-vendor: 'PINE64'
 device-model-name: 'Pinebook'
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 

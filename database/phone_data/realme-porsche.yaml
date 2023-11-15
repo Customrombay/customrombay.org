@@ -2,6 +2,7 @@ device-name: 'porsche'
 device-vendor: 'Realme'
 device-model-name: 'GT 2'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelOS'

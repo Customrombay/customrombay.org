@@ -2,6 +2,32 @@ device-name: 's3ve3gjv'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S III Neo (Samsung Camera)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8226 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1.5 GB'
+  storage: '8/16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 4.8
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 2100
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'NFC'
+  release: '2014-04-11'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,29 @@ device-name: 'w7'
 device-vendor: 'LG'
 device-model-name: 'L90'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8226 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4.7
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2540
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+  release: '2014-02'
 roms: 
   - 
     rom-name: 'LineageOS'

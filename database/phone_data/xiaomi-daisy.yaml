@@ -2,6 +2,7 @@ device-name: 'daisy'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi A2 Lite'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

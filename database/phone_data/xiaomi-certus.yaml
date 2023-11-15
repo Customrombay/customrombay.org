@@ -2,6 +2,7 @@ device-name: 'certus'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 6 / Redmi 6a'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'CherishOS'

@@ -2,6 +2,7 @@ device-name: 'v7101o'
 device-vendor: 'Teracube'
 device-model-name: 'One'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

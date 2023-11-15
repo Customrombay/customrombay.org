@@ -2,6 +2,7 @@ device-name: 'greatlte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 8 (Exynos)'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'Project Elixir'

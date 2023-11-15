@@ -2,6 +2,7 @@ device-name: 'kunlun2'
 device-vendor: 'Lenovo'
 device-model-name: 'Z6 Lite'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

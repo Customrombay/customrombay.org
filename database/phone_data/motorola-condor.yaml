@@ -2,6 +2,28 @@ device-name: 'condor'
 device-vendor: 'Motorola'
 device-model-name: 'moto e'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8212 Snapdragon 200'
+  gpu: 'Qualcomm Adreno 302'
+  ram: '1 GB'
+  storage: '4 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4.3
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 1980
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+  release: '2014-05-13'
 roms: 
   - 
     rom-name: 'LineageOS'

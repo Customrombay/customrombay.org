@@ -2,6 +2,47 @@ device-name: 'monet'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10 Lite 5G'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7250 Snapdragon 765G'
+  gpu: 'Qualcomm Adreno 620'
+  ram: '6/8 GB'
+  storage: '64/128/256 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2340'
+    size: 6.57
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4160
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Hall effect sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2020-05'
 roms: 
   - 
     rom-name: 'LineageOS'

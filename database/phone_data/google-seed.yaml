@@ -2,6 +2,30 @@ device-name: 'seed'
 device-vendor: 'Google'
 device-model-name: 'Android One 2nd Gen'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8916 Snapdragon 410'
+  gpu: 'Qualcomm Adreno 306'
+  ram: '2 GB / 1 GB for IQ II'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '720x1280'
+    size: 5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2500
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+  release: '2015-07'
 roms: 
   - 
     rom-name: 'LineageOS'

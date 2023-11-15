@@ -2,6 +2,17 @@ device-name: 'fugu'
 device-vendor: 'Google'
 device-model-name: 'Nexus Player'
 device-description: null
+specs: 
+  soc: 'Intel Atom Z3560'
+  gpu: 'PowerVR G6430'
+  ram: '1 GB'
+  storage: '8 GB eMMC'
+  is_ab_device: null
+  screen: 'None'
+  battery: 'None'
+  network: 'None'
+  peripherals: 'None'
+  release: '2014-10'
 roms: 
   - 
     rom-name: 'LineageOS'

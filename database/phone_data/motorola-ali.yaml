@@ -2,6 +2,7 @@ device-name: 'ali'
 device-vendor: 'Motorola'
 device-model-name: 'Moto G6'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

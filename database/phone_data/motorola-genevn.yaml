@@ -2,6 +2,7 @@ device-name: 'genevn'
 device-vendor: 'Motorola'
 device-model-name: 'moto g Stylus 5G (2023)'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

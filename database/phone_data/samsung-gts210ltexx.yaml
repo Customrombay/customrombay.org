@@ -2,6 +2,31 @@ device-name: 'gts210ltexx'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab S2 9.7 (LTE)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 5433'
+  gpu: 'ARM Mali-T760 MP6'
+  ram: '3 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1536x2048'
+    size: 9.7
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 5870
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Compass'
+    - 'GPS'
+  release: '2015-09'
 roms: 
   - 
     rom-name: 'LineageOS'

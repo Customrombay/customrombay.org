@@ -2,6 +2,35 @@ device-name: 'beyond0lte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S10e'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 9820'
+  gpu: 'ARM Mali-G76 MP12'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2280x1080'
+    size: 5.8
+    technology: 'Dynamic AMOLED'
+  battery: 
+    capacity: 3100
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+  release: '2019-03-08'
 roms: 
   - 
     rom-name: 'LineageOS'

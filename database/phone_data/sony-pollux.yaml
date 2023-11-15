@@ -2,6 +2,35 @@ device-name: 'pollux'
 device-vendor: 'Sony'
 device-model-name: 'Xperia Tablet Z LTE'
 device-description: null
+specs: 
+  soc: 'Qualcomm APQ8064 Snapdragon S4 Pro'
+  gpu: 'Qualcomm Adreno 320'
+  ram: '2 GB LPDDR2'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1200x1920'
+    size: 10.1
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 6000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'MHL'
+    - 'HDMI'
+    - 'GPS'
+    - 'NFC'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+  release: '2013-02'
 roms: 
   - 
     rom-name: 'LineageOS'

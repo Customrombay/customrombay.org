@@ -2,6 +2,7 @@ device-name: 'tundra'
 device-vendor: 'Motorola'
 device-model-name: 'Edge 30 Fusion'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'AwakenOS'

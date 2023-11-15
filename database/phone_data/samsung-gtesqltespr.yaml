@@ -2,6 +2,31 @@ device-name: 'gtesqltespr'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab E 8.0 LTE (Sprint)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8916 Snapdragon 410'
+  gpu: 'Qualcomm Adreno 306'
+  ram: '1.5 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '800x1280'
+    size: 8
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 5000
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G CDMA'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'GPS'
+    - 'GLONASS'
+    - 'USB OTG'
+    - 'Accelerometer'
+    - 'Compass'
+  release: '2016-01'
 roms: 
   - 
     rom-name: 'LineageOS'

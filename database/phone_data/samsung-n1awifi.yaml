@@ -2,6 +2,27 @@ device-name: 'n1awifi'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 10.1 Wi-Fi (2014)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 5420'
+  gpu: 'ARM Mali-T628 MP6'
+  ram: '3 GB'
+  storage: '16/32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2560x1600'
+    size: 10.1
+    technology: 'Super LCD'
+  battery: 
+    capacity: 8220
+    removable: false
+    tech: 'Li-Po'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GPS'
+    - 'Gyroscope'
+  release: 2013
 roms: 
   - 
     rom-name: 'LineageOS'

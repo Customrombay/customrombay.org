@@ -2,6 +2,35 @@ device-name: 'zippo'
 device-vendor: 'Lenovo'
 device-model-name: 'Z6 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8150 Snapdragon 855'
+  gpu: 'Qualcomm Adreno 640'
+  ram: '6/8/12 GB LPDDR4X'
+  storage: '128/256/512 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2340'
+    size: 6.39
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2019-09-11'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,33 @@ device-name: 'kiwi'
 device-vendor: 'Huawei'
 device-model-name: 'Honor 5X'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8939v2 Snapdragon 616'
+  gpu: 'Qualcomm Adreno 405'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Light sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'Hall effect sensor'
+  release: '2015-11'
 roms: 
   - 
     rom-name: 'LineageOS'

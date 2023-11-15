@@ -2,6 +2,43 @@ device-name: 'rosemary'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 10S/11 SE/POCO M5S'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6785 Helio G95'
+  gpu: 'ARM Mali-G76 MC4'
+  ram: '4/6/8 GB'
+  storage: '64/128 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2400'
+    size: 6.43
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual speakers'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Infrared sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Ultrasound proximity sensor'
+    - 'USB OTG'
+  release: '2021-04'
 roms: 
   - 
     rom-name: 'LineageOS'

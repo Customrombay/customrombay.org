@@ -2,6 +2,7 @@ device-name: 'GM8_sprout'
 device-vendor: 'GM'
 device-model-name: 8
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

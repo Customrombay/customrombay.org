@@ -2,6 +2,7 @@ device-name: 'vangogh'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10 Lite Zoom'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

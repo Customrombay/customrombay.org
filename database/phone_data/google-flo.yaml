@@ -2,6 +2,23 @@ device-name: 'flo'
 device-vendor: 'Google'
 device-model-name: 'Nexus 7 (Wi-Fi, 2013 version)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8960T Snapdragon S4 Pro'
+  gpu: 'Qualcomm Adreno 320'
+  ram: '2 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1200'
+    size: 7
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3950
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 'None'
+  release: '2013-07-26'
 roms: 
   - 
     rom-name: 'LineageOS'

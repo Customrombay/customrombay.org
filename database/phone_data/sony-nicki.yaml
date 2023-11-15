@@ -2,6 +2,28 @@ device-name: 'nicki'
 device-vendor: 'Sony'
 device-model-name: 'Xperia M'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8227 Snapdragon S4 Plus'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1 GB'
+  storage: '4 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '480x854'
+    size: 4
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 1750
+    removable: true
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+  release: '2013-06'
 roms: 
   - 
     rom-name: 'LineageOS'

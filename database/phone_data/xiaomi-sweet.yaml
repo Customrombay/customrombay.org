@@ -2,6 +2,43 @@ device-name: 'sweet'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 10 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7150-AC Snapdragon 732G'
+  gpu: 'Qualcomm Adreno 618'
+  ram: '6/8 GB'
+  storage: '64/128 GB'
+  is_ab_device: null
+  screen: 
+    refresh_rate: 120
+    resolution: '2400x1080'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5020
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Infrared sensor'
+    - 'Light sensor'
+    - 'Ultrasound proximity sensor'
+    - 'USB OTG'
+  release: '2021-03'
 roms: 
   - 
     rom-name: 'LineageOS'

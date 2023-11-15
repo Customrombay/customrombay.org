@@ -2,6 +2,28 @@ device-name: 'gtelwifiue'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab E 9.6 (WiFi)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8916 Snapdragon 410'
+  gpu: 'Qualcomm Adreno 306'
+  ram: '1.5 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '800x1280'
+    size: 9.6
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 7300
+    removable: true
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'GPS'
+    - 'GLONASS'
+    - 'USB OTG'
+    - 'Accelerometer'
+    - 'Compass'
+  release: '2015-07'
 roms: 
   - 
     rom-name: 'LineageOS'

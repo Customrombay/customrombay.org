@@ -2,6 +2,7 @@ device-name: 'RMX2061'
 device-vendor: 'Realme'
 device-model-name: '6 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

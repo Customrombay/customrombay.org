@@ -2,6 +2,37 @@ device-name: 'crownlte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 9'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 9810'
+  gpu: 'ARM Mali-G72 MP18'
+  ram: '6/8 GB'
+  storage: '128/512 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2960x1440'
+    size: 6.4
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Heart rate sensor'
+    - 'Motion Coprocessor'
+    - 'Accelerometer'
+    - 'Gesture sensor'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Hall effect sensor'
+    - 'RGB ambient light'
+  release: '2018-08-09'
 roms: 
   - 
     rom-name: 'LineageOS'

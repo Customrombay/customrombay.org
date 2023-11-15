@@ -2,6 +2,37 @@ device-name: 'onclite'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 7'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM632 Snapdragon 632'
+  gpu: 'Qualcomm Adreno 506'
+  ram: '2/3/4 GB'
+  storage: '16/32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1520x720'
+    size: 6.26
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'IR blaster'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2019-03'
 roms: 
   - 
     rom-name: 'LineageOS'

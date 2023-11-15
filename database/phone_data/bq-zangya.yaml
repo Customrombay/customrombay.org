@@ -2,6 +2,45 @@ device-name: 'zangya'
 device-vendor: 'BQ'
 device-model-name: 'Aquaris X2'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM636 Snapdragon 636'
+  gpu: 'Qualcomm Adreno 509'
+  ram: '3/4 GB LPDDR3'
+  storage: '32/64 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '2160x1080'
+    size: 5.65
+    technology: 'IPS LTPS LCD'
+  battery: 
+    capacity: 3100
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Depth Sensor'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Hall effect sensor'
+    - 'A-GPS'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'SBAS'
+    - 'QZSS'
+    - 'FM radio'
+    - 'NFC'
+    - 'USB OTG'
+  release: '2018-05'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,30 @@ device-name: 'ms013g'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Grand 2 Duos'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8226 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1.5 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 5.25
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 2600
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G CDMA'
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2013-11-25'
 roms: 
   - 
     rom-name: 'LineageOS'

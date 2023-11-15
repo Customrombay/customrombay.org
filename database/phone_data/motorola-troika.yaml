@@ -2,6 +2,33 @@ device-name: 'troika'
 device-vendor: 'Motorola'
 device-model-name: 'one action'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 9609'
+  gpu: 'ARM Mali-G72 MP3'
+  ram: '4 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2520'
+    size: 6.3
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3500
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'NFC'
+  release: '2019-10-31'
 roms: 
   - 
     rom-name: 'LineageOS'

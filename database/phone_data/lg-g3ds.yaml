@@ -2,6 +2,7 @@ device-name: 'g3ds'
 device-vendor: 'LG'
 device-model-name: 'G3 (dualsim)'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

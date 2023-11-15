@@ -2,6 +2,30 @@ device-name: 'w5'
 device-vendor: 'LG'
 device-model-name: 'Optimus L70'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8210 Snapdragon 200'
+  gpu: 'Qualcomm Adreno 302'
+  ram: '1 GB'
+  storage: '4 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '480x800'
+    size: 4.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2040
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Proximity sensor'
+    - 'FM radio'
+  release: '2014-04'
 roms: 
   - 
     rom-name: 'LineageOS'

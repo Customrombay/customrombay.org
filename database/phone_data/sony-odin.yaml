@@ -2,6 +2,35 @@ device-name: 'odin'
 device-vendor: 'Sony'
 device-model-name: 'Xperia ZL'
 device-description: null
+specs: 
+  soc: 'Qualcomm APQ8064 Snapdragon S4 Pro'
+  gpu: 'Qualcomm Adreno 320'
+  ram: '2 GB LPDDR2'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 2370
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'MHL'
+    - 'HDMI'
+    - 'GPS'
+    - 'NFC'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+  release: '2013-03'
 roms: 
   - 
     rom-name: 'LineageOS'

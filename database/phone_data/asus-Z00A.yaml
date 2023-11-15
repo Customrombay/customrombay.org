@@ -2,6 +2,32 @@ device-name: 'Z00A'
 device-vendor: 'ASUS'
 device-model-name: 'Zenfone 2 (1080p)'
 device-description: null
+specs: 
+  soc: 
+    - 'Intel Atom Z3560'
+    - 'Intel Atom Z3580'
+  gpu: 'PowerVR G6430'
+  ram: '2/4 GB'
+  storage: '16/32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+  release: '2015-03'
 roms: 
   - 
     rom-name: 'LineageOS'

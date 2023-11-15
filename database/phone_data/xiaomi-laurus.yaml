@@ -2,6 +2,7 @@ device-name: 'laurus'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi CC 9e'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

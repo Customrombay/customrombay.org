@@ -2,6 +2,7 @@ device-name: 'unicorn'
 device-vendor: 'Xiaomi'
 device-model-name: '12S Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

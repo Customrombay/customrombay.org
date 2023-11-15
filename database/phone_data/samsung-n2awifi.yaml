@@ -2,6 +2,27 @@ device-name: 'n2awifi'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab PRO 10.1'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 5420'
+  gpu: 'ARM Mali-T628 MP6'
+  ram: '2 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2560x1600'
+    size: 10.1
+    technology: 'Super LCD'
+  battery: 
+    capacity: 8220
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GPS'
+    - 'Gyroscope'
+  release: 2014
 roms: 
   - 
     rom-name: 'LineageOS'

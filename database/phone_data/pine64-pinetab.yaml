@@ -2,6 +2,7 @@ device-name: 'pinetab'
 device-vendor: 'PINE64'
 device-model-name: 'PineTab'
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 

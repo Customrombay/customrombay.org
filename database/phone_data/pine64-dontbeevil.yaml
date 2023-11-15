@@ -2,6 +2,7 @@ device-name: 'dontbeevil'
 device-vendor: 'PINE64'
 device-model-name: "Don't be evil (devkit)"
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 

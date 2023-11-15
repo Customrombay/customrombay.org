@@ -2,6 +2,36 @@ device-name: 'ether'
 device-vendor: 'Nextbit'
 device-model-name: 'Robin'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8992 Snapdragon 808'
+  gpu: 'Qualcomm Adreno 418'
+  ram: '3 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.2
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2680
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Hall effect sensor'
+    - 'Proximity sensor'
+    - 'Fingerprint reader'
+    - 'NFC'
+  release: '2016-02'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -1,0 +1,17 @@
+device-name: 'stone'
+device-vendor: 'Xiaomi'
+device-model-name: 'POCO X5 5G / Redmi Note 12 5G / Note 12R Pro'
+device-description: null
+specs: null
+roms: 
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/stone'
+
+recoveries: []
+linux: null

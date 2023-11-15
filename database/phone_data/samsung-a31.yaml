@@ -2,6 +2,7 @@ device-name: 'a31'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A31'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

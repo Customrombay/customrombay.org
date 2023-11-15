@@ -2,6 +2,7 @@ device-name: 'star2qltechn'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S9+ (Snapdragon)'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

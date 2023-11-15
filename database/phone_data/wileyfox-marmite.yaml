@@ -2,6 +2,7 @@ device-name: 'marmite'
 device-vendor: 'Wileyfox'
 device-model-name: 'Swift 2/2+/2X'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

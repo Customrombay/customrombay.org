@@ -2,6 +2,7 @@ device-name: 'umi'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

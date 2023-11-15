@@ -2,12 +2,53 @@ device-name: 'gauguin'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7225 Snapdragon 750G 5G'
+  gpu: 'Qualcomm Adreno 619'
+  ram: '6/8 GB'
+  storage: '128 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2400x1080'
+    size: 6.67
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4820
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Hall effect sensor'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2021-01'
 roms: 
   - 
     rom-name: 'LineageOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '12L'
+    android-version: '13'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/gauguin/'
   - 

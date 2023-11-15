@@ -2,6 +2,32 @@ device-name: 'wt88047'
 device-vendor: 'Wingtech'
 device-model-name: 'Redmi 2'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8916 Snapdragon 410'
+  gpu: 'Qualcomm Adreno 306'
+  ram: '1/2 GB'
+  storage: '8/16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '720x1280'
+    size: 4.7
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2200
+    removable: true
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'GPS'
+  release: '2015-01'
 roms: 
   - 
     rom-name: 'LineageOS'

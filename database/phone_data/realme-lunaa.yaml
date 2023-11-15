@@ -2,6 +2,7 @@ device-name: 'lunaa'
 device-vendor: 'Realme'
 device-model-name: 'GT Master Editon'
 device-description: ''
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'
@@ -54,7 +55,7 @@ roms:
     rom-name: 'EvolutionX'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://evolution-x.org/'
     phone-webpage: 'https://evolution-x.org/device/lunaa'

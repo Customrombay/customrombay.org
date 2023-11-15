@@ -2,6 +2,7 @@ device-name: 'oxygen'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Max 2'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

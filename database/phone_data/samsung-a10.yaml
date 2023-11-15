@@ -2,6 +2,7 @@ device-name: 'a10'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A10'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

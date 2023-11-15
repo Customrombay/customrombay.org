@@ -2,6 +2,7 @@ device-name: 'RMX1931'
 device-vendor: 'Realme'
 device-model-name: 'X2 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

@@ -2,6 +2,7 @@ device-name: 'pine'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 7A'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

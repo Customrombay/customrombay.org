@@ -2,6 +2,26 @@ device-name: 'n3'
 device-vendor: 'OPPO'
 device-model-name: 'N3'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8974AC Snapdragon 801'
+  gpu: 'Qualcomm Adreno 330'
+  ram: '2 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 'None'
+  release: '2015-01'
 roms: 
   - 
     rom-name: 'LineageOS'

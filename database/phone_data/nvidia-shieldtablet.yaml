@@ -2,6 +2,26 @@ device-name: 'shieldtablet'
 device-vendor: 'NVIDIA'
 device-model-name: 'Shield Tablet'
 device-description: null
+specs: 
+  soc: 'NVIDIA Tegra K1 (T124)'
+  gpu: 'NVIDIA GK20A (Kepler)'
+  ram: '2 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1200'
+    size: 8
+    technology: 'IPS Retinal LCD'
+  battery: 
+    capacity: 5197
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 'None'
+  release: '2014-07-29'
 roms: 
   - 
     rom-name: 'LineageOS'

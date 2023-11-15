@@ -2,6 +2,30 @@ device-name: 'jag3gds'
 device-vendor: 'LG'
 device-model-name: 'G3 S'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8926 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '720x1280'
+    size: 5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2540
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Proximity sensor'
+    - 'FM radio'
+  release: '2014-08'
 roms: 
   - 
     rom-name: 'LineageOS'

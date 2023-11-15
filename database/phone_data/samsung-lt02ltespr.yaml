@@ -2,6 +2,30 @@ device-name: 'lt02ltespr'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab 3 7.0 LTE'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8930AB Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1.5 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1024x600'
+    size: 7
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G CDMA'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'IR blaster'
+    - 'Accelerometer'
+    - 'Light sensor'
+    - 'Compass'
+  release: '2016-09'
 roms: 
   - 
     rom-name: 'LineageOS'

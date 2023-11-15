@@ -2,6 +2,28 @@ device-name: 'dragon'
 device-vendor: 'Google'
 device-model-name: 'Pixel C'
 device-description: null
+specs: 
+  soc: 'NVIDIA Tegra X1 (T210)'
+  gpu: 'NVIDIA Maxwell 256-core'
+  ram: '3 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2560x1800'
+    size: 10.2
+    technology: 'IPS LTPS LCD'
+  battery: 
+    capacity: 9240
+    removable: false
+    tech: 'Li-Po'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+  release: '2015-12-08'
 roms: 
   - 
     rom-name: 'LineageOS'

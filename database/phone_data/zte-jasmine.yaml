@@ -2,6 +2,30 @@ device-name: 'jasmine'
 device-vendor: 'ZTE'
 device-model-name: 'AT&T Trek 2 HD'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8952 Snapdragon 617'
+  gpu: 'Qualcomm Adreno 405'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x800'
+    size: 8
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 4600
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+  release: '2016-08'
 roms: 
   - 
     rom-name: 'LineageOS'

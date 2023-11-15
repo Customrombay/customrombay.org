@@ -2,6 +2,7 @@ device-name: 'beyond1qlte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S10 (Snapdragon)'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

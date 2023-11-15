@@ -2,6 +2,49 @@ device-name: 'lisa'
 device-vendor: 'Xiaomi'
 device-model-name: '11 Lite NE'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7325 Snapdragon 778G 5G'
+  gpu: 'Qualcomm Adreno 642L'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4250
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual speakers'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'NAVIC'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Infrared sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Ultrasound proximity sensor'
+    - 'USB OTG'
+  release: '2021-12'
 roms: 
   - 
     rom-name: 'LineageOS'
@@ -70,7 +113,7 @@ roms:
     rom-name: 'crDroid'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#lisa'
   - 

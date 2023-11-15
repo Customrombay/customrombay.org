@@ -2,6 +2,35 @@ device-name: 'RMX1851'
 device-vendor: 'Realme'
 device-model-name: '3 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM710 Snapdragon 710'
+  gpu: 'Qualcomm Adreno 616'
+  ram: '4/6 GB LPDDR4X'
+  storage: '64/128 GB eMMC5.1'
+  is_ab_device: null
+  screen: 
+    resolution: '2340x1080'
+    size: 6.3
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4045
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Light sensor'
+    - 'GPS'
+    - 'FM radio'
+    - 'USB OTG'
+  release: '2019-04-29'
 roms: 
   - 
     rom-name: 'LineageOS'

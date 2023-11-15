@@ -2,6 +2,7 @@ device-name: 'm31'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy M31'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'Project Elixir'

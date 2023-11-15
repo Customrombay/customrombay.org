@@ -2,6 +2,33 @@ device-name: 'xt897'
 device-vendor: 'Motorola'
 device-model-name: 'PHOTON Q 4G LTE'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8960 Snapdragon S4 Plus'
+  gpu: 'Qualcomm Adreno 225'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4.3
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 1785
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G CDMA'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Hardware keyboard'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GPS'
+    - 'NFC'
+    - 'Light sensor'
+    - 'Proximity sensor'
+  release: '2012-08-19'
 roms: 
   - 
     rom-name: 'LineageOS'

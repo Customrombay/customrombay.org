@@ -2,6 +2,7 @@ device-name: 'RMX3371'
 device-vendor: 'Realme'
 device-model-name: 'GT NEO 3T'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'SuperiorOS'

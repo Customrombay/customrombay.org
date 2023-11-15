@@ -2,6 +2,39 @@ device-name: 'I01WD'
 device-vendor: 'ASUS'
 device-model-name: 'Zenfone 6 (ZS630KL)'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8150 Snapdragon 855'
+  gpu: 'Qualcomm Adreno 640'
+  ram: '6/8 GB'
+  storage: '64/128/256 GB UFS2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '2340x1080'
+    size: 6.4
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'Fingerprint reader'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Infrared sensor'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2019-05-16'
 roms: 
   - 
     rom-name: 'LineageOS'

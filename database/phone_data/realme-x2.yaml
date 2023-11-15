@@ -2,6 +2,7 @@ device-name: 'x2'
 device-vendor: 'Realme'
 device-model-name: 'X2'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

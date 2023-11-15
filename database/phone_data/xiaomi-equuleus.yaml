@@ -2,6 +2,38 @@ device-name: 'equuleus'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 8 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM845 Snapdragon 845'
+  gpu: 'Qualcomm Adreno 630'
+  ram: '6/8 GB LPDDR4X'
+  storage: '128 GB UFS2.1'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2248'
+    size: 6.21
+    technology: 'AMOLED'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Gyroscope'
+    - 'Hall effect sensor'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Dual-frequency GNSS'
+    - 'IR camera'
+  release: '2018-09'
 roms: 
   - 
     rom-name: 'LineageOS'

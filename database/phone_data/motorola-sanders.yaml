@@ -2,6 +2,7 @@ device-name: 'sanders'
 device-vendor: 'Motorola'
 device-model-name: 'moto g5s plus'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

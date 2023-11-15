@@ -2,6 +2,7 @@ device-name: 'sunstone'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12 5G/Note 12R Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

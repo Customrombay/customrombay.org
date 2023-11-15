@@ -2,6 +2,7 @@ device-name: 'nuwa'
 device-vendor: 'Xiaomi'
 device-model-name: '13 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

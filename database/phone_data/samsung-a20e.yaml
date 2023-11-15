@@ -2,6 +2,7 @@ device-name: 'a20e'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A20e'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'DerpFest'

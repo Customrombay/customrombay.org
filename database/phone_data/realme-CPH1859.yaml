@@ -2,6 +2,7 @@ device-name: 'CPH1859'
 device-vendor: 'Realme'
 device-model-name: '1'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'CorvusOS'

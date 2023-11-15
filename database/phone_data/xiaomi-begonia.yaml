@@ -2,6 +2,7 @@ device-name: 'begonia'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 8 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

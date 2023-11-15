@@ -2,6 +2,37 @@ device-name: 'lake'
 device-vendor: 'Motorola'
 device-model-name: 'moto g7 plus'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM636 Snapdragon 636'
+  gpu: 'Qualcomm Adreno 509'
+  ram: '4 GB LPDDR4X'
+  storage: '64 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2270'
+    size: 6.2
+    technology: 'IPS LTPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'Hall effect sensor'
+    - 'Sensor hub'
+    - 'Light sensor'
+    - 'GPS'
+    - 'FM radio'
+  release: '2019-02'
 roms: 
   - 
     rom-name: 'LineageOS'

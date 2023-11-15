@@ -2,6 +2,36 @@ device-name: 'gohan'
 device-vendor: 'BQ'
 device-model-name: 'Aquaris X5 Plus'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8976 Snapdragon 652'
+  gpu: 'Qualcomm Adreno 510'
+  ram: '2/3 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3100
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Hall effect sensor'
+    - 'GPS'
+    - 'FM radio'
+    - 'USB OTG'
+  release: 2016
 roms: 
   - 
     rom-name: 'LineageOS'

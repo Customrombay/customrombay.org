@@ -2,6 +2,7 @@ device-name: 'RMX3461'
 device-vendor: 'Realme'
 device-model-name: '9 SE 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'SuperiorOS'

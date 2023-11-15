@@ -2,6 +2,7 @@ device-name: 'RMX3031'
 device-vendor: 'Realme'
 device-model-name: 'X7 Max 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

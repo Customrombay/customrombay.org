@@ -2,6 +2,37 @@ device-name: 'crackling'
 device-vendor: 'Wileyfox'
 device-model-name: 'Swift'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8916 Snapdragon 410'
+  gpu: 'Qualcomm Adreno 306'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2500
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2015-10'
 roms: 
   - 
     rom-name: 'LineageOS'

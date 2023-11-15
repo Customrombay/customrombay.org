@@ -2,6 +2,7 @@ device-name: 'a70q'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A70'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

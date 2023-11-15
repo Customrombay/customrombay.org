@@ -2,6 +2,7 @@ device-name: 'a30'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A30'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'DerpFest'

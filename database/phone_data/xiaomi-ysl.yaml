@@ -2,6 +2,7 @@ device-name: 'ysl'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi S2'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'CorvusOS'

@@ -2,6 +2,7 @@ device-name: 'chime'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO M3/Redmi 9T/Redmi 9T NFC/Redmi 9 Power'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

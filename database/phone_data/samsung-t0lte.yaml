@@ -2,6 +2,35 @@ device-name: 't0lte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 2 (LTE)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 4412'
+  gpu: 'ARM Mali-400 MP4'
+  ram: '2 GB'
+  storage: '16/32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 5.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 3100
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'RGB ambient light'
+  release: '2012-09'
 roms: 
   - 
     rom-name: 'LineageOS'

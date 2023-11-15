@@ -2,6 +2,7 @@ device-name: 'cas'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10 Ultra'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

@@ -2,6 +2,29 @@ device-name: 'gts28vewifi'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab S2 8.0 Wi-Fi (2016)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8976 Snapdragon 652'
+  gpu: 'Qualcomm Adreno 510'
+  ram: '3 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1536x2048'
+    size: 8
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+  release: 2016
 roms: 
   - 
     rom-name: 'LineageOS'

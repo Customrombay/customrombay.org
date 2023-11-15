@@ -2,6 +2,7 @@ device-name: 'tapas'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

@@ -2,6 +2,38 @@ device-name: 'I001D'
 device-vendor: 'ASUS'
 device-model-name: 'ROG Phone 2 (ZS660KL)'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8150-AC Snapdragon 855+'
+  gpu: 'Qualcomm Adreno 640'
+  ram: '8/12 GB'
+  storage: '128/512/1024 GB UFS3.0'
+  is_ab_device: true
+  screen: 
+    resolution: '2340x1080'
+    size: 6.59
+    technology: 'AMOLED'
+  battery: 
+    capacity: 6000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'Fingerprint reader'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2019-09'
 roms: 
   - 
     rom-name: 'LineageOS'

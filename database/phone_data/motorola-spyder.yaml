@@ -2,6 +2,32 @@ device-name: 'spyder'
 device-vendor: 'Motorola'
 device-model-name: 'DROID RAZR/RAZR MAXX (CDMA)'
 device-description: null
+specs: 
+  soc: 'TI OMAP4430'
+  gpu: 'PowerVR SGX540'
+  ram: '1 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4.3
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 1780
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2011-11-11'
 roms: 
   - 
     rom-name: 'LineageOS'

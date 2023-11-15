@@ -2,6 +2,30 @@ device-name: 'targa'
 device-vendor: 'Motorola'
 device-model-name: 'DROID BIONIC'
 device-description: null
+specs: 
+  soc: 'TI OMAP4430'
+  gpu: 'PowerVR SGX540'
+  ram: '1 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4.3
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 1735
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G CDMA'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2011-09-08'
 roms: 
   - 
     rom-name: 'LineageOS'

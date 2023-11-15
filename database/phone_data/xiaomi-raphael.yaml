@@ -2,6 +2,7 @@ device-name: 'raphael'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi K20 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

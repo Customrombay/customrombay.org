@@ -2,6 +2,7 @@ device-name: 'd1q'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 10 (Snapdragon)'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

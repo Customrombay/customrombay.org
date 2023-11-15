@@ -2,6 +2,24 @@ device-name: 'mondrian'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO F5 Pro / Redmi K60'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8475 Snapdragon 8+ Gen 1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '8/12 GB'
+  storage: '256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1440x3200'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5160
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-05'
 roms: 
   - 
     rom-name: 'xiaomi.eu'

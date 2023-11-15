@@ -2,6 +2,44 @@ device-name: 'obiwan'
 device-vendor: 'ASUS'
 device-model-name: 'ROG Phone 3'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8250-AB Snapdragon 865+'
+  gpu: 'Qualcomm Adreno 650'
+  ram: '8/12/16 GB'
+  storage: '128/256/512 GB UFS 3.1'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 144
+    resolution: '1080x2340'
+    size: 6.59
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 6000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2020-08'
 roms: 
   - 
     rom-name: 'LineageOS'

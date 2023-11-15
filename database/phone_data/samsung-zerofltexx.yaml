@@ -2,6 +2,40 @@ device-name: 'zerofltexx'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S6'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 7420'
+  gpu: 'ARM Mali-T760 MP8'
+  ram: '3 GB'
+  storage: '32/64/128 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2560x1440'
+    size: 5.1
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 2550
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Heart rate sensor'
+    - 'Motion Coprocessor'
+    - 'Accelerometer'
+    - 'Gesture sensor'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Hall effect sensor'
+    - 'RGB ambient light'
+    - 'Infrared sensor'
+    - 'GPS'
+    - 'NFC'
+  release: '2015-04'
 roms: 
   - 
     rom-name: 'LineageOS'

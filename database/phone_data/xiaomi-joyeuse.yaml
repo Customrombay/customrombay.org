@@ -2,6 +2,7 @@ device-name: 'joyeuse'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 9 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'HavocOS'

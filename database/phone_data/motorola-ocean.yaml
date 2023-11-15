@@ -2,6 +2,37 @@ device-name: 'ocean'
 device-vendor: 'Motorola'
 device-model-name: 'moto g7 power'
 device-description: null
+specs: 
+  soc: 'Qualcomm SDM632 Snapdragon 632'
+  gpu: 'Qualcomm Adreno 506'
+  ram: '3 GB, 4 GB'
+  storage: '32 GB, 64 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '720x1570'
+    size: 6.2
+    technology: 'IPS LTPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'NFC'
+    - 'Hall effect sensor'
+    - 'Sensor hub'
+    - 'Light sensor'
+    - 'GPS'
+    - 'FM radio'
+  release: '2019-02'
 roms: 
   - 
     rom-name: 'LineageOS'

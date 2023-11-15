@@ -2,6 +2,7 @@ device-name: 'rosy'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 5'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

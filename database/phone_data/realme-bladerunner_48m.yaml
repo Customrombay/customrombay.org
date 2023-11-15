@@ -2,6 +2,7 @@ device-name: 'bladerunner_48m'
 device-vendor: 'Realme'
 device-model-name: 'X50 Pro 5G Play'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'EvolutionX'

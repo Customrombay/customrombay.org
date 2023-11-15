@@ -2,6 +2,7 @@ device-name: 'cepheus'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 9'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

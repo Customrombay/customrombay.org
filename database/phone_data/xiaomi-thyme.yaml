@@ -2,6 +2,7 @@ device-name: 'thyme'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10S'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

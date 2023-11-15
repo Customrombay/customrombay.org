@@ -2,6 +2,7 @@ device-name: 'laurel_sprout'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi A3'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

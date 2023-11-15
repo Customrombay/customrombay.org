@@ -2,6 +2,28 @@ device-name: 'gts210vewifi'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab S2 9.7 Wi-Fi (2016)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8976 Snapdragon 652'
+  gpu: 'Qualcomm Adreno 510'
+  ram: '3 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1536x2048'
+    size: 9.7
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 5870
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+  release: 2016
 roms: 
   - 
     rom-name: 'LineageOS'

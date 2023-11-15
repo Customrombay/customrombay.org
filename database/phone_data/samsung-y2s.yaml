@@ -2,6 +2,7 @@ device-name: 'y2s'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S20+ (5G)'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

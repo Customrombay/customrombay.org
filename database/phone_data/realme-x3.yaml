@@ -2,6 +2,7 @@ device-name: 'x3'
 device-vendor: 'Realme'
 device-model-name: 'X3'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

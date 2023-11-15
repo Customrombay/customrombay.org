@@ -2,6 +2,7 @@ device-name: 'amogus'
 device-vendor: 'Motorola'
 device-model-name: 'moto g8 / moto g8 Plus / moto g Power (2020) / moto g Fast (2020)'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'BlissROM'

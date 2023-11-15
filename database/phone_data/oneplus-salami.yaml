@@ -2,6 +2,7 @@ device-name: 'salami'
 device-vendor: 'OnePlus'
 device-model-name: '11 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

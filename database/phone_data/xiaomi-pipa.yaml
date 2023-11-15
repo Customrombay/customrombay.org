@@ -2,6 +2,7 @@ device-name: 'pipa'
 device-vendor: 'Xiaomi'
 device-model-name: 'Pad 6'
 device-description: null
+specs: null
 roms: []
 recoveries: []
 linux: 

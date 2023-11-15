@@ -2,6 +2,7 @@ device-name: 'spes'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 11'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

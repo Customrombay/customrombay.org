@@ -2,6 +2,7 @@ device-name: 'm30lte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy M30'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

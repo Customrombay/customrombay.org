@@ -2,6 +2,27 @@ device-name: 'otus'
 device-vendor: 'Motorola'
 device-model-name: 'moto e (2015)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8212 Snapdragon 200'
+  gpu: 'Qualcomm Adreno 302'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2390
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+  release: '2015-02-25'
 roms: 
   - 
     rom-name: 'LineageOS'

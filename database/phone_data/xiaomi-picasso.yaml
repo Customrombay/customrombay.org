@@ -2,6 +2,7 @@ device-name: 'picasso'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi K30 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

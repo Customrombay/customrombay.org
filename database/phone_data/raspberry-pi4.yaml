@@ -2,6 +2,7 @@ device-name: 'pi4'
 device-vendor: 'Raspberry'
 device-model-name: 'Pi 4'
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 

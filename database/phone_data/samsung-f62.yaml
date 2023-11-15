@@ -2,6 +2,33 @@ device-name: 'f62'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy F62/M62'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 9825'
+  gpu: 'ARM Mali-G76 MP12'
+  ram: '6/8 GB'
+  storage: '128 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2400x1080'
+    size: 6.7
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 7000
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+  release: '2021-02-22'
 roms: 
   - 
     rom-name: 'LineageOS'

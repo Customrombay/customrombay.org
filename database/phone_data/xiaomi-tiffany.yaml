@@ -2,6 +2,7 @@ device-name: 'tiffany'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 5X'
 device-description: '"Xiaomi Mi 5X can have 4 codenames: tiffany (Primary codename), rossy (A device created at the Xiaomi factory in Beijing "Exclusively" for the Chinese market), tissot (Although it is Mi A1, but also Mi 5X are found with the same codename. Most likely it is Mi A1, but the a/b structure was changed to a only, and miui from Mi 5X was also installed. But it could also be Mi 5X (tiffany), but with a flashed bootloader from Mi A1), oxygen (A device with firmware from the seller (more often from Vietnam) with an unlocked bootloader and a "surprise" in the form of a bootloader from Xiaomi Mi Max2 under the nickname Oxygen)." - postmarketOS wiki'
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

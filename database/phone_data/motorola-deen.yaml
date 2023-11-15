@@ -2,6 +2,7 @@ device-name: 'deen'
 device-vendor: 'Motorola'
 device-model-name: 'One'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

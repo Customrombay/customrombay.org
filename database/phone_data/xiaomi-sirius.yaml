@@ -2,6 +2,7 @@ device-name: 'sirius'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 8 SE'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

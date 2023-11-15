@@ -2,6 +2,26 @@ device-name: 'debx'
 device-vendor: 'Google'
 device-model-name: 'Nexus 7 2013 (LTE, Repartitioned)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8960T Snapdragon S4 Pro'
+  gpu: 'Qualcomm Adreno 320'
+  ram: '2 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1200'
+    size: 7
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3950
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 'None'
+  release: '2013-07-26'
 roms: 
   - 
     rom-name: 'LineageOS'

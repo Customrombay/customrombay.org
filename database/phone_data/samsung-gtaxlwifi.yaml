@@ -2,6 +2,7 @@ device-name: 'gtaxlwifi'
 device-vendor: 'Samsung'
 device-model-name: 'Tab A6 (SM-T580)'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

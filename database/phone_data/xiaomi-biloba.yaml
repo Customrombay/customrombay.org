@@ -2,6 +2,7 @@ device-name: 'biloba'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 8 (2021)'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

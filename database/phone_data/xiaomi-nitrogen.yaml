@@ -2,6 +2,7 @@ device-name: 'nitrogen'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Max 3'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

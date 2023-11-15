@@ -2,6 +2,7 @@ device-name: 'honami'
 device-vendor: 'Sony'
 device-model-name: 'Xperia Z1'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'CherishOS'

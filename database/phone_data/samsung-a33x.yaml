@@ -2,6 +2,7 @@ device-name: 'a33x'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A33 5G'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

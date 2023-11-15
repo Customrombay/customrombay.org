@@ -2,6 +2,7 @@ device-name: 'ishtar'
 device-vendor: 'Xiaomi'
 device-model-name: '13 Ultra'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

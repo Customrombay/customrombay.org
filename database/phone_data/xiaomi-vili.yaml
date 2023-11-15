@@ -2,6 +2,7 @@ device-name: 'vili'
 device-vendor: 'Xiaomi'
 device-model-name: '11T Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

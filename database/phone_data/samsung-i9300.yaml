@@ -2,6 +2,32 @@ device-name: 'i9300'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S III (International)'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 4412'
+  gpu: 'ARM Mali-400 MP4'
+  ram: '1 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 4.8
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 2100
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'NFC'
+    - 'Barometer'
+  release: '2012-05'
 roms: 
   - 
     rom-name: 'LineageOS'

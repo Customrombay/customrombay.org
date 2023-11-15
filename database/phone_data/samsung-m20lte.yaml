@@ -2,6 +2,32 @@ device-name: 'm20lte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy M20'
 device-description: null
+specs: 
+  soc: 'Samsung Exynos 7904'
+  gpu: 'ARM Mali-G71 MP2'
+  ram: '3/4 GB'
+  storage: '32/64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2340x1080'
+    size: 6.3
+    technology: 'PLS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+  release: '2019-01-28'
 roms: 
   - 
     rom-name: 'LineageOS'

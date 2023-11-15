@@ -2,6 +2,7 @@ device-name: 'camellia'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 10 5G / Redmi Note 11SE / Redmi Note 10T 5G / POCO M3 Pro 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'CherishOS'
@@ -14,7 +15,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#camellia'

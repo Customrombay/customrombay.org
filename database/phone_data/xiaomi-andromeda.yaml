@@ -2,6 +2,7 @@ device-name: 'andromeda'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi Mix 3 5G'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelExperience'

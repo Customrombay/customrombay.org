@@ -2,6 +2,7 @@ device-name: 'm1882'
 device-vendor: 'Meizu'
 device-model-name: '16th'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

@@ -2,6 +2,7 @@ device-name: 'maple'
 device-vendor: 'Sony'
 device-model-name: 'Xperia XZ Premium'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

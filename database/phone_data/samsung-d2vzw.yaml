@@ -2,6 +2,33 @@ device-name: 'd2vzw'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S III (Verizon)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8960 Snapdragon S4 Plus'
+  gpu: 'Qualcomm Adreno 225'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 4.8
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 2100
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G CDMA'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Proximity sensor'
+    - 'Light sensor'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Compass'
+    - 'A-GPS'
+    - 'NFC'
+  release: '2012-06-28'
 roms: 
   - 
     rom-name: 'LineageOS'

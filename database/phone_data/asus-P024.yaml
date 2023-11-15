@@ -2,6 +2,30 @@ device-name: 'P024'
 device-vendor: 'ASUS'
 device-model-name: 'ZenPad 8.0 (Z380KL)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8916 Snapdragon 410'
+  gpu: 'Qualcomm Adreno 306'
+  ram: '1/2 GB'
+  storage: '8/16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x800'
+    size: 8
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2015-07'
 roms: 
   - 
     rom-name: 'LineageOS'

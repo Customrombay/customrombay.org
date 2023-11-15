@@ -2,6 +2,35 @@ device-name: 'z2_plus'
 device-vendor: 'ZUK'
 device-model-name: 'Z2 Plus'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8996 Snapdragon 820'
+  gpu: 'Qualcomm Adreno 530'
+  ram: '3 GB LPDDR4 / 4 GB LPDDR4'
+  storage: '32 / 64 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3500
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2016-06'
 roms: 
   - 
     rom-name: 'LineageOS'

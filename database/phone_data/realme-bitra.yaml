@@ -2,6 +2,7 @@ device-name: 'bitra'
 device-vendor: 'Realme'
 device-model-name: 'GT NEO 2'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'PixelOS'

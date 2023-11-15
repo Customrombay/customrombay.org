@@ -2,6 +2,37 @@ device-name: 'kipper'
 device-vendor: 'Wileyfox'
 device-model-name: 'Storm'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8939 Snapdragon 615'
+  gpu: 'Qualcomm Adreno 405'
+  ram: '3 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1920x1080'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2500
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'FM radio'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2015-11'
 roms: 
   - 
     rom-name: 'LineageOS'

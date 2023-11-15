@@ -2,6 +2,7 @@ device-name: 'jackpot2lte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A8+ 2018'
 device-description: null
+specs: null
 roms: []
 recoveries: 
   - 

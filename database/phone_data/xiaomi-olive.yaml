@@ -2,6 +2,7 @@ device-name: 'olive'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 8'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

@@ -2,6 +2,17 @@ device-name: 'porg_tab'
 device-vendor: 'NVIDIA'
 device-model-name: 'Jetson (Nano / Nano 2GB) [Tablet]'
 device-description: null
+specs: 
+  soc: 'NVIDIA Tegra X1 (T210)'
+  gpu: 'NVIDIA GM20B (Maxwell)'
+  ram: '4 GB'
+  storage: 'Sdcard/16 GB'
+  is_ab_device: null
+  screen: 'None'
+  battery: 'None'
+  network: 'None'
+  peripherals: 'None'
+  release: '2019-03-18'
 roms: 
   - 
     rom-name: 'LineageOS'

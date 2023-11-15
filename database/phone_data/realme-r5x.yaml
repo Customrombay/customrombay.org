@@ -2,6 +2,7 @@ device-name: 'r5x'
 device-vendor: 'Realme'
 device-model-name: 'X5x'
 device-description: 'Realme 5 Series'
+specs: null
 roms: 
   - 
     rom-name: 'ArrowOS'

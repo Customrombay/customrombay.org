@@ -2,6 +2,32 @@ device-name: 'anne'
 device-vendor: 'Huawei'
 device-model-name: 'P20 Lite'
 device-description: null
+specs: 
+  soc: 'HiSilicon Kirin 659'
+  gpu: 'ARM Mali-T830 MP2'
+  ram: '4 GB'
+  storage: '32/64/128 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2240'
+    size: 5.84
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+  release: '2018-03'
 roms: 
   - 
     rom-name: 'LineageOS'

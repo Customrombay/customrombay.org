@@ -2,6 +2,35 @@ device-name: 'tsubasa'
 device-vendor: 'Sony'
 device-model-name: 'Xperia V'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8960 Snapdragon S4'
+  gpu: 'Qualcomm Adreno 225'
+  ram: '1 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '720x1280'
+    size: 4.3
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 1700
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'MHL'
+    - 'HDMI'
+    - 'GPS'
+    - 'NFC'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+  release: '2012-09'
 roms: 
   - 
     rom-name: 'LineageOS'

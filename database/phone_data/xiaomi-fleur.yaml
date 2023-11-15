@@ -2,6 +2,7 @@ device-name: 'fleur'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO M4 Pro / Redmi Note 11S'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'CherishOS'

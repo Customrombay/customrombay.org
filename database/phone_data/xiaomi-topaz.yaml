@@ -2,6 +2,7 @@ device-name: 'topaz'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12 NFC'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

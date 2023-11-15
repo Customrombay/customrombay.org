@@ -2,6 +2,7 @@ device-name: 'z3s'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy S20 Ultra'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'

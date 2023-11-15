@@ -2,6 +2,40 @@ device-name: 'bluejay'
 device-vendor: 'Google'
 device-model-name: 'Pixel 6a'
 device-description: null
+specs: 
+  soc: 'Google Tensor GS101'
+  gpu: 'ARM Mali-G78 MP20'
+  ram: '6 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.1
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4410
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2022-07'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,7 @@ device-name: 'gram'
 device-vendor: 'Xiaomi'
 device-model-name: 'Poco M2 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'CorvusOS'

@@ -2,6 +2,32 @@ device-name: 'victara'
 device-vendor: 'Motorola'
 device-model-name: 'moto x (2014)'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8974AC Snapdragon 801'
+  gpu: 'Qualcomm Adreno 330'
+  ram: '2 GB'
+  storage: '16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 5.2
+    technology: 'AMOLED'
+  battery: 
+    capacity: 2300
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Thermometer'
+  release: '2014-09-26'
 roms: 
   - 
     rom-name: 'LineageOS'

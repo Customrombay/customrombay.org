@@ -2,6 +2,7 @@ device-name: 'socrates'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi K60 Pro'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

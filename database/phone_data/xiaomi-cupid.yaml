@@ -2,6 +2,7 @@ device-name: 'cupid'
 device-vendor: 'Xiaomi'
 device-model-name: '12'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'EvolutionX'

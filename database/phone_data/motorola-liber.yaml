@@ -2,6 +2,35 @@ device-name: 'liber'
 device-vendor: 'Motorola'
 device-model-name: 'Moto One Fusion +'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7150-AA Snapdragon 730'
+  gpu: 'Qualcomm Adreno 618'
+  ram: '4/6 GB'
+  storage: '128 GB UFS 2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2340'
+    size: 6.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'GPS'
+  release: '2020-06'
 roms: 
   - 
     rom-name: 'LineageOS'

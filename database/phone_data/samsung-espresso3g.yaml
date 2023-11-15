@@ -2,6 +2,30 @@ device-name: 'espresso3g'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)'
 device-description: null
+specs: 
+  soc: 'TI OMAP4430'
+  gpu: 'PowerVR SGX540'
+  ram: '1 GB'
+  storage: '8/16/32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '800x1280'
+    size: 10.1
+    technology: 'PLS LCD'
+  battery: 
+    capacity: 7000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+  peripherals: 
+    - 'Proximity sensor'
+    - 'Light sensor'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Compass'
+    - 'GPS'
+  release: '2012-04'
 roms: 
   - 
     rom-name: 'LineageOS'

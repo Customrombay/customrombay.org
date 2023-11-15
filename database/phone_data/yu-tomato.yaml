@@ -2,6 +2,29 @@ device-name: 'tomato'
 device-vendor: 'YU'
 device-model-name: 'Yureka / Yureka Plus'
 device-description: null
+specs: 
+  soc: 'Qualcomm MSM8939 Snapdragon 615'
+  gpu: 'Qualcomm Adreno 405'
+  ram: '2 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 5.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 2500
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'GPS'
+    - 'Light sensor'
+    - 'Proximity sensor'
+  release: '2014-12-18'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -2,6 +2,7 @@ device-name: 'mayfly'
 device-vendor: 'Xiaomi'
 device-model-name: '12S'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

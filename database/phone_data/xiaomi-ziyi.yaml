@@ -2,6 +2,7 @@ device-name: 'ziyi'
 device-vendor: 'Xiaomi'
 device-model-name: '13 Lite'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'xiaomi.eu'

@@ -2,6 +2,7 @@ device-name: 'jingpad_a1'
 device-vendor: 'Jingling'
 device-model-name: 'JingPad A1'
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 

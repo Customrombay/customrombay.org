@@ -2,6 +2,7 @@ device-name: 'j7xelte'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy J7 (2016)'
 device-description: null
+specs: null
 roms: 
   - 
     rom-name: 'crDroid'
