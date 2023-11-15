@@ -31,11 +31,11 @@ String generateReleaseDateString(String releaseDate) {
   if (releaseDate.contains("-")){
     List<String> listOfDates = releaseDate.split("-");
     if (listOfDates.length == 3) {
-      return "It has been released on ${monthNameFromNumber(listOfDates[1])} ${listOfDates[2]}, ${listOfDates[0]}.";
+      return "It was released on ${monthNameFromNumber(listOfDates[1])} ${listOfDates[2]}, ${listOfDates[0]}.";
     }
-    return "It has been released in ${monthNameFromNumber(listOfDates[1])} ${listOfDates[0]}.";
+    return "It was released in ${monthNameFromNumber(listOfDates[1])} ${listOfDates[0]}.";
   }
-  return "It has been released in ${releaseDate}.";
+  return "It was released in ${releaseDate}.";
 }
 
 String monthNameFromNumber(String numberName) {
