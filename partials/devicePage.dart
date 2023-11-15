@@ -3,6 +3,7 @@ import 'package:staurolite/staurolite.dart';
 import '../utils/getDeviceImagePath.dart';
 
 import 'device.dart';
+import 'generate_description_for_device.dart';
 import 'phoneTable.dart';
 import 'recovery_table.dart';
 import 'linux_table.dart';
@@ -39,6 +40,9 @@ class DevicePage {
             ),
             Paragraph(
               text: device.deviceDescription
+            ),
+            Paragraph(
+              text: generateDescriptionForDevice(device)
             ),
             Heading(
               level: 2,

@@ -1,6 +1,7 @@
 import 'package:staurolite/staurolite.dart';
 import 'partials/devicePage.dart';
 import 'partials/device.dart';
+import 'partials/device_specs.dart';
 import 'partials/posts_gallery_page.dart';
 import 'partials/romForDevice.dart';
 import 'partials/recovery_for_device.dart';
@@ -139,6 +140,21 @@ Future<List<Device>> listOfDevices() async {
         }
       }
     }
+    DeviceSpecs? deviceSpecs = null;
+    if (ydoc["specs"] != null) {
+      deviceSpecs = DeviceSpecs(
+        soc: ydoc["specs"]["soc"] is String ? ydoc["specs"]["soc"] : null,
+        gpu: ydoc["specs"]["gpu"] is String ? ydoc["specs"]["gpu"] : null,
+        ram: ydoc["specs"]["ram"] is String ? ydoc["specs"]["ram"] : null,
+        storage: ydoc["specs"]["storage"] is String ? ydoc["specs"]["storage"] : null,
+        isABDevice: ydoc["specs"]["is_ab_device"] is bool ? ydoc["specs"]["is_ab_device"] : null,
+        screen: ydoc["specs"]["screen"] is Map ? ydoc["specs"]["screen"] : null,
+        battery: ydoc["specs"]["battery"] is Map ? ydoc["specs"]["battery"] : null,
+        network: ydoc["specs"]["network"] is List ? ydoc["specs"]["network"] : null,
+        peripherals: ydoc["specs"]["peripherals"] is List ? ydoc["specs"]["peripherals"] : null,
+        release: ydoc["specs"]["release"] is String ? ydoc["specs"]["release"] : (ydoc["specs"]["release"] is int ? ydoc["specs"]["release"].toString() : null),
+      );
+    }
 
     listOfDevices += [
       Device(
@@ -146,6 +162,7 @@ Future<List<Device>> listOfDevices() async {
         deviceVendor: ydoc["device-vendor"],
         deviceModelName: ydoc["device-model-name"].toString(),
         deviceDescription: ydoc["device-description"] ?? "",
+        deviceSpecs: deviceSpecs,
         listOfRoms: listOfRoms,
         listOfRecoveries: listOfRecoveries,
         listOfLinuxDistributions: listOfDistributions

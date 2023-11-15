@@ -1,6 +1,7 @@
 import 'romForDevice.dart';
 import 'recovery_for_device.dart';
 import 'linux_for_device.dart';
+import 'device_specs.dart';
 
 class Device {
   Device ({
@@ -8,6 +9,7 @@ class Device {
     required this.deviceVendor,
     required this.deviceModelName,
     required this.deviceDescription,
+    this.deviceSpecs,
     required this.listOfRoms,
     required this.listOfRecoveries,
     required this.listOfLinuxDistributions,
@@ -17,6 +19,7 @@ class Device {
   String deviceVendor = "";
   String deviceModelName = "";
   String deviceDescription = "";
+  DeviceSpecs? deviceSpecs;
   List<RomForDevice> listOfRoms = [];
   List<RecoveryForDevice> listOfRecoveries = [];
   List<LinuxForDevice> listOfLinuxDistributions = [];
