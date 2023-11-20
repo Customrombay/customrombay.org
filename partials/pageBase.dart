@@ -63,7 +63,12 @@ class PageBase {
           Link(
             rel: "icon",
             href: "/logo.png"
-          )
+          ),
+          CustomComponent(html: """<script type="text/javascript">
+var infolinks_pid = 3409399;
+var infolinks_wsid = 0;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>""")
         ]
       ),
       body: Body(
