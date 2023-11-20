@@ -10,16 +10,13 @@ String generateDescriptionForDevice(Device device) {
         if (device.deviceSpecs!.battery != null && device.deviceSpecs!.battery!["capacity"] != null && device.deviceSpecs!.battery!["removable"] != null && device.deviceSpecs!.battery!["removable"] is bool && device.deviceSpecs!.battery!["tech"] != null) {
           if (device.deviceSpecs!.battery!["removable"]!) {
             deviceDescription += " Its ${device.deviceSpecs!.battery!["tech"]} battery is removable and has a capacity of ${device.deviceSpecs!.battery!["capacity"]!} mAh.";
-            if (device.deviceSpecs!.release != null) {
-              deviceDescription += " ${generateReleaseDateString(device.deviceSpecs!.release!)}";
-            }
           }
           else {
             deviceDescription += " Its ${device.deviceSpecs!.battery!["tech"]} battery is non-removable and has a capacity of ${device.deviceSpecs!.battery!["capacity"]!} mAh.";
-            if (device.deviceSpecs!.release != null) {
-              deviceDescription += " ${generateReleaseDateString(device.deviceSpecs!.release!)}";
-            }
           }
+        }
+        if (device.deviceSpecs!.release != null) {
+          deviceDescription += " ${generateReleaseDateString(device.deviceSpecs!.release!)}";
         }
       }
     }
