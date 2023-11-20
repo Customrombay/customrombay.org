@@ -1,0 +1,43 @@
+device-name: 'gta4l'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Tab A7 10.4 2020 (LTE)'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM6115 Snapdragon 662'
+  gpu: 'Qualcomm Adreno 610'
+  ram: '3 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2000x1200'
+    size: 10.4
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 7040
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'Light sensor'
+    - 'USB OTG'
+  release: '2020-09'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/gta4l/'
+
+recoveries: null
+linux: null

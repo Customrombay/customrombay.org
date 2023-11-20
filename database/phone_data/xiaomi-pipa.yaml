@@ -3,7 +3,15 @@ device-vendor: 'Xiaomi'
 device-model-name: 'Pad 6'
 device-description: null
 specs: null
-roms: []
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#pipa'
+
 recoveries: []
 linux: 
   - 

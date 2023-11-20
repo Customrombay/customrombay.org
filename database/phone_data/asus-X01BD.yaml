@@ -113,7 +113,7 @@ roms:
     android-version: '12'
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
-    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/asus/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/X01BD/'
   - 
     rom-name: 'BlissROM'
     rom-support: true

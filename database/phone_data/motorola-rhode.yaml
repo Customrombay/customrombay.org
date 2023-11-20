@@ -47,6 +47,13 @@ roms:
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/rhode/'
   - 
+    rom-name: 'Optimized LineageOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://xdaforums.com/t/rom-t-rhode-unofficial-optimized-lineageos-20-november-10th.4628099/'
+    phone-webpage: 'https://xdaforums.com/t/rom-t-rhode-unofficial-optimized-lineageos-20-november-10th.4628099/'
+  - 
     rom-name: 'crDroid'
     rom-support: true
     rom-state: 'Official'
@@ -84,7 +91,42 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
-    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/motorola/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/rhode/'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://community.e.foundation/t/unofficial-builds-motorola-moto-g52-moto-g42-for-e-os-t/52453'
+  - 
+    rom-name: 'ArrowOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://arrowos.net/'
+    phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
+  - 
+    rom-name: 'CherishOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://cherishos.com/'
+    phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
+  - 
+    rom-name: 'PixelExperience'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
+  - 
+    rom-name: 'DroidX-UI'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://github.com/DroidX-UI'
+    phone-webpage: 'https://sourceforge.net/projects/droidxui-releases/files/rhode/'
 
 recoveries: null
 linux: null

@@ -2,6 +2,24 @@ device-name: 'pearl'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12T Pro'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6896Z Dimensity 8200 Ultra'
+  gpu: 'Mali-G610 MC6'
+  ram: '8/12 GB'
+  storage: '128/256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 144
+    resolution: '1080x2460'
+    size: 6.6
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5080
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-06'
 roms: []
 
 recoveries: []

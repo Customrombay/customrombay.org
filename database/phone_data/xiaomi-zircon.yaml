@@ -2,6 +2,24 @@ device-name: 'zircon'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 13 Pro+'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6886 Dimensity 7200 Ultra'
+  gpu: 'Mali-G610 MC4'
+  ram: '12/16 GB'
+  storage: '256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1220x2712'
+    size: 6.67
+    technology: 'OLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-09'
 roms: []
 
 recoveries: null

@@ -2,7 +2,24 @@ device-name: 'sunstone'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12 5G/Note 12R Pro'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM4375 Snapdragon 4 Gen 1'
+  gpu: 'Adreno 619'
+  ram: '4/6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-10'
 roms: 
   - 
     rom-name: 'xiaomi.eu'

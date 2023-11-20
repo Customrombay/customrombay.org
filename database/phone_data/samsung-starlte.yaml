@@ -90,7 +90,7 @@ roms:
   - 
     rom-name: 'PixelOS'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '12'
     rom-notes: ''
     rom-webpage: 'https://pixelos.net/'
@@ -110,7 +110,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
-    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/samsung/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/starlte/'
   - 
     rom-name: 'BlissROM'
     rom-support: true

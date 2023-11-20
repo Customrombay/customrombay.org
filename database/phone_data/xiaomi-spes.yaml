@@ -23,7 +23,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#spes'
@@ -82,15 +82,23 @@ roms:
     android-version: '12'
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
-    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/xiaomi/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/spes/'
   - 
     rom-name: 'AncientOS'
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
     rom-notes: ''
-    rom-webpage: 'https://sourceforge.net/projects/ancientrom/'
-    phone-webpage: ''
+    rom-webpage: 'https://ancientrom.xyz/'
+    phone-webpage: 'https://ancientrom.xyz/download'
+  - 
+    rom-name: 'DroidX-UI'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/DroidX-UI'
+    phone-webpage: 'https://sourceforge.net/projects/droidxui-releases/files/spes/'
 
 recoveries: 
   - 

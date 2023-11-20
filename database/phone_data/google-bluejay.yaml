@@ -98,7 +98,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
-    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/google/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/bluejay/'
   - 
     rom-name: 'BlissROM'
     rom-support: true

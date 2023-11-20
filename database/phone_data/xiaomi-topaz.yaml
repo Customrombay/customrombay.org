@@ -2,7 +2,24 @@ device-name: 'topaz'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12 NFC'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM6225 Snapdragon 685'
+  gpu: 'Adreno 610'
+  ram: '4/6/8 GB'
+  storage: '64/128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-03'
 roms: 
   - 
     rom-name: 'xiaomi.eu'

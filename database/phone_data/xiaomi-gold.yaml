@@ -2,6 +2,24 @@ device-name: 'gold'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 13 5G / Redmi Note 13R Pro'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6833P Dimensity 6080'
+  gpu: 'Mali-G57 MC2'
+  ram: '6/8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-09'
 roms: []
 
 recoveries: null

@@ -89,7 +89,7 @@ roms:
     rom-name: 'crDroid'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#haydn'
   - 
@@ -116,6 +116,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://blissroms.org/'
     phone-webpage: 'https://downloads.blissroms.org/download/haydn/'
+  - 
+    rom-name: 'DroidX-UI'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/DroidX-UI'
+    phone-webpage: 'https://sourceforge.net/projects/droidxui-releases/files/haydn/'
 
 recoveries: 
   - 

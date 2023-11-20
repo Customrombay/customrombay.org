@@ -2,6 +2,24 @@ device-name: 'sea'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12S'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6781 Helio G96'
+  gpu: 'Mali-G57 MC2'
+  ram: '6/8 GB'
+  storage: '64/128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.43
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-04'
 roms: []
 
 recoveries: []

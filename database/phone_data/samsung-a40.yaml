@@ -18,7 +18,7 @@ roms:
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
-    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/samsung/'
+    phone-webpage: 'https://sourceforge.net/projects/derpfest/files/a40/'
 
 recoveries: 
   - 

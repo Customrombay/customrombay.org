@@ -2,6 +2,24 @@ device-name: 'ruby'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12 Pro'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6877V Dimensity 1080'
+  gpu: 'Mali-G68 MC4'
+  ram: '6/8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'OLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-11'
 roms: []
 
 recoveries: []

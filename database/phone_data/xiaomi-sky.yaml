@@ -2,7 +2,24 @@ device-name: 'sky'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 12R / Redmi 12 5G / POCO M6 Pro 5G'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm Snapdragon 4 Gen 2'
+  gpu: 'Adreno 613'
+  ram: '4/6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2460'
+    size: 6.79
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-06'
 roms: 
   - 
     rom-name: 'crDroid'

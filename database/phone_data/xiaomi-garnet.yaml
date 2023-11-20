@@ -2,6 +2,24 @@ device-name: 'garnet'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 13 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM7435-AB Snapdragon 7s Gen 2'
+  gpu: 'Adreno 710'
+  ram: '8/12/16 GB'
+  storage: '128/256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1220x2712'
+    size: 6.67
+    technology: 'OLED'
+  battery: 
+    capacity: 5100
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-09'
 roms: []
 
 recoveries: null
