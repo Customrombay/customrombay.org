@@ -61,4 +61,12 @@ roms:
     phone-webpage: 'https://evolution-x.org/device/lunaa'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Realme_GT_Master_(realme-lunaa)'
+

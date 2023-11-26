@@ -1,0 +1,26 @@
+device-name: 'dm3q'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S23 Ultra'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8550-AC Snapdragon 8 Gen 2'
+  gpu: 'Qualcomm Adreno 740'
+  ram: '8/12 GB'
+  storage: '256/512/1024 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1440x3088'
+    size: 6.8
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Ion'
+  network: null
+  peripherals: null
+  release: '2023-02'
+roms: []
+recoveries: []
+
+linux: null

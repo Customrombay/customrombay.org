@@ -139,6 +139,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://pixelos.net/download/cheetah'
-
+  - 
+    rom-name: 'CalyxOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://calyxos.org/'
+    phone-webpage: 'https://calyxos.org/install/devices/cheetah/'
+    
 recoveries: null
 linux: null

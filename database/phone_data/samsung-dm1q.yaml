@@ -1,0 +1,26 @@
+device-name: 'dm1q'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S23'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8550-AC Snapdragon 8 Gen 2'
+  gpu: 'Qualcomm Adreno 740'
+  ram: '8 GB'
+  storage: '128/256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2340'
+    size: 6.1
+    technology: 'AMOLED'
+  battery: 
+    capacity: 3900
+    removable: false
+    tech: 'Li-Ion'
+  network: null
+  peripherals: null
+  release: '2023-02'
+roms: []
+recoveries: []
+
+linux: null

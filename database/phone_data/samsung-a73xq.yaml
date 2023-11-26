@@ -2,8 +2,24 @@ device-name: 'a73xq'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A73 5G'
 device-description: null
-roms: []
+specs: null
+roms: 
+  - 
+    rom-name: 'PixelExperience'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/a73xq/'
+  - 
+    rom-name: 'PixelExperience Plus'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://download.pixelexperience.org/'
+    phone-webpage: 'https://download.pixelexperience.org/a73xq/'
 
 recoveries: []
-
 linux: []
