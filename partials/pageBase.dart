@@ -5,6 +5,7 @@ class PageBase {
     required this.path,
     required this.title,
     required this.listOfWidgets,
+    this.listOfHeadWidgets = const [],
     this.description
   });
 
@@ -12,6 +13,7 @@ class PageBase {
   String title;
   String? description;
   List<HtmlWidget> listOfWidgets;
+  List<HtmlWidget> listOfHeadWidgets;
 
   HtmlDoc toHtmlDoc() {
     return HtmlDoc(
@@ -69,7 +71,7 @@ var infolinks_pid = 3409399;
 var infolinks_wsid = 0;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>""")
-        ]
+        ] + listOfHeadWidgets,
       ),
       body: Body(
         properties: "bg-gray-100 dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen",
