@@ -28,6 +28,13 @@ roms:
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#sky'
+  - 
+    rom-name: 'Paranoid Android'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://paranoidandroid.co/'
+    phone-webpage: 'https://sourceforge.net/projects/sky-development/files/aospa/'
 
 recoveries: []
 linux: null

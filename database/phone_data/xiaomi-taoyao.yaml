@@ -2,7 +2,24 @@ device-name: 'taoyao'
 device-vendor: 'Xiaomi'
 device-model-name: '12 Lite'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM7325 Snapdragon 778G'
+  gpu: 'Qualcomm Adreno 642L'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.55
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4300
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-07'
 roms: 
   - 
     rom-name: 'xiaomi.eu'

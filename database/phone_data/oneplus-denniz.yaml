@@ -15,7 +15,7 @@ roms:
   - 
     rom-name: 'Project Elixir'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'

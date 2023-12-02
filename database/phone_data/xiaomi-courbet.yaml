@@ -2,7 +2,24 @@ device-name: 'courbet'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 11 Lite 4G'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM7150 Snapdragon 732G'
+  gpu: 'Qualcomm Adreno 618'
+  ram: '4/6/8 GB'
+  storage: '64/128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.55
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4250
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2021-03'
 roms: 
   - 
     rom-name: 'crDroid'
@@ -37,4 +54,12 @@ roms:
     phone-webpage: 'https://ancientrom.xyz/download'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_Mi_11_Lite_4G_(xiaomi-courbet)'
+

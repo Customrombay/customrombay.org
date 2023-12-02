@@ -2,7 +2,24 @@ device-name: 'venus'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 11'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM8350 Snapdragon 888'
+  gpu: 'Qualcomm Adreno 660'
+  ram: '6/8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1440x3200'
+    size: 6.81
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4600
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-12'
 roms: 
   - 
     rom-name: 'PixelExperience'
@@ -62,7 +79,7 @@ roms:
   - 
     rom-name: 'Project Elixir'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'

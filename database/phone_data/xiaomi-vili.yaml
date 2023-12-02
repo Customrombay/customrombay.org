@@ -2,7 +2,24 @@ device-name: 'vili'
 device-vendor: 'Xiaomi'
 device-model-name: '11T Pro'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM8350 Snapdragon 888'
+  gpu: 'Qualcomm Adreno 660'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2021-09'
 roms: 
   - 
     rom-name: 'xiaomi.eu'

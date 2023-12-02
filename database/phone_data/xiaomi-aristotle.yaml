@@ -2,6 +2,24 @@ device-name: 'aristotle'
 device-vendor: 'Xiaomi'
 device-model-name: '13T'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6896Z Dimensity 8200 Ultra'
+  gpu: 'Mali-G610 MC6'
+  ram: '8/12 GB'
+  storage: '256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 144
+    resolution: '1220x2712'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-09'
 roms: []
 
 recoveries: null

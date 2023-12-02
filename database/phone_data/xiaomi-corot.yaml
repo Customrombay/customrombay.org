@@ -2,6 +2,24 @@ device-name: 'corot'
 device-vendor: 'Xiaomi'
 device-model-name: '13T Pro / Redmi K60 Ultra'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6985 Dimensity 9200+'
+  gpu: 'Immortalis-G715 MC11'
+  ram: '12/16 GB'
+  storage: '256/512/1024 GB'
+  is_ab_device: true
+  screen:
+    refresh_rate: 144
+    resolution: '1220x2712'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-09'
 roms: []
 
 recoveries: []

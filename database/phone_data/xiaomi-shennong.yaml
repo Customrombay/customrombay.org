@@ -2,6 +2,24 @@ device-name: 'shennong'
 device-vendor: 'Xiaomi'
 device-model-name: '14 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8650-AB Snapdragon 8 Gen 3'
+  gpu: 'Qualcomm Adreno 750'
+  ram: '12/16 GB'
+  storage: '256/512/1024 GB'
+  is_ab_device: true
+  screen:
+    refresh_rate: 120
+    resolution: '1440x3200'
+    size: 6.73
+    technology: 'LTPO AMOLED'
+  battery: 
+    capacity: 4880
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-10'
 roms: []
 
 recoveries: []

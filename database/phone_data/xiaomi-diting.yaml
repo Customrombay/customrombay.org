@@ -2,7 +2,24 @@ device-name: 'diting'
 device-vendor: 'Xiaomi'
 device-model-name: '12T Pro/Redmi K50 Ultra'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM8475 Snapdragon 8+ Gen 1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1220x2712'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-10'
 roms: 
   - 
     rom-name: 'xiaomi.eu'

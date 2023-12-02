@@ -2,7 +2,24 @@ device-name: 'thyme'
 device-vendor: 'Xiaomi'
 device-model-name: 'Mi 10S'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM8250-AC Snapdragon 870'
+  gpu: 'Qualcomm Adreno 650'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2340'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4780
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2021-03'
 roms: 
   - 
     rom-name: 'ArrowOS'

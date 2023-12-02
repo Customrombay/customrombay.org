@@ -2,6 +2,24 @@ device-name: 'daumier'
 device-vendor: 'Xiaomi'
 device-model-name: '12 Pro Dimensity Edition'
 device-description: null
+specs: 
+  soc: 'Mediatek MT6983W/CZA Dimensity 9000+'
+  gpu: 'Mali-G710 MC10'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1440x3200'
+    size: 6.73
+    technology: 'LTPO2 AMOLED'
+  battery: 
+    capacity: 5160
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-06'
 roms: []
 
 recoveries: []

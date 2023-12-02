@@ -2,6 +2,24 @@ device-name: 'houji'
 device-vendor: 'Xiaomi'
 device-model-name: '14'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8650-AB Snapdragon 8 Gen 3'
+  gpu: 'Qualcomm Adreno 750'
+  ram: '8/12/16 GB'
+  storage: '256/512/1024 GB'
+  is_ab_device: true
+  screen:
+    refresh_rate: 120
+    resolution: '1200x2670'
+    size: 6.36
+    technology: 'LTPO OLED'
+  battery: 
+    capacity: 4610
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-10'
 roms: []
 
 recoveries: []

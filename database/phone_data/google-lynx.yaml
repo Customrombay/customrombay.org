@@ -108,6 +108,6 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://calyxos.org/'
     phone-webpage: 'https://calyxos.org/install/devices/lynx/'
-    
+
 recoveries: null
 linux: null
