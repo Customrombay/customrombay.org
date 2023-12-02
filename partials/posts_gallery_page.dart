@@ -35,7 +35,13 @@ class PostsGalleryPage {
               path: "/posts/gsi_roms",
               imagePath: "/post-images/gsi_roms_1.webp",
               publishDate: ""
-            )
+            ),
+            PostView(
+              title: "This device isn't Play Protect certified - easy fix for Android 14 and older",
+              path: "/posts/play_protect_certification_fix",
+              imagePath: "/post-images/play_protect_certification_fix_1.webp",
+              publishDate: ""
+            ),
           ]
         )
       ]
