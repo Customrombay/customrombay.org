@@ -23,7 +23,7 @@ specs:
     - 'Accelerometer'
     - 'Compass'
     - 'Gyroscope'
-    - 'Infrared sensor'
+    - 'IR blaster'
     - 'Proximity sensor'
   release: '2014-06'
 roms: 

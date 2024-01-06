@@ -24,7 +24,7 @@ specs:
     - 'GPS'
     - 'GLONASS'
     - 'NFC'
-    - 'Infrared sensor'
+    - 'IR blaster'
     - 'USB OTG'
     - 'MHL 2.0'
     - 'MHL HDMI'

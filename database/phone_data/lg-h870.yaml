@@ -14,7 +14,7 @@ specs:
     technology: 'IPS LCD'
   battery: 
     capacity: 3300
-    removable: true
+    removable: false
     tech: 'Li-Ion'
   network: 
     - '2G GSM'

@@ -1,0 +1,38 @@
+device-name: 'Pong'
+device-vendor: 'Nothing'
+device-model-name: 'Phone (2)'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8475 Snapdragon 8+ Gen 1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '8/12 GB'
+  storage: '128/256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2412'
+    size: 6.7
+    technology: 'LTPO OLED'
+  battery: 
+    capacity: 4700
+    removable: false
+    tech: 'Li-Ion'
+  release: '2023-07'
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://xdaforums.com/t/rom-unofficial-pong-14-0-crdroidandroid-v10-x.4646393/'
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://xdaforums.com/t/rom-unofficial-pong-14-beta-pixelos-14-2023-12-22.4642760/'
+
+recoveries: null
+linux: null

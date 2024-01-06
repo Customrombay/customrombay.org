@@ -14,11 +14,12 @@ specs:
     technology: 'IPS LCD'
   battery: 
     capacity: 3300
-    removable: true
+    removable: false
     tech: 'Li-Ion'
   network: 
     - '2G GSM'
     - '3G UMTS'
+    - '3G CDMA2000'
     - '4G LTE'
   peripherals: 
     - 'Fingerprint reader'

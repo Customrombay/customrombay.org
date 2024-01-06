@@ -50,9 +50,9 @@ roms:
     rom-name: 'Optimized LineageOS'
     rom-support: true
     rom-state: 'Unofficial'
-    android-version: '13'
-    rom-webpage: 'https://xdaforums.com/t/rom-t-rhode-unofficial-optimized-lineageos-20-november-10th.4628099/'
-    phone-webpage: 'https://xdaforums.com/t/rom-t-rhode-unofficial-optimized-lineageos-20-november-10th.4628099/'
+    android-version: '14'
+    rom-webpage: 'https://xdaforums.com/t/rom-u-rhode-unofficial-optimized-lineageos-21-december-28th.4628099/'
+    phone-webpage: 'https://xdaforums.com/t/rom-u-rhode-unofficial-optimized-lineageos-21-december-28th.4628099/'
   - 
     rom-name: 'crDroid'
     rom-support: true
@@ -60,6 +60,14 @@ roms:
     android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#rhode'
+  - 
+    rom-name: 'AwakenOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://awakenos.vercel.app/'
+    phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
   - 
     rom-name: 'RisingOS'
     rom-support: true
@@ -136,5 +144,12 @@ roms:
     rom-webpage: 'https://calyxos.org/'
     phone-webpage: 'https://calyxos.org/install/devices/rhode/'
 
-recoveries: null
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/motorola/motorolamotog52.html'
+
 linux: null

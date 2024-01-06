@@ -2,8 +2,15 @@ device-name: 'a21s'
 device-vendor: 'Samsung'
 device-model-name: 'Galaxy A21s'
 device-description: null
+specs: null
 roms: []
-
 recoveries: []
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Samsung_Galaxy_A21s'
 
-linux: []

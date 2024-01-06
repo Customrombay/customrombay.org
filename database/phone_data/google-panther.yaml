@@ -88,7 +88,7 @@ roms:
     rom-name: 'crDroid'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#panther'
   - 
@@ -147,6 +147,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://calyxos.org/'
     phone-webpage: 'https://calyxos.org/install/devices/panther/'
+  - 
+    rom-name: 'iodéOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://iode.tech/iodeos-en/'
+    phone-webpage: 'https://github.com/iodeOS/ota/releases/tag/v4-panther'
 
 recoveries: null
 linux: null

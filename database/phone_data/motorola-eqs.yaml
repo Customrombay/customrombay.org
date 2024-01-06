@@ -2,7 +2,16 @@ device-name: 'eqs'
 device-vendor: 'Motorola'
 device-model-name: 'Edge 30 Ultra'
 device-description: null
-roms: []
+specs: null
+roms: 
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/eqs'
 
 recoveries: null
 linux: null

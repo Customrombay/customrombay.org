@@ -29,7 +29,7 @@ specs:
     - 'Compass'
     - 'Barometer'
     - 'RGB ambient light'
-    - 'Infrared sensor'
+    - 'IR blaster'
   release: '2014-12'
 roms: 
   - 

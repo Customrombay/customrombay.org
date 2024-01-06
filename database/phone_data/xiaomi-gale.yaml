@@ -1,0 +1,24 @@
+device-name: 'gale'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi 13C / POCO C65'
+device-description: null
+specs: 
+  soc: 'Mediatek MT6769Z Helio G85'
+  gpu: 'Mali-G52 MC2'
+  ram: '4/6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '720x1600'
+    size: 6.74
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  release: '2023-11'
+roms: []
+recoveries: []
+linux: []
+

@@ -1,0 +1,25 @@
+device-name: 'bronco'
+device-vendor: 'Motorola'
+device-model-name: 'ThinkPhone'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8475 Snapdragon 8+ Gen 1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '8/12 GB'
+  storage: '128/256/512 GB'
+  is_ab_device: true
+  screen:
+    refresh_rate: 144
+    resolution: '1080x2400'
+    size: 6.6
+    technology: 'P-OLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  release: '2023-01'
+roms: []
+recoveries: []
+
+linux: []
+

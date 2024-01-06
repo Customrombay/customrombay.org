@@ -32,7 +32,6 @@ specs:
     - 'Barometer'
     - 'Hall effect sensor'
     - 'RGB ambient light'
-    - 'Infrared sensor'
   release: '2016-03-18'
 roms: 
   - 

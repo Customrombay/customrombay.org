@@ -33,7 +33,7 @@ specs:
     - 'GLONASS'
     - 'GPS'
     - 'Gyroscope'
-    - 'Infrared sensor'
+    - 'IR blaster'
     - 'Light sensor'
     - 'NFC'
     - 'Ultrasound proximity sensor'

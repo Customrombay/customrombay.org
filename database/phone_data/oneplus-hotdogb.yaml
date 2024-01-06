@@ -19,6 +19,7 @@ specs:
   network: 
     - '2G GSM'
     - '3G UMTS'
+    - '3G CDMA2000'
     - '4G LTE'
   peripherals: 
     - 'A-GPS'
@@ -67,7 +68,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#hotdogb'

@@ -1,0 +1,59 @@
+device-name: 'shiba'
+device-vendor: 'Google'
+device-model-name: 'Pixel 8'
+device-description: null
+specs: 
+  soc: 'Google Tensor G3'
+  gpu: 'Immortalis-G715s MC10'
+  ram: '12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.2
+    technology: 'OLED'
+  battery: 
+    capacity: 4575
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Ambient light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+    - 'USB OTG'
+  release: '2023-10-12'
+roms: 
+  - 
+    rom-name: 'GrapheneOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://grapheneos.org/'
+    phone-webpage: 'https://grapheneos.org/releases#shiba-stable'
+  - 
+    rom-name: 'CalyxOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://calyxos.org/'
+    phone-webpage: 'https://calyxos.org/install/devices/shiba/'
+
+recoveries: null
+linux: null
+

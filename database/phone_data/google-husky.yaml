@@ -1,0 +1,60 @@
+device-name: 'husky'
+device-vendor: 'Google'
+device-model-name: 'Pixel 8 Pro'
+device-description: null
+specs: 
+  soc: 'Google Tensor G3'
+  gpu: 'Immortalis-G715s MC10'
+  ram: '12 GB'
+  storage: '128 GB/256 GB/512 GB/1 TB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1344x2992'
+    size: 6.7
+    technology: 'LTPO OLED'
+  battery: 
+    capacity: 5050
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Ambient light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+    - 'USB OTG'
+  release: '2023-10-12'
+roms: 
+  - 
+    rom-name: 'GrapheneOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://grapheneos.org/'
+    phone-webpage: 'https://grapheneos.org/releases#husky-stable'
+  - 
+    rom-name: 'CalyxOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://calyxos.org/'
+    phone-webpage: 'https://calyxos.org/install/devices/husky/'
+
+recoveries: null
+linux: null
+

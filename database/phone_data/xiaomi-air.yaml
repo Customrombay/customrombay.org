@@ -1,0 +1,24 @@
+device-name: 'air'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi 13R 5G / Redmi 13C 5G / POCO M6 5G'
+device-description: null
+specs: 
+  soc: 'Mediatek Dimensity 6100+'
+  gpu: 'Mali-G57 MC2'
+  ram: '4 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '720x1600'
+    size: 6.74
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  release: '2023-12'
+roms: []
+recoveries: []
+linux: []
+

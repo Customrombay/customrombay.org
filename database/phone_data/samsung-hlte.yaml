@@ -3,7 +3,7 @@ device-vendor: 'Samsung'
 device-model-name: 'Galaxy Note 3 LTE (N9005/P)'
 device-description: null
 specs: 
-  soc: 'Qualcomm MSM8974AB Snapdragon 801'
+  soc: 'Qualcomm MSM8974 Snapdragon 800'
   gpu: 'Qualcomm Adreno 330'
   ram: '3 GB'
   storage: '16/32/64 GB'

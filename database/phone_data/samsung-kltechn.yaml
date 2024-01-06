@@ -32,7 +32,7 @@ specs:
     - 'Barometer'
     - 'Hall effect sensor'
     - 'RGB ambient light'
-    - 'Infrared sensor'
+    - 'IR blaster'
   release: 
     - 
       SM-G9006V: '2014-04'

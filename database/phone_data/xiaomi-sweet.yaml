@@ -34,7 +34,7 @@ specs:
     - 'GLONASS'
     - 'GPS'
     - 'Gyroscope'
-    - 'Infrared sensor'
+    - 'IR blaster'
     - 'Light sensor'
     - 'Ultrasound proximity sensor'
     - 'USB OTG'
@@ -205,6 +205,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://github.com/DroidX-UI'
     phone-webpage: 'https://sourceforge.net/projects/droidxui-releases/files/sweet/'
+  - 
+    rom-name: 'AwakenOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://awakenos.vercel.app/'
+    phone-webpage: 'https://awakenos.vercel.app/downloads/sweet'
 
 recoveries: 
   - 

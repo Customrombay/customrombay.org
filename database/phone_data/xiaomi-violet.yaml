@@ -33,7 +33,7 @@ specs:
     - 'GLONASS'
     - 'GPS'
     - 'Gyroscope'
-    - 'Infrared sensor'
+    - 'IR blaster'
     - 'Light sensor'
     - 'Proximity sensor'
     - 'USB OTG'
@@ -73,8 +73,8 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Discontinued'
-    android-version: '13'
+    rom-state: 'Official'
+    android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#violet'
   - 
@@ -151,7 +151,7 @@ roms:
     rom-name: 'Project Elixir'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/violet'

@@ -14,7 +14,7 @@ specs:
     technology: 'P-OLED'
   battery: 
     capacity: 3300
-    removable: true
+    removable: false
     tech: 'Li-Po'
   network: 
     - '2G GSM'
@@ -30,13 +30,10 @@ specs:
     - 'Color spectrum sensor'
     - 'Light sensor'
     - 'GPS'
-    - 'IR blaster'
-    - 'Infrared sensor'
     - 'Mobility DisplayPort (MyDP)'
     - 'NFC'
     - 'USB OTG'
     - 'FM radio'
-    - 'Dual SIM'
   release: '2017-08'
 roms: 
   - 

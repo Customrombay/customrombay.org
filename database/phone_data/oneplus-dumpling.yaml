@@ -10,7 +10,7 @@ specs:
   is_ab_device: null
   screen: 
     resolution: '1080x2160'
-    size: 61
+    size: 6.01
     technology: 'Optic AMOLED'
   battery: 
     capacity: 3300

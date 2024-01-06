@@ -42,7 +42,6 @@ specs:
     - 'QZSS'
     - 'Gyroscope'
     - 'IR blaster'
-    - 'Infrared sensor'
     - 'Light sensor'
     - 'NFC'
     - 'Ultrasound proximity sensor'

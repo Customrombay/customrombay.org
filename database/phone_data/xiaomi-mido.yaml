@@ -27,7 +27,7 @@ specs:
     - 'Proximity sensor'
     - 'Compass'
     - 'GPS'
-    - 'Infrared sensor'
+    - 'IR blaster'
     - 'FM radio'
   release: '2017-01'
 roms: 

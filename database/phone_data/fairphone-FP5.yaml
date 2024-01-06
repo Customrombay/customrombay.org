@@ -1,0 +1,30 @@
+device-name: 'FP5'
+device-vendor: 'Fairphone'
+device-model-name: 5
+device-description: null
+specs: 
+  soc: 'Qualcomm QCM6490'
+  gpu: 'Qualcomm Adreno 643'
+  ram: '8 GB'
+  storage: '256 GB UFS 2.2'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1224x2700'
+    size: 6.46
+    technology: 'OLED'
+  battery: 
+    capacity: 4200
+    removable: true
+    tech: 'Li-Ion'
+  release: '2023-08'
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/fairphone/fairphone5.html'
+
+linux: []

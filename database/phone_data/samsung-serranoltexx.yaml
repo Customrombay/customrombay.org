@@ -27,7 +27,7 @@ specs:
     - 'Compass'
     - 'SNS integration'
     - 'FM radio'
-    - 'Infrared sensor'
+    - 'IR blaster'
     - 'GPS'
     - 'GLONASS'
     - 'NFC'

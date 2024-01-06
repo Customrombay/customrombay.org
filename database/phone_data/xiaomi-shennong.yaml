@@ -8,7 +8,7 @@ specs:
   ram: '12/16 GB'
   storage: '256/512/1024 GB'
   is_ab_device: true
-  screen:
+  screen: 
     refresh_rate: 120
     resolution: '1440x3200'
     size: 6.73
@@ -20,7 +20,15 @@ specs:
   network: null
   peripherals: null
   release: '2023-10'
-roms: []
+roms: 
+  - 
+    rom-name: 'xiaomi.eu'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: ''
+    rom-notes: 'HyperOS 1.0'
+    rom-webpage: 'https://xiaomi.eu/community/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-WEEKLY-RELEASES/'
 
 recoveries: []
 linux: null

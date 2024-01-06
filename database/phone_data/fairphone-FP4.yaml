@@ -70,7 +70,14 @@ roms:
     rom-webpage: 'https://calyxos.org/'
     phone-webpage: 'https://calyxos.org/install/devices/FP4/'
 
-recoveries: null
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/fairphone/fairphone4.html'
+
 linux: 
   - 
     distribution-name: 'Ubuntu Touch'
