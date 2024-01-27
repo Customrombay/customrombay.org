@@ -1,0 +1,30 @@
+device-name: 'ovaltine'
+device-vendor: 'OnePlus'
+device-model-name: '10T / ACE Pro'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8475 Snapdragon 8+ Gen 1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '8/12/16 GB GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2412'
+    size: 6.7
+    technology: 'Fluid AMOLED'
+  battery: 
+    capacity: 4800
+    removable: false
+    tech: 'Li-Po'
+  release: '2022-08'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://xdaforums.com/t/nov-update-rom-unofficial-lineageos-20-for-oneplus-10t-ace-pro.4634872/'
+
+recoveries: []
+linux: []

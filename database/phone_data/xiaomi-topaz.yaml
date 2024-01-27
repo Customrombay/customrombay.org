@@ -38,5 +38,12 @@ roms:
     rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
     phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/topaz/'
 
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Official'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/topaz'
+
 linux: null

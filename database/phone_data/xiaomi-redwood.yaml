@@ -92,6 +92,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://projectblaze.in/'
     phone-webpage: 'https://projectblaze.in/download'
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/redwood'
 
 recoveries: []
 linux: 

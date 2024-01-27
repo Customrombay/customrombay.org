@@ -34,5 +34,12 @@ roms:
     rom-webpage: 'https://pixelos.net/'
     phone-webpage: 'https://xdaforums.com/t/rom-unofficial-pong-14-beta-pixelos-14-2023-12-22.4642760/'
 
-recoveries: null
+recoveries: 
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Official'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/pong'
+
 linux: null

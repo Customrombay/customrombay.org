@@ -1,0 +1,26 @@
+device-name: 'emerald'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi Note 13 Pro 4G / POCO M6 Pro'
+device-description: null
+specs: 
+  soc: 'Mediatek Helio G99 Ultra'
+  gpu: 'Mali-G57 MC2'
+  ram: '8/12 GB'
+  storage: '256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-01'
+roms: []
+
+recoveries: null
+linux: null
