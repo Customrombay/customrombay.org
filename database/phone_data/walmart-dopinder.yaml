@@ -1,0 +1,26 @@
+device-name: 'dopinder'
+device-vendor: 'Walmart'
+device-model-name: 'onn. TV Box 4K (2021)'
+device-description: null
+specs: 
+  soc: 'Amlogic S905x2'
+  gpu: 'ARM Mali-G31 MP2'
+  ram: '2 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 'None'
+  battery: 'None'
+  network: 'None'
+  peripherals: 'None'
+  release: '2021-06-01'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/dopinder/'
+
+recoveries: []
+linux: []

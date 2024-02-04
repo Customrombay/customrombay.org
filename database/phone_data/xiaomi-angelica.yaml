@@ -1,8 +1,25 @@
 device-name: 'angelica'
 device-vendor: 'Xiaomi'
-device-model-name: 'Redmi 9C / Redmi 9C NFC'
-device-description: null
-specs: null
+device-model-name: 'Redmi 9C (NFC)'
+device-description: "This device comes in two variants: without NFC (codenamed: angelica) and with NFC (codenamed: angelican). Except for that, they seem to be identical. Most custom ROMs should work on both variants."
+specs: 
+  soc: 'Mediatek MT6765G Helio G35'
+  gpu: 'PowerVR GE8320'
+  ram: '2/3/4 GB'
+  storage: '32/64/128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 60
+    resolution: '720x1600'
+    size: 6.53
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-06'
 roms: []
 recoveries: []
 linux: 

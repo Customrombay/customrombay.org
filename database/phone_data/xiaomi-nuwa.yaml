@@ -29,6 +29,14 @@ roms:
     rom-notes: 'HyperOS 1.0'
     rom-webpage: 'https://xiaomi.eu/community/'
     phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-WEEKLY-RELEASES/'
+  - 
+    rom-name: 'Paranoid Android'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://paranoidandroid.co/'
+    phone-webpage: 'https://paranoidandroid.co/xiaomi13/uvite-beta-1/'
 
 recoveries: []
 linux: null

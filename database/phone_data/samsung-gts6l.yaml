@@ -1,0 +1,31 @@
+device-name: 'gts6l'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Tab S6 (LTE)'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8150 Snapdragon 855'
+  gpu: 'Adreno 640'
+  ram: '4/6/8 GB'
+  storage: '64/128/256 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1600x2560'
+    size: 10.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 7040
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2019-07'
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxytabs6qcomlte.html'
+
+linux: null

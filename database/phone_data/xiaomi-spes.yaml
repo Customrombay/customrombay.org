@@ -1,8 +1,25 @@
 device-name: 'spes'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 11'
-device-description: null
-specs: null
+device-description: "This device comes in two variants: without NFC (codenamed: spes) and with NFC (codenamed: spesn). Except for that, they seem to be identical. Most custom ROMs should work on both variants."
+specs: 
+  soc: 'Qualcomm SM6225 Snapdragon 680 4G'
+  gpu: 'Adreno 610'
+  ram: '4/6 GB'
+  storage: '64/128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.43
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-01'
 roms: 
   - 
     rom-name: 'PixelExperience'

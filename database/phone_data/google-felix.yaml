@@ -1,0 +1,33 @@
+device-name: 'felix'
+device-vendor: 'Google'
+device-model-name: 'Pixel Fold'
+device-description: null
+specs: 
+  soc: 'Google Tensor G2'
+  gpu: 'Mali-G710 MP7'
+  ram: '12 GB'
+  storage: '256/512 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1840x2208'
+    size: 7.6
+    technology: 'Foldable OLED'
+  battery: 
+    capacity: 4821
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-05'
+roms: 
+  - 
+    rom-name: 'EvolutionX'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://evolution-x.org/'
+    phone-webpage: 'https://evolution-x.org/device/felix'
+
+recoveries: null
+linux: null
