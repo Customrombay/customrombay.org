@@ -25,10 +25,26 @@ class DevicePage {
   );
 
   Future<HtmlDoc> toHtmlDoc() async {
+    List<HtmlWidget> addToHead = [
+      Meta(
+        property: "og:title",
+        content: "Custom ROMs for ${device.deviceVendor} ${device.deviceModelName} - ${device.deviceName}",
+      ),
+      Meta(
+        property: "og:description",
+        content: "View the list of custom ROMs, recoveries and Linux distributions available for ${device.deviceVendor} ${device.deviceModelName} (${device.deviceName}).",
+      ),
+      Meta(
+        property: "og:image",
+        content: await getDeviceImagePath("${device.deviceVendor.replaceAll(" ", "").toLowerCase()}-${device.deviceName}", "medium"),
+      ),
+    ];
+
     return PageBase(
       path: "/${device.deviceVendor.toLowerCase()}-${device.deviceName}/index.html",
       title: "CustomRomBay.org - ${device.deviceName}",
       description: "${device.deviceVendor} ${device.deviceModelName}",
+      listOfHeadWidgets: addToHead,
       listOfWidgets: [
         Article(
           properties: "prose lg:prose-lg mx-auto mb-8 dark:prose-dark px-4",
