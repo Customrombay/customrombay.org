@@ -38,7 +38,10 @@ class AuthorView extends HtmlWidget {
               ]
             )
           ]
-        )
+        ),
+        Paragraph(
+          text: "Did you like this post? ${Hyperlink(text: "Support its author via PayPal", href: "https://www.paypal.me/PiotrZPL/").toHTML()}!"
+        ),
       ]
     ).toHTML();
   }

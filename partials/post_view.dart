@@ -14,24 +14,37 @@ class PostView extends Div {
         href: path,
         children: [
           Div(
-            properties: "grid place-content-center",
+            properties: "relative",
             children: [
-              Image(
-                src: imagePath,
-                properties: "rounded-lg shadow-sm h-52 object-cover",
-                loading: "lazy",
-                // alt: ""
+              Div(
+                properties: "grid place-content-center",
+                children: [
+                  Image(
+                    src: imagePath,
+                    properties: "rounded-lg shadow-sm h-52 w-full object-cover",
+                    loading: "lazy",
+                    // alt: ""
+                  )
+                ]
+              ),
+              Div(
+                properties: "absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5",
+                children: [
+                  Paragraph(
+                    text: publishDate
+                  )
+                ]
+              ),
+              Div(
+                properties: "my-2 text-xl font-semibold text-center",
+                children: [
+                  Paragraph(
+                    text: title
+                  ),
+                ]
               )
             ]
           ),
-          Div(
-            properties: "my-2 text-xl font-semibold text-center",
-            children: [
-              Paragraph(
-                text: title
-              ),
-            ]
-          )
         ]
       )
     ]
