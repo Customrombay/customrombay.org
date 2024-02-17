@@ -1,0 +1,17 @@
+posts:
+  - post_title: The Ultimate Guide to Choosing Phones for Custom ROMs [Early 2024 Edition]
+    post_path: 2024_phone_buying_guide
+    post_image: /post-images/2024_phone_buying_guide_1.webp
+    post_published: 8.02.2024
+  - post_title: Android 14-based custom ROMs are here!
+    post_path: android14roms
+    post_image: /post-images/android14_1.webp
+    post_published: 2.12.2023
+  - post_title: GSI custom ROMs - what to do if my device does not have custom ROM support?
+    post_path: gsi_roms
+    post_image: /post-images/gsi_roms_1.webp
+    post_published: 12.11.2023
+  - post_title: This device isn't Play Protect certified - easy fix for Android 14 and older
+    post_path: play_protect_certification_fix
+    post_image: /post-images/play_protect_certification_fix_1.webp
+    post_published: 22.10.2023
