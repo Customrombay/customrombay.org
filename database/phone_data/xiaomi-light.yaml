@@ -1,0 +1,26 @@
+device-name: 'light'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi Note 11E / Redmi 10 5G / POCO M4 5G / Redmi 11 Prime 5G'
+device-description: null
+specs: 
+  soc: 'Mediatek Dimensity 700'
+  gpu: 'Mali-G57 MC2'
+  ram: '4/6 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2408'
+    size: 6.58
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-3'
+roms: []
+
+recoveries: null
+linux: null

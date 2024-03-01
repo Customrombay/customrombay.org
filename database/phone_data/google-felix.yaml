@@ -3,23 +3,58 @@ device-vendor: 'Google'
 device-model-name: 'Pixel Fold'
 device-description: null
 specs: 
-  soc: 'Google Tensor G2'
-  gpu: 'Mali-G710 MP7'
+  soc: 'Google Tensor GS201'
+  gpu: 'ARM Mali-G710 MC10'
   ram: '12 GB'
-  storage: '256/512 GB'
+  storage: '128/256/512 GB'
   is_ab_device: true
   screen: 
-    resolution: '1840x2208'
-    size: 7.6
-    technology: 'Foldable OLED'
+    - 
+      Cover: 
+        refresh_rate: 120
+        resolution: '1080x1092'
+        size: 5.8
+        technology: 'AMOLED'
+
+    - 
+      Inner: 
+        refresh_rate: 120
+        resolution: '1840x2208'
+        size: 7.6
+        technology: 'AMOLED'
+
   battery: 
     capacity: 4821
     removable: false
     tech: 'Li-Po'
-  network: null
-  peripherals: null
-  release: '2023-05'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'USB OTG'
+  release: '2023-06'
 roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/felix/'
   - 
     rom-name: 'EvolutionX'
     rom-support: true

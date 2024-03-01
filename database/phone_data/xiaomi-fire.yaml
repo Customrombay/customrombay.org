@@ -2,8 +2,15 @@ device-name: 'fire'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 12'
 device-description: null
+specs: null
 roms: []
-
 recoveries: []
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_12_(xiaomi-fire)'
 
-linux: null

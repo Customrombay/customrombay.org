@@ -4,15 +4,15 @@ device-model-name: 'Pixel 8'
 device-description: null
 specs: 
   soc: 'Google Tensor G3'
-  gpu: 'Immortalis-G715s MC10'
-  ram: '12 GB'
+  gpu: 'ARM Mali-G715s MC10'
+  ram: '8 GB'
   storage: '128/256 GB'
   is_ab_device: true
   screen: 
     refresh_rate: 120
     resolution: '1080x2400'
     size: 6.2
-    technology: 'OLED'
+    technology: 'AMOLED'
   battery: 
     capacity: 4575
     removable: false
@@ -24,20 +24,28 @@ specs:
     - '5G NR'
   peripherals: 
     - 'Accelerometer'
+    - 'BeiDou'
     - 'Compass'
     - 'Fingerprint reader'
     - 'Galileo'
     - 'GLONASS'
     - 'GPS'
     - 'Gyroscope'
-    - 'Ambient light sensor'
+    - 'Light sensor'
     - 'NFC'
     - 'Proximity sensor'
     - 'Qi wireless charging'
     - 'Qi reverse wireless charging'
     - 'USB OTG'
-  release: '2023-10-12'
+  release: '2023-10'
 roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/shiba/'
   - 
     rom-name: 'GrapheneOS'
     rom-support: true

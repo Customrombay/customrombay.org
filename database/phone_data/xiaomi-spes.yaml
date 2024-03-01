@@ -1,7 +1,7 @@
 device-name: 'spes'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi Note 11'
-device-description: "This device comes in two variants: without NFC (codenamed: spes) and with NFC (codenamed: spesn). Except for that, they seem to be identical. Most custom ROMs should work on both variants."
+device-description: 'This device comes in two variants: without NFC (codenamed: spes) and with NFC (codenamed: spesn). Except for that, they seem to be identical. Most custom ROMs should work on both variants.'
 specs: 
   soc: 'Qualcomm SM6225 Snapdragon 680 4G'
   gpu: 'Adreno 610'
@@ -56,7 +56,7 @@ roms:
     rom-name: 'Paranoid Android'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://paranoidandroid.co/'
     phone-webpage: 'https://paranoidandroid.co/spes'
@@ -88,7 +88,7 @@ roms:
     rom-name: 'Project Elixir'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/spes'

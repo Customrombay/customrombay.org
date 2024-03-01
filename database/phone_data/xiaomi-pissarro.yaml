@@ -1,0 +1,26 @@
+device-name: 'pissarro'
+device-vendor: 'Xiaomi'
+device-model-name: '11i 5G / 11i 5G Hypercharge / Redmi Note 11 Pro / Redmi Note 11 Pro+ / Redmi Note 11 Pro+ 5G'
+device-description: null
+specs: 
+  soc: 'Mediatek Dimensity 920'
+  gpu: 'Mali-G68 MC4'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-1'
+roms: []
+
+recoveries: null
+linux: null

@@ -67,7 +67,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#merlinx'
@@ -105,4 +105,11 @@ linux:
     distribution-notes: 'Xenial'
     distribution-webpage: 'https://ubuntu-touch.io/'
     device-webpage: 'https://devices.ubuntu-touch.io/device/merlin'
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_9_(xiaomi-merlin)'
 

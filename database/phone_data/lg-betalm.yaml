@@ -1,0 +1,50 @@
+device-name: 'betalm'
+device-vendor: 'LG'
+device-model-name: 'G8s ThinQ'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8150 Snapdragon 855'
+  gpu: 'Qualcomm Adreno 640'
+  ram: '6 GB'
+  storage: '64GB, 128 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '2248x1440'
+    size: 6.2
+    technology: 'P-OLED'
+  battery: 
+    capacity: 3550
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Color spectrum sensor'
+    - 'Light sensor'
+    - 'GPS'
+    - 'Mobility DisplayPort (MyDP)'
+    - 'NFC'
+    - 'USB OTG'
+    - 'FM radio'
+  release: '2019-06'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/betalm/'
+
+recoveries: []
+linux: null

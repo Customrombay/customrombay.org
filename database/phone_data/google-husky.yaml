@@ -4,15 +4,15 @@ device-model-name: 'Pixel 8 Pro'
 device-description: null
 specs: 
   soc: 'Google Tensor G3'
-  gpu: 'Immortalis-G715s MC10'
+  gpu: 'ARM Mali-G715s MC10'
   ram: '12 GB'
-  storage: '128 GB/256 GB/512 GB/1 TB'
+  storage: '128/256/512/1024 GB'
   is_ab_device: true
   screen: 
     refresh_rate: 120
     resolution: '1344x2992'
     size: 6.7
-    technology: 'LTPO OLED'
+    technology: 'AMOLED'
   battery: 
     capacity: 5050
     removable: false
@@ -31,14 +31,21 @@ specs:
     - 'GLONASS'
     - 'GPS'
     - 'Gyroscope'
-    - 'Ambient light sensor'
+    - 'Light sensor'
     - 'NFC'
     - 'Proximity sensor'
     - 'Qi wireless charging'
     - 'Qi reverse wireless charging'
     - 'USB OTG'
-  release: '2023-10-12'
+  release: '2023-10'
 roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/husky/'
   - 
     rom-name: 'GrapheneOS'
     rom-support: true

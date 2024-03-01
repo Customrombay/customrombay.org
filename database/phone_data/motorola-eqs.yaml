@@ -12,6 +12,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/eqs'
+  - 
+    rom-name: 'DroidX-UI'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/DroidX-UI'
+    phone-webpage: 'https://sourceforge.net/projects/droidxui-releases/files/eqs/'
 
 recoveries: null
 linux: null
