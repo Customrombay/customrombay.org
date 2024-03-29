@@ -1,0 +1,25 @@
+device-name: 'borneo'
+device-vendor: 'Motorola'
+device-model-name: 'moto g power (2021)'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM6115 Snapdragon 662'
+  gpu: 'Qualcomm Adreno 610'
+  ram: '3/4 GB LPDDR4X'
+  storage: '32/64 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '720x1600'
+    size: 6.6
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2021-01'
+roms: []
+recoveries: []
+
+linux: null

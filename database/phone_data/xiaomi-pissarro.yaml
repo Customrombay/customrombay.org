@@ -21,6 +21,12 @@ specs:
   peripherals: null
   release: '2022-1'
 roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomiredminote11pro+5g.html'
 
-recoveries: null
 linux: null

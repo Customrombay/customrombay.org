@@ -47,12 +47,27 @@ roms:
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/rhode/'
   - 
+    rom-name: 'CalyxOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://calyxos.org/'
+    phone-webpage: 'https://calyxos.org/install/'
+  - 
     rom-name: 'Optimized LineageOS'
     rom-support: true
     rom-state: 'Unofficial'
     android-version: '14'
     rom-webpage: 'https://xdaforums.com/t/rom-u-rhode-unofficial-optimized-lineageos-21-december-28th.4628099/'
     phone-webpage: 'https://xdaforums.com/t/rom-u-rhode-unofficial-optimized-lineageos-21-december-28th.4628099/'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/rhode'
   - 
     rom-name: 'crDroid'
     rom-support: true
@@ -68,14 +83,6 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://awakenos.vercel.app/'
     phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
-  - 
-    rom-name: 'RisingOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: '13'
-    rom-notes: ''
-    rom-webpage: 'https://github.com/RisingTechOSS/android'
-    phone-webpage: 'https://sourceforge.net/projects/fpsensor-builds/files/risingOS-v1.4-Elysium-FINAL-202310111126-rhode-GAPPS-OFFICIAL.zip/download'
   - 
     rom-name: 'Project Elixir'
     rom-support: true
@@ -101,33 +108,19 @@ roms:
     rom-webpage: 'https://derpfest.org/'
     phone-webpage: 'https://sourceforge.net/projects/derpfest/files/rhode/'
   - 
-    rom-name: '/e/OS'
-    rom-support: true
-    rom-state: 'Unofficial'
-    android-version: '13'
-    rom-webpage: 'https://e.foundation/e-os/'
-    phone-webpage: 'https://community.e.foundation/t/unofficial-builds-motorola-moto-g52-moto-g42-for-e-os-t/52453'
-  - 
     rom-name: 'ArrowOS'
     rom-support: true
     rom-state: 'Unofficial'
     android-version: '13'
     rom-webpage: 'https://arrowos.net/'
-    phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
-  - 
-    rom-name: 'CherishOS'
-    rom-support: true
-    rom-state: 'Unofficial'
-    android-version: '13'
-    rom-webpage: 'https://cherishos.com/'
-    phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
+    phone-webpage: 'https://github.com/josexda/rhode_releases/releases'
   - 
     rom-name: 'PixelExperience'
     rom-support: true
     rom-state: 'Unofficial'
     android-version: '13'
     rom-webpage: 'https://download.pixelexperience.org/'
-    phone-webpage: 'https://sourceforge.net/projects/josexda/files/'
+    phone-webpage: 'https://github.com/josexda/rhode_releases/releases'
   - 
     rom-name: 'DroidX-UI'
     rom-support: true
@@ -136,13 +129,13 @@ roms:
     rom-webpage: 'https://github.com/DroidX-UI'
     phone-webpage: 'https://sourceforge.net/projects/droidxui-releases/files/rhode/'
   - 
-    rom-name: 'CalyxOS'
+    rom-name: 'RisingOS'
     rom-support: true
     rom-state: 'Official'
     android-version: '13'
     rom-notes: ''
-    rom-webpage: 'https://calyxos.org/'
-    phone-webpage: 'https://calyxos.org/install/devices/rhode/'
+    rom-webpage: 'https://github.com/RisingTechOSS/android'
+    phone-webpage: 'https://sourceforge.net/projects/fpsensor-builds/files/risingOS-v1.4-Elysium-FINAL-202310111126-rhode-GAPPS-OFFICIAL.zip/download'
 
 recoveries: 
   - 

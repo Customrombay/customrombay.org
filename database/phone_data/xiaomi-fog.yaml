@@ -46,4 +46,12 @@ roms:
     phone-webpage: 'https://projectelixiros.com/device/fog'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_10C_(xiaomi-fog)'
+

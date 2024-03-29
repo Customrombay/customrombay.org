@@ -1,0 +1,32 @@
+device-name: 'r8q'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S20 FE'
+device-description: 'This is only for the Snapdragon variants. The initial TWRP tree supports both 4G and 5G models. Should work on the 2022 variant as well.'
+specs: 
+  soc: 'Qualcomm SM8250 Snapdragon 865 5G'
+  gpu: 'Qualcomm Adreno 650'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: null
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.5
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Ion'
+  network: null
+  peripherals: null
+  release: '2020-09'
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxys20fe.html'
+
+linux: []

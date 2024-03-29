@@ -2,7 +2,55 @@ device-name: 'rtwo'
 device-vendor: 'Motorola'
 device-model-name: 'Edge 40 Pro'
 device-description: null
-roms: []
+specs: 
+  soc: 'Qualcomm SM8550 Snapdragon 8 Gen2'
+  gpu: 'Qualcomm Adreno 740'
+  ram: '12 GB LPDDR5X'
+  storage: '256/512 GB UFS 4.0'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 165
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4600
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual speakers'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Pedometer'
+    - 'Proximity sensor'
+    - 'Sensor hub'
+    - 'USB OTG'
+  release: '2023-04'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/rtwo/'
 
 recoveries: null
 linux: null

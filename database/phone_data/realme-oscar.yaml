@@ -1,0 +1,26 @@
+device-name: 'oscar'
+device-vendor: 'Realme'
+device-model-name: '9 Pro'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM6375 Snapdragon 695 5G'
+  gpu: 'Qualcomm Adreno 619'
+  ram: '6/8 GB'
+  storage: '128 GB'
+  is_ab_device: null
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2412'
+    size: 6.6
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-02'
+roms: []
+
+recoveries: null
+linux: null

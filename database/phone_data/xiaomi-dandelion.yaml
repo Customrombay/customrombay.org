@@ -2,7 +2,34 @@ device-name: 'dandelion'
 device-vendor: 'Xiaomi'
 device-model-name: 'Redmi 9A / Redmi 10A / Redmi 10A Sport / Redmi 9AT / Redmi 9i / Redmi 9A Sport'
 device-description: null
-roms: []
+roms: 
+  - 
+    rom-name: 'DotOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://t.me/FairBlossomChannel'
+    phone-webpage: 'https://t.me/fairblossom'
+  - 
+    rom-name: 'ArrowOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://t.me/Blossom_Roms'
+    phone-webpage: 'https://t.me/Blossom_Support'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: 13
+    rom-webpage: 'https://t.me/FairBlossomChannel'
+    phone-webpage: 'https://t.me/fairblossom'
 
-recoveries: []
+recoveries: 
+  - 
+   recovery-name: 'OrangeFox Recovery | R11.1 Stable'
+   recovery-support: true
+   recovery-state: 'Unofficial'
+   recovery-webpage: 'https://t.me/Blossom_Roms'
+
 linux: null

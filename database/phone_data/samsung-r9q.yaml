@@ -1,0 +1,26 @@
+device-name: 'r9q'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S21 FE 5G'
+device-description: 'This is only for the Snapdragon variants.'
+specs: 
+  soc: 'Qualcomm SM8350 Snapdragon 888 5G'
+  gpu: 'Qualcomm Adreno 660'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: null
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2340'
+    size: 6.4
+    technology: 'Dynamic AMOLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Ion'
+  network: null
+  peripherals: null
+  release: '2022-01'
+roms: []
+recoveries: []
+
+linux: []

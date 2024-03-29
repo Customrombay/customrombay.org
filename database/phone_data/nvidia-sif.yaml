@@ -1,0 +1,34 @@
+device-name: 'sif'
+device-vendor: 'NVIDIA'
+device-model-name: 'NVIDIA Shield TV (2019) [Android TV]'
+device-description: null
+specs: 
+  soc: 'NVIDIA Tegra X1+ (T210b01)'
+  gpu: 'NVIDIA GM20B (Maxwell)'
+  ram: '2 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 'None'
+  battery: 'None'
+  network: 'None'
+  peripherals: 'None'
+  release: '2019-10-28'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/sif/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/sif/'
+
+recoveries: null
+linux: null

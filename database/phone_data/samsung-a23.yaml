@@ -1,0 +1,32 @@
+device-name: 'a23'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy A23 4G'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM6225 Snapdragon 680 4G'
+  gpu: 'Qualcomm Adreno 610'
+  ram: '4/6/8 GB'
+  storage: '64/128 GB'
+  is_ab_device: null
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2408'
+    size: 6.6
+    technology: 'PLS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-03'
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxya23.html'
+
+linux: []
