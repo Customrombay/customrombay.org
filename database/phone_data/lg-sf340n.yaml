@@ -1,0 +1,50 @@
+device-name: 'sf340n'
+device-vendor: 'LG'
+device-model-name: 'Stylo 3 Plus'
+device-description: null
+specs: 
+  soc: 'Qualcomm MSM8940 Snapdragon 435'
+  gpu: 'Qualcomm Adreno 505'
+  ram: '2GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x1920'
+    size: 4
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3080
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'FM radio'
+    - 'NFC'
+    - 'GPS'
+  release: '2017-05-17'
+roms: 
+  - 
+    rom-name: 'IncipientOS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '7.1.2'
+    rom-webpage: 'https://github.com/IncipientOS'
+    phone-webpage: 'https://xdaforums.com/t/rom-sf340n-7-1-2-incipientos-for-lg-stylo-3-plus.3821512/'
+
+recoveries:
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/lg/lgstylo3plus.html'
+
+linux: null

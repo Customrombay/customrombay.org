@@ -1,0 +1,31 @@
+device-name: 'cebu'
+device-vendor: 'Motorola'
+device-model-name: 'moto g9 Power'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM6115 Snapdragon 662'
+  gpu: 'Qualcomm Adreno 610'
+  ram: '4 GB'
+  storage: '64/128 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '720x1640'
+    size: 6.8
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 6000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-11'
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/motorola/motorolamotog9power.html'
+
+linux: null

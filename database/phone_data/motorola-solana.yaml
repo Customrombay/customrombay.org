@@ -1,0 +1,49 @@
+device-name: 'solana'
+device-vendor: 'Motorola'
+device-model-name: 'DROID 3'
+device-description: null
+specs: 
+  soc: 'TI OMAP 4430'
+  gpu: 'PowerVR SGX540'
+  ram: '512MB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 1540
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G CDMA'
+    - '2G GSM'
+    - '3G CDMA2000'
+    - '3G UMTS'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'HDMI'
+    - 'FM radio'
+  release: '2011-07-14'
+roms: 
+  - 
+    rom-name: 'Liquid Smooth'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '4.4.2'
+    rom-webpage: 'https://web.archive.org/web/20150314200730/http://liquidsmooth.net/'
+    phone-webpage: 'https://xdaforums.com/t/liquid-smooth-3-4-4-beta-for-solana-found.2674609/'
+  - 
+    rom-name: 'CyanogenMod'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '4.2.2'
+    rom-webpage: 'http://web.archive.org/web/20161224231525/http://www.cyanogenmod.org/'
+    phone-webpage: 'https://xdaforums.com/t/cyanogenmod-10-1-4-2-2-reuploaded-and-patched.4665139'
+
+recoveries: null
+linux: null

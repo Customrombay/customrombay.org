@@ -1,0 +1,26 @@
+device-name: 'guam'
+device-vendor: 'Motorola'
+device-model-name: 'moto e7 plus'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM4250 Snapdragon 460'
+  gpu: 'Qualcomm Adreno 610'
+  ram: '4 GB'
+  storage: '64 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '720x1600'
+    size: 6.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-09'
+roms: []
+
+recoveries: []
+
+linux: null

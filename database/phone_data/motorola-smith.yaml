@@ -1,0 +1,26 @@
+device-name: 'smith'
+device-vendor: 'Motorola'
+device-model-name: 'Razr 5G'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM7250 Snapdragon 765G 5G'
+  gpu: 'Qualcomm Adreno 620'
+  ram: '8 GB'
+  storage: '256 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '876x2142'
+    size: 6.2
+    technology: 'Foldable P-OLED'
+  battery: 
+    capacity: 2800
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-09'
+roms: []
+
+recoveries: []
+
+linux: null

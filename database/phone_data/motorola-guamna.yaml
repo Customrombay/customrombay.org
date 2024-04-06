@@ -1,0 +1,26 @@
+device-name: 'guamna'
+device-vendor: 'Motorola'
+device-model-name: 'moto g play (2021)'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM4250 Snapdragon 460'
+  gpu: 'Qualcomm Adreno 610'
+  ram: '3 GB'
+  storage: '32 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '720x1600'
+    size: 6.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2021-01'
+roms: []
+
+recoveries: []
+
+linux: null

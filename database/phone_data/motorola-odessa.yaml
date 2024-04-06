@@ -1,0 +1,31 @@
+device-name: 'odessa'
+device-vendor: 'Motorola'
+device-model-name: 'moto g9 plus'
+device-description: null
+specs: 
+  soc: 'Qualcomm SDM730 Snapdragon 730G'
+  gpu: 'Qualcomm Adreno 618'
+  ram: '4/6 GB'
+  storage: '64/128 GB'
+  screen: 
+    resolution: '1080x2400'
+    size: 6.81
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-09'
+roms: []
+recoveries: []
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Motorola_Moto_G9_Plus_(motorola-odessa)'
+

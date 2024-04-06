@@ -44,8 +44,22 @@ roms:
     android-version: '7.1'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/zerofltexx/'
+  - 
+    rom-name: 'LineageOS (Unofficial)'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://xdaforums.com/t/rom-unofficial-13-0-lineageos-20.4586295/'
 
-recoveries: null
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxys6.html'
+
 linux: 
   - 
     distribution-name: 'PostmarketOS'

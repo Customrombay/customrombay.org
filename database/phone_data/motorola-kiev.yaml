@@ -72,6 +72,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/kiev/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://xdaforums.com/t/rom-unofficial-13-crdroid-9-for-motorola-one-5g-ace.4663572/'
 
 recoveries: null
 linux: null

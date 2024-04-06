@@ -1,0 +1,25 @@
+device-name: 'foles'
+device-vendor: 'Motorola'
+device-model-name: 'moto z4'
+device-description: null
+specs: 
+  soc: 'Qualcomm SDM675 Snapdragon 675'
+  gpu: 'Qualcomm Adreno 612'
+  ram: '4 GB'
+  storage: '128 GB'
+  screen: 
+    resolution: '1080x2340'
+    size: 6.4
+    technology: 'OLED'
+  battery: 
+    capacity: 3600
+    removable: false
+    tech: 'Li-Ion'
+  network: null
+  peripherals: null
+  release: '2019-05'
+roms: []
+
+recoveries: []
+
+linux: null

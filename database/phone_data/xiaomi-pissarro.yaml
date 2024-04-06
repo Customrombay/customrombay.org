@@ -28,5 +28,11 @@ recoveries:
     recovery-state: 'Current'
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/xiaomiredminote11pro+5g.html'
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Official'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/pissarro'
 
 linux: null

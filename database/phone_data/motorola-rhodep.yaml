@@ -2,8 +2,15 @@ device-name: 'rhodep'
 device-vendor: 'Motorola'
 device-model-name: 'moto g82'
 device-description: null
+specs: null
 roms: []
-
 recoveries: []
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Motorola_Moto_G82_5G'
 
-linux: null

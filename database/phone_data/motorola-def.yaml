@@ -1,0 +1,31 @@
+device-name: 'def'
+device-vendor: 'Motorola'
+device-model-name: 'one hyper'
+device-description: null
+specs: 
+  soc: 'Qualcomm SDM675 Snapdragon 675'
+  gpu: 'Qualcomm Adreno 612'
+  ram: '4 GB'
+  storage: '128 GB'
+  screen: 
+    resolution: '1080x2340'
+    size: 6.5
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2019-12'
+roms: []
+recoveries: []
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Motorola_Moto_One_Hyper_(motorola-def)'
+

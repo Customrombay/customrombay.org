@@ -4,7 +4,14 @@ device-model-name: 'Redmi 12'
 device-description: null
 specs: null
 roms: []
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/xiaomiredmi12.html'
+
 linux: 
   - 
     distribution-name: 'PostmarketOS'

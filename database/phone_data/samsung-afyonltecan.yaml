@@ -1,0 +1,40 @@
+device-name: 'afyonltecan'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Core LTE'
+device-description: null
+specs: 
+  soc: 'Qualcomm MSM8226 Snapdragon 400'
+  gpu: 'Qualcomm Adreno 305'
+  ram: '1.5 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '540x960'
+    size: 4.5
+    technology: 'TFT LCD'
+  battery: 
+    capacity: 2100
+    removable: true
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'NFC'
+  release: '2014-11'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://xdaforums.com/t/rom-unofficial-alpha-13-sm-g386w-sm-g386t-2024-03-14-lineageos-20-0-for-galaxy-core-lte.4661924/'
+  
+recoveries: null
+linux: null
