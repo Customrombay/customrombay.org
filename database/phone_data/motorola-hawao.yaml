@@ -93,6 +93,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://calyxos.org/'
     phone-webpage: 'https://calyxos.org/install/devices/hawao/'
+  - 
+    rom-name: 'Project Matrixx'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://www.projectmatrixx.org/'
+    phone-webpage: 'https://www.projectmatrixx.org/downloads/hawao'
 
 recoveries: null
 linux: null

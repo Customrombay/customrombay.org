@@ -39,7 +39,7 @@ roms:
     rom-webpage: 'https://github.com/IncipientOS'
     phone-webpage: 'https://xdaforums.com/t/rom-sf340n-7-1-2-incipientos-for-lg-stylo-3-plus.3821512/'
 
-recoveries:
+recoveries: 
   - 
     recovery-name: 'TWRP'
     recovery-support: true
@@ -47,4 +47,12 @@ recoveries:
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/lg/lgstylo3plus.html'
 
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/LG_Stylo_3_Plus_(lg-sf340n)'
+

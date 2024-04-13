@@ -8,7 +8,7 @@ specs:
   ram: '8/12 GB'
   storage: '128/256/512 GB'
   is_ab_device: true
-  screen:
+  screen: 
     refresh_rate: 144
     resolution: '1080x2400'
     size: 6.6
@@ -20,6 +20,12 @@ specs:
   release: '2023-01'
 roms: []
 recoveries: []
-
-linux: []
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Lenovo_ThinkPhone_by_Motorola_(motorola-bronco)'
 

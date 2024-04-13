@@ -72,8 +72,8 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Discontinued'
-    android-version: '13'
+    rom-state: 'Official'
+    android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#instantnoodlep'
   - 
@@ -147,6 +147,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://blissroms.org/'
     phone-webpage: 'https://downloads.blissroms.org/download/instantnoodlep/'
+  - 
+    rom-name: 'Project Matrixx'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://www.projectmatrixx.org/'
+    phone-webpage: 'https://www.projectmatrixx.org/downloads/instantnoodlep'
 
 recoveries: null
 linux: 

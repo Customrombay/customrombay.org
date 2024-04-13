@@ -35,6 +35,14 @@ roms:
     android-version: '13'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://xdaforums.com/t/rom-unofficial-alpha-13-sm-g386w-sm-g386t-2024-03-14-lineageos-20-0-for-galaxy-core-lte.4661924/'
-  
+
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Avant/Galaxy_Core_LTE_(samsung-afyonltecan)'
+

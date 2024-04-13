@@ -136,6 +136,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://github.com/RisingTechOSS/android'
     phone-webpage: 'https://sourceforge.net/projects/fpsensor-builds/files/risingOS-v1.4-Elysium-FINAL-202310111126-rhode-GAPPS-OFFICIAL.zip/download'
+  - 
+    rom-name: 'Project Matrixx'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://www.projectmatrixx.org/'
+    phone-webpage: 'https://www.projectmatrixx.org/downloads/rhode'
 
 recoveries: 
   - 

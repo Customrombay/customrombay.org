@@ -1,0 +1,27 @@
+device-name: 'sheng'
+device-vendor: 'Xiaomi'
+device-model-name: 'Pad 6S Pro 12.4'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8550-AB Snapdragon 8 Gen 2'
+  gpu: 'Qualcomm Adreno 740'
+  ram: '8/12/16 GB'
+  storage: '256/512/1024 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '2032x3048'
+    size: 12.4
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 10000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-02'
+roms: []
+
+recoveries: []
+
+linux: null

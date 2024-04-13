@@ -1,0 +1,27 @@
+device-name: 'peridot'
+device-vendor: 'Xiaomi'
+device-model-name: 'Poco F6 / Redmi Turbo 3'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8635 Snapdragon 8s Gen 3'
+  gpu: 'Adreno 735'
+  ram: '12/16 GB'
+  storage: '256/512/1024 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1220x2712'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-04'
+roms: []
+
+recoveries: []
+
+linux: null

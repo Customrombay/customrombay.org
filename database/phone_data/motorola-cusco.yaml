@@ -1,0 +1,25 @@
+device-name: 'cusco'
+device-vendor: 'Motorola'
+device-model-name: 'Edge 50 Fusion'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM6450 Snapdragon 6 Gen 1'
+  gpu: 'Qualcomm Adreno 710'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2400'
+    size: 6.7
+    technology: 'P-OLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-04'
+roms: []
+
+recoveries: null
+linux: null

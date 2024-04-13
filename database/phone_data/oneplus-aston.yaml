@@ -1,0 +1,34 @@
+device-name: 'aston'
+device-vendor: 'OnePlus'
+device-model-name: '12R'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8550 Snapdragon 8 Gen2'
+  gpu: 'Qualcomm Adreno 740'
+  ram: '8/12/16 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1264x2780'
+    size: 6.78
+    technology: 'LTPO4 AMOLED'
+  battery: 
+    capacity: 5500
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-01'
+roms: 
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://xdaforums.com/t/12r-rom-14-unofficial-pixelos-aosp-beta-05-04-24.4662225/'
+
+recoveries: []
+linux: []

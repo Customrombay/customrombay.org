@@ -68,6 +68,14 @@ roms:
     android-version: '14'
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#vili'
+  - 
+    rom-name: 'Project Matrixx'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://www.projectmatrixx.org/'
+    phone-webpage: 'https://www.projectmatrixx.org/downloads/vili'
 
 recoveries: []
 linux: null

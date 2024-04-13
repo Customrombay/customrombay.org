@@ -1,0 +1,26 @@
+device-name: 'chenfeng'
+device-vendor: 'Xiaomi'
+device-model-name: 'Civi 4 Pro'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8635 Snapdragon 8s Gen 3'
+  gpu: 'Qualcomm Adreno 735'
+  ram: '12/16 GB'
+  storage: '256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1236x2750'
+    size: 6.55
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4700
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-03'
+roms: []
+
+recoveries: []
+linux: null

@@ -155,6 +155,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/cheetah'
+  - 
+    rom-name: 'Project Matrixx'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://www.projectmatrixx.org/'
+    phone-webpage: 'https://www.projectmatrixx.org/downloads/cheetah'
 
 recoveries: null
 linux: null
