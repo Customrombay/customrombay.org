@@ -25,15 +25,9 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#begonia'
-  - 
-    rom-name: 'CorvusOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: null
-    rom-webpage: 'https://www.corvusrom.com/'
-    phone-webpage: 'https://www.pling.com/p/1590115/'
   - 
     rom-name: 'PixysOS'
     rom-support: true

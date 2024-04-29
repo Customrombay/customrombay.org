@@ -1,0 +1,25 @@
+device-name: 'bullhead'
+device-vendor: 'Xiaomi'
+device-model-name: 'Black Shark Helo'
+device-description: null
+specs: 
+  soc: 'Qualcomm SDM845 Snapdragon 845'
+  gpu: 'Qualcomm Adreno 630'
+  ram: '6/8/10 GB'
+  storage: '128/256 GB'
+  screen: 
+    refresh_rate: 60
+    resolution: '1080x2160'
+    size: 6.01
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4000
+    removable: false
+    tech: 'Li-Ion'
+  network: null
+  peripherals: null
+  release: '2018-11'
+roms: []
+
+recoveries: []
+linux: null

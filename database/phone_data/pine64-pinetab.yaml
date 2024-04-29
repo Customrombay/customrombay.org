@@ -20,4 +20,11 @@ linux:
     distribution-notes: null
     distribution-webpage: 'https://postmarketos.org/'
     device-webpage: 'https://wiki.postmarketos.org/wiki/PINE64_PineTab_(pine64-pinetab)'
+  - 
+    distribution-name: 'Mobile NixOS'
+    distribution-support: true
+    distribution-state: 'Unsupported'
+    distribution-notes: null
+    distribution-webpage: 'https://mobile.nixos.org/index.html'
+    device-webpage: 'https://mobile.nixos.org/devices/pine64-pinetab.html'
 

@@ -2,6 +2,23 @@ device-name: 'katyusha'
 device-vendor: 'Xiaomi'
 device-model-name: 'Black Shark 5'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8250-AC Snapdragon 870 5G'
+  gpu: 'Qualcomm Adreno 650'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  screen: 
+    refresh_rate: 144
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4650
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-03'
 roms: []
 
 recoveries: []

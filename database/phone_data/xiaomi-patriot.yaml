@@ -2,6 +2,23 @@ device-name: 'patriot'
 device-vendor: 'Xiaomi'
 device-model-name: 'Black Shark 5 Pro'
 device-description: null
+specs: 
+  soc: 'Qualcomm SM8450 Snapdragon 8 Gen 1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '8/12/16 GB'
+  storage: '128/256/512 GB'
+  screen: 
+    refresh_rate: 144
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'OLED'
+  battery: 
+    capacity: 4650
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2022-03'
 roms: []
 
 recoveries: []

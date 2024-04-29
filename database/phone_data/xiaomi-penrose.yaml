@@ -1,0 +1,25 @@
+device-name: 'mobius'
+device-vendor: 'Xiaomi'
+device-model-name: 'Black Shark 4 / Black Shark 4S'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8250-AC Snapdragon 870 5G'
+  gpu: 'Qualcomm Adreno 650'
+  ram: '6/8/12 GB'
+  storage: '128/256 GB'
+  screen: 
+    refresh_rate: 144
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2021-03'
+roms: []
+
+recoveries: []
+linux: null

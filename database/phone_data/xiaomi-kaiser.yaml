@@ -1,0 +1,25 @@
+device-name: 'kaiser'
+device-vendor: 'Xiaomi'
+device-model-name: 'Black Shark 4 Pro / Black Shark 4S Pro / Black Shark 5 RS'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8350 Snapdragon 888 5G'
+  gpu: 'Qualcomm Adreno 660'
+  ram: '8/12/16 GB'
+  storage: '128/256/512 GB'
+  screen: 
+    refresh_rate: 144
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'Super AMOLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2021-03'
+roms: []
+
+recoveries: []
+linux: null

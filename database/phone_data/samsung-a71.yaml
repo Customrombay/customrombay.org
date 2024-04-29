@@ -9,6 +9,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#a71'
 

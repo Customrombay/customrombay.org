@@ -33,15 +33,9 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '12'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#phoenix'
-  - 
-    rom-name: 'CorvusOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: null
-    rom-webpage: 'https://www.corvusrom.com/'
-    phone-webpage: 'https://downloads.corvusrom.com/?dir=phoenix'
   - 
     rom-name: 'HavocOS'
     rom-support: true

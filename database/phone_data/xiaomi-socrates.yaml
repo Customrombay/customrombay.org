@@ -11,7 +11,7 @@ roms:
     android-version: ''
     rom-notes: 'HyperOS 1.0'
     rom-webpage: 'https://xiaomi.eu/community/'
-    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-WEEKLY-RELEASES/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS1.0/'
 
 recoveries: []
 linux: null

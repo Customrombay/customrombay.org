@@ -82,9 +82,9 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: ''
-    rom-notes: 'MIUI 14'
+    rom-notes: 'HyperOS 1.0'
     rom-webpage: 'https://xiaomi.eu/community/'
-    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS1.0/'
   - 
     rom-name: 'PixelExperience'
     rom-support: true
@@ -114,6 +114,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#lisa'
   - 
@@ -164,6 +165,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/lisa'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/lisa'
 
 recoveries: null
 linux: null

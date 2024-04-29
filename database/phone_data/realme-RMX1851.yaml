@@ -56,13 +56,6 @@ roms:
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/RMX1851/'
   - 
-    rom-name: 'CorvusOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: null
-    rom-webpage: 'https://www.corvusrom.com/'
-    phone-webpage: 'https://www.pling.com/p/1401875'
-  - 
     rom-name: 'CherishOS'
     rom-support: true
     rom-state: 'Official'

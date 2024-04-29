@@ -75,13 +75,15 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#fajita'
   - 
     rom-name: '/e/OS'
     rom-support: true
-    rom-state: 'Official'
-    android-version: '12'
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/fajita'
   - 
@@ -136,7 +138,7 @@ roms:
     rom-name: 'LibreMobileOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/fajita/'
@@ -172,4 +174,11 @@ linux:
     distribution-notes: null
     distribution-webpage: 'https://postmarketos.org/'
     device-webpage: 'https://wiki.postmarketos.org/wiki/OnePlus_6T_(oneplus-fajita)'
+  - 
+    distribution-name: 'Mobile NixOS'
+    distribution-support: true
+    distribution-state: 'Best-effort'
+    distribution-notes: null
+    distribution-webpage: 'https://mobile.nixos.org/index.html'
+    device-webpage: 'https://mobile.nixos.org/devices/oneplus-fajita.html'
 

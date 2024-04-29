@@ -42,6 +42,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#spes'
   - 
@@ -73,9 +74,9 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: ''
-    rom-notes: 'MIUI 14'
+    rom-notes: 'HyperOS 1.0'
     rom-webpage: 'https://xiaomi.eu/community/'
-    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS1.0/'
   - 
     rom-name: 'AlphaDroid'
     rom-support: true

@@ -49,6 +49,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/nx619j/'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/nx619j'
 
 recoveries: []
 linux: null

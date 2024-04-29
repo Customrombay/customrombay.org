@@ -11,7 +11,8 @@ specs:
   screen: 'None'
   battery: 'None'
   network: 'None'
-  peripherals: 'None'
+  peripherals: 
+    - 'HDMI'
   release: '2020-09-22'
 roms: 
   - 

@@ -2,6 +2,7 @@ device-name: 'pinephonepro'
 device-vendor: 'PINE64'
 device-model-name: 'PinePhone Pro'
 device-description: null
+specs: null
 roms: []
 recoveries: null
 linux: 
@@ -19,4 +20,11 @@ linux:
     distribution-notes: null
     distribution-webpage: 'https://postmarketos.org/'
     device-webpage: 'https://wiki.postmarketos.org/wiki/PINE64_PinePhone_Pro_(pine64-pinephonepro)'
+  - 
+    distribution-name: 'Mobile NixOS'
+    distribution-support: true
+    distribution-state: 'Supported'
+    distribution-notes: null
+    distribution-webpage: 'https://mobile.nixos.org/index.html'
+    device-webpage: 'https://mobile.nixos.org/devices/pine64-pinephonepro.html'
 

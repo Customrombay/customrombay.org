@@ -50,20 +50,22 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '10'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#pioneer'
   - 
     rom-name: '/e/OS'
     rom-support: true
-    rom-state: 'Official'
-    android-version: '12'
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/pioneer'
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/pioneer/'

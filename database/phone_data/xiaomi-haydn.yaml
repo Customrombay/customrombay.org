@@ -71,25 +71,19 @@ roms:
     rom-webpage: 'https://download.pixelexperience.org/'
     phone-webpage: 'https://download.pixelexperience.org/haydn/'
   - 
-    rom-name: 'CorvusOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: null
-    rom-webpage: 'https://www.corvusrom.com/'
-    phone-webpage: 'https://downloads.corvusrom.com/?dir=haydn'
-  - 
     rom-name: 'xiaomi.eu'
     rom-support: true
     rom-state: 'Official'
     android-version: ''
-    rom-notes: 'MIUI 14'
+    rom-notes: 'HyperOS 1.0'
     rom-webpage: 'https://xiaomi.eu/community/'
-    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/'
+    phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS1.0/'
   - 
     rom-name: 'crDroid'
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#haydn'
   - 
@@ -140,6 +134,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://sourceforge.net/projects/superioros/'
     phone-webpage: 'https://sourceforge.net/projects/superioros/'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/haydn'
 
 recoveries: 
   - 

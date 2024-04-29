@@ -54,13 +54,6 @@ roms:
     rom-webpage: 'https://grapheneos.org/'
     phone-webpage: 'https://grapheneos.org/faq#supported-devices'
   - 
-    rom-name: 'CorvusOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: null
-    rom-webpage: 'https://www.corvusrom.com/'
-    phone-webpage: 'https://downloads.corvusrom.com/?dir=panther'
-  - 
     rom-name: 'EvolutionX'
     rom-support: true
     rom-state: 'Official'
@@ -89,6 +82,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#panther'
   - 
@@ -119,7 +113,7 @@ roms:
     rom-name: 'LibreMobileOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/panther/'
@@ -179,6 +173,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://www.projectmatrixx.org/'
     phone-webpage: 'https://www.projectmatrixx.org/downloads/panther'
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://doc.e.foundation/devices/panther'
 
 recoveries: null
 linux: null

@@ -5,13 +5,6 @@ device-description: null
 specs: null
 roms: 
   - 
-    rom-name: 'CorvusOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: null
-    rom-webpage: 'https://www.corvusrom.com/'
-    phone-webpage: 'https://downloads.corvusrom.com/?dir=cph1859'
-  - 
     rom-name: 'CherishOS'
     rom-support: true
     rom-state: 'Official'

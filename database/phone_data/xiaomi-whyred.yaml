@@ -66,22 +66,17 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#whyred'
   - 
     rom-name: '/e/OS'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Community'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/whyred'
-  - 
-    rom-name: 'CorvusOS'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: null
-    rom-webpage: 'https://www.corvusrom.com/'
-    phone-webpage: 'https://downloads.corvusrom.com/?dir=whyred'
   - 
     rom-name: 'HavocOS'
     rom-support: true
@@ -162,6 +157,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://www.projectmatrixx.org/'
     phone-webpage: 'https://www.projectmatrixx.org/downloads/whyred'
+  - 
+    rom-name: 'Project Elixir'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://projectelixiros.com/home'
+    phone-webpage: 'https://projectelixiros.com/device/whyred'
 
 recoveries: 
   - 

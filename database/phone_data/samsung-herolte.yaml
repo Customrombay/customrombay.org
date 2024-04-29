@@ -62,13 +62,15 @@ roms:
     rom-support: true
     rom-state: 'Discontinued'
     android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#herolte'
   - 
     rom-name: '/e/OS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '10'
+    android-version: '11'
+    rom-notes: ''
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/herolte'
 

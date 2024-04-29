@@ -2,7 +2,14 @@ device-name: 'chopin'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO X3 GT'
 device-description: null
+specs: null
 roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/xiaomi/redminote10pro5g.html'
 
-recoveries: []
 linux: null

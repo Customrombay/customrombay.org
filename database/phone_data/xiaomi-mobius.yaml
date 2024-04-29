@@ -1,0 +1,25 @@
+device-name: 'mobius'
+device-vendor: 'Xiaomi'
+device-model-name: 'Black Shark 3 Pro'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8250 Snapdragon 865 5G'
+  gpu: 'Qualcomm Adreno 650'
+  ram: '8/12 GB'
+  storage: '256/512 GB'
+  screen: 
+    refresh_rate: 90
+    resolution: '1440x3120'
+    size: 7.1
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-03'
+roms: []
+
+recoveries: []
+linux: null

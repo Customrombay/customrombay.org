@@ -1,0 +1,25 @@
+device-name: 'klein'
+device-vendor: 'Xiaomi'
+device-model-name: 'Black Shark 3 / Black Shark 3S'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8250 Snapdragon 865'
+  gpu: 'Qualcomm Adreno 650'
+  ram: '8/12 GB'
+  storage: '128/256 GB'
+  screen: 
+    refresh_rate: 90
+    resolution: '1080x2400'
+    size: 6.67
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4720
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2020-03'
+roms: []
+
+recoveries: []
+linux: null

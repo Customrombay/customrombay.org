@@ -11,7 +11,11 @@ specs:
   screen: 'None'
   battery: 'None'
   network: 'None'
-  peripherals: 'None'
+  peripherals: 
+    - 'IR blaster'
+    - 'HDMI'
+    - 'RJ45 Ethernet port'
+    - 'USB OTG'
   release: '2020-12-01'
 roms: 
   - 

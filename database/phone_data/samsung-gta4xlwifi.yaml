@@ -35,13 +35,15 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '14'
+    rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#gta4xlwifi'
   - 
     rom-name: '/e/OS'
     rom-support: true
-    rom-state: 'Official'
-    android-version: '12'
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/gta4xlwifi'
   - 
