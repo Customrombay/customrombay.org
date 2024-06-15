@@ -30,7 +30,6 @@ specs:
     - 'IR blaster'
     - 'FM radio'
     - 'GPS'
-    - 'Fingerprint reader'
   release: '2016-01'
 roms: 
   - 

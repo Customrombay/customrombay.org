@@ -23,7 +23,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '13'
     rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
@@ -47,7 +47,7 @@ recoveries:
   - 
     recovery-name: 'OrangeFox'
     recovery-support: true
-    recovery-state: 'Official'
+    recovery-state: 'Discontinued'
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/oxygen'
 

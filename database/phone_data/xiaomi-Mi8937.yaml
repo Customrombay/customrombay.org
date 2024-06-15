@@ -5,8 +5,8 @@ device-description: null
 specs: 
   soc: 'Qualcomm MSM8937 Snapdragon 430'
   gpu: 'Qualcomm Adreno 505'
-  ram: '2 GB'
-  storage: '32 GB'
+  ram: '2 / 3 GB'
+  storage: '16 / 32 GB'
   is_ab_device: null
   screen: 
     resolution: '720x1280'
@@ -37,7 +37,7 @@ specs:
     - 'USB OTG'
     - 'IR blaster'
     - 'Fingerprint reader'
-  release: '2016-06-15'
+  release: '2016-06-14'
 roms: 
   - 
     rom-name: 'LineageOS'

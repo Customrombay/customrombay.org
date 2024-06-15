@@ -9,13 +9,13 @@ specs:
   storage: '8/16/32 GB'
   is_ab_device: null
   screen: 
-    resolution: '800x1280'
-    size: 10.1
+    resolution: '600x1024'
+    size: 7
     technology: 'PLS LCD'
   battery: 
-    capacity: 7000
+    capacity: 4000
     removable: false
-    tech: 'Li-Po'
+    tech: 'Li-Ion'
   network: 
     - '2G GSM'
   peripherals: 

@@ -109,6 +109,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://www.projectmatrixx.org/'
     phone-webpage: 'https://www.projectmatrixx.org/downloads/marble'
+  - 
+    rom-name: 'AwakenOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://awakenos.vercel.app/'
+    phone-webpage: 'https://awakenos.vercel.app/downloads/marble'
 
 recoveries: null
 linux: 

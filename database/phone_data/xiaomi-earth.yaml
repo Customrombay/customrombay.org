@@ -2,8 +2,51 @@ device-name: 'earth'
 device-vendor: 'Xiaomi'
 device-model-name: 'POCO C55 / Redmi 12C'
 device-description: null
-roms: []
+specs: 
+  soc: 'Mediatek MT6768 Helio G85'
+  gpu: 'ARM Mali-G52 MC2'
+  ram: '3/4/6 GB'
+  storage: '32/64/128 GB'
+  is_ab_device: true
+  screen: 
+    resolution: '720x1650'
+    size: 6.71
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'GPS'
+    - 'Galileo'
+    - 'GLONASS'
+  release: '2023-01'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/earth/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/earth/'
 
 recoveries: []
-
 linux: null

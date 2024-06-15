@@ -1,0 +1,26 @@
+device-name: 'ruan'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi Pad Pro 5G'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM7435-AB Snapdragon 7s Gen 2'
+  gpu: 'Qualcomm Adreno 710'
+  ram: '6/8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1600x2560'
+    size: 12.1
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 10000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-05'
+roms: []
+
+recoveries: null
+linux: null

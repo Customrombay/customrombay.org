@@ -3,7 +3,7 @@ device-vendor: 'Lenovo'
 device-model-name: 'Vibe K5 / K5 Plus'
 device-description: null
 specs: 
-  soc: 'Qualcomm MSM8939v2 Snapdragon 616'
+  soc: 'Qualcomm MSM8929 Snapdragon 415'
   gpu: 'Qualcomm Adreno 405'
   ram: '2/3 GB'
   storage: '16 GB'

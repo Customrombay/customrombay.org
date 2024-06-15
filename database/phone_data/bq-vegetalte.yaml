@@ -3,7 +3,7 @@ device-vendor: 'BQ'
 device-model-name: 'Aquaris E5 4G / Aquaris E5s'
 device-description: null
 specs: 
-  soc: 'Qualcomm MSM8916T Snapdragon 412'
+  soc: 'Qualcomm MSM8916 Snapdragon 410'
   gpu: 'Qualcomm Adreno 306'
   ram: '1/2 GB'
   storage: '8/16 GB'
@@ -30,7 +30,7 @@ specs:
     - 'GPS'
     - 'FM radio'
     - 'USB OTG'
-  release: 2015
+  release: 2014
 roms: 
   - 
     rom-name: 'LineageOS'

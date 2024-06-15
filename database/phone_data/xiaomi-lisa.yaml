@@ -44,13 +44,13 @@ specs:
     - 'NFC'
     - 'Ultrasound proximity sensor'
     - 'USB OTG'
-  release: '2021-12'
+  release: '2021-09'
 roms: 
   - 
     rom-name: 'LineageOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-webpage: 'https://lineageos.org/'
     phone-webpage: 'https://wiki.lineageos.org/devices/lisa/'
   - 
@@ -112,7 +112,7 @@ roms:
   - 
     rom-name: 'crDroid'
     rom-support: true
-    rom-state: 'Official'
+    rom-state: 'Discontinued'
     android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
@@ -145,7 +145,7 @@ roms:
     rom-name: 'LibreMobileOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/lisa/'

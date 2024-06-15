@@ -125,6 +125,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://www.projectmatrixx.org/'
     phone-webpage: 'https://www.projectmatrixx.org/downloads/lemonadep'
+  - 
+    rom-name: 'AlphaDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
+    phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/lemonadep/'
 
 recoveries: 
   - 

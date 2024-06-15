@@ -5,8 +5,8 @@ device-description: null
 specs: 
   soc: 'NVIDIA Tegra X2 (T186)'
   gpu: 'NVIDIA GP10B (Pascal)'
-  ram: '4 GB'
-  storage: 'Sdcard'
+  ram: '8 GB'
+  storage: '16 GB'
   is_ab_device: true
   screen: 'None'
   battery: 'None'

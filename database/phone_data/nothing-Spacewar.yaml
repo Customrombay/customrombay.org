@@ -73,7 +73,7 @@ roms:
     rom-name: 'PixysOS'
     rom-support: true
     rom-state: 'Official'
-    android-version: '13'
+    android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://pixysos.com/'
     phone-webpage: 'https://pixysos.com/Spacewar'
@@ -165,6 +165,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://www.projectmatrixx.org/'
     phone-webpage: 'https://www.projectmatrixx.org/downloads/Spacewar'
+  - 
+    rom-name: 'AlphaDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
+    phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/Spacewar/'
 
 recoveries: null
 linux: null

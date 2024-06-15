@@ -40,7 +40,6 @@ specs:
     - 'Light sensor'
     - 'NFC'
     - 'Proximity sensor'
-    - 'Qi wireless charging'
     - 'USB OTG'
   release: '2021-04'
 roms: 

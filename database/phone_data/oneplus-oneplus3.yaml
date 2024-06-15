@@ -3,17 +3,17 @@ device-vendor: 'OnePlus'
 device-model-name: '3 / 3T'
 device-description: null
 specs: 
-  soc: 'Qualcomm MSM8996 Pro Snapdragon 821'
+  soc: 'Qualcomm MSM8996 Snapdragon 820'
   gpu: 'Qualcomm Adreno 530'
   ram: '6 GB LPDDR4'
-  storage: '64/128 GB UFS 2.0'
+  storage: '64 GB UFS 2.0'
   is_ab_device: null
   screen: 
     resolution: '1080x1920'
     size: 5.5
     technology: 'Optic AMOLED'
   battery: 
-    capacity: 3400
+    capacity: 3000
     removable: false
     tech: 'Li-Ion'
   network: 
@@ -29,7 +29,7 @@ specs:
     - 'Proximity sensor'
     - 'Compass'
     - 'NFC'
-  release: '2016-10'
+  release: '2016-06'
 roms: 
   - 
     rom-name: 'LineageOS'

@@ -1,0 +1,26 @@
+device-name: 'breeze'
+device-vendor: 'Xiaomi'
+device-model-name: 'Redmi Note 13R / Redmi 13 5G / POCO M6 Plus 5G'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM4450 Snapdragon 4+ Gen 2'
+  gpu: 'Qualcomm Adreno 613'
+  ram: '6/8/12 GB'
+  storage: '128/256/512 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2460'
+    size: 6.79
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 5030
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2024-05'
+roms: []
+
+recoveries: null
+linux: null

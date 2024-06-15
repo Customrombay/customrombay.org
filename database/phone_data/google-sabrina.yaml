@@ -1,0 +1,26 @@
+device-name: 'sabrina'
+device-vendor: 'Google'
+device-model-name: 'Chromecast with Google TV (4K)'
+device-description: null
+specs: 
+  soc: 'Amlogic S905D3G'
+  gpu: 'ARM Mali-G31 MP2'
+  ram: '2 GB'
+  storage: '8 GB'
+  is_ab_device: null
+  screen: 'None'
+  battery: 'None'
+  network: 'None'
+  peripherals: 'None'
+  release: '2020-09-01'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/sabrina/'
+
+recoveries: []
+linux: null

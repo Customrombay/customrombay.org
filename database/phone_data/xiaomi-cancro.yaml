@@ -3,9 +3,9 @@ device-vendor: 'Xiaomi'
 device-model-name: 'Mi 3 / Mi 4'
 device-description: null
 specs: 
-  soc: 'Qualcomm MSM8974AC Snapdragon 801'
+  soc: 'Qualcomm MSM8974 Snapdragon 800'
   gpu: 'Qualcomm Adreno 330'
-  ram: '3 GB'
+  ram: '2 GB'
   storage: '16/64 GB'
   is_ab_device: null
   screen: 
@@ -13,7 +13,7 @@ specs:
     size: 5
     technology: 'IPS LCD'
   battery: 
-    capacity: 3080
+    capacity: 3050
     removable: false
     tech: 'Li-Ion'
   network: 
@@ -27,7 +27,7 @@ specs:
     - 'Compass'
     - 'Barometer'
     - 'GPS'
-  release: '2014-08'
+  release: '2013-10'
 roms: 
   - 
     rom-name: 'LineageOS'

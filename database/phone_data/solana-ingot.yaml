@@ -1,0 +1,56 @@
+device-name: 'ingot'
+device-vendor: 'Solana'
+device-model-name: 'Saga'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8475 Snapdragon 8+ Gen1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '12 GB LPDDR5'
+  storage: '512 GB UFS3.1'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.55
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4110
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Hall effect sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'USB OTG'
+  release: '2023-05'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/ingot/'
+
+recoveries: null
+linux: null

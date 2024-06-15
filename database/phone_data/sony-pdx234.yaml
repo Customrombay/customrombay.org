@@ -1,0 +1,56 @@
+device-name: 'pdx234'
+device-vendor: 'Sony'
+device-model-name: 'Xperia 1 V'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8550 Snapdragon 8 Gen2'
+  gpu: 'Qualcomm Adreno 740'
+  ram: '12 GB'
+  storage: '256/512 GB UFS3.1'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '3840x1644'
+    size: 6.5
+    technology: 'OLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual speakers'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'USB OTG'
+  release: '2023-05'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/pdx234/'
+
+recoveries: null
+linux: null

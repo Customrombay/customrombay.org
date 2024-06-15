@@ -5,8 +5,8 @@ device-description: null
 specs: 
   soc: 'Qualcomm SM8150 Snapdragon 855'
   gpu: 'Qualcomm Adreno 640'
-  ram: '8 GB'
-  storage: '256 GB'
+  ram: '6 GB'
+  storage: '128 GB'
   is_ab_device: true
   screen: 
     resolution: '2340x1440'
@@ -21,7 +21,6 @@ specs:
     - '3G UMTS'
     - '3G CDMA2000'
     - '4G LTE'
-    - '5G NR'
   peripherals: 
     - 'Fingerprint reader'
     - 'Accelerometer'

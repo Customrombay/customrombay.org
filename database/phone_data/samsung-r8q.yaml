@@ -3,24 +3,51 @@ device-vendor: 'Samsung'
 device-model-name: 'Galaxy S20 FE'
 device-description: 'This is only for the Snapdragon variants. The initial TWRP tree supports both 4G and 5G models. Should work on the 2022 variant as well.'
 specs: 
-  soc: 'Qualcomm SM8250 Snapdragon 865 5G'
+  soc: 'Qualcomm SM8250 Snapdragon 865'
   gpu: 'Qualcomm Adreno 650'
   ram: '6/8 GB'
   storage: '128/256 GB'
   is_ab_device: null
   screen: 
-    refresh_rate: 120
-    resolution: '1080x2400'
+    resolution: '2400x1080'
     size: 6.5
     technology: 'Super AMOLED'
   battery: 
     capacity: 4500
     removable: false
     tech: 'Li-Ion'
-  network: null
-  peripherals: null
-  release: '2020-09'
-roms: []
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+  release: '2021-04-23'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/r8q/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/r8q/'
+
 recoveries: 
   - 
     recovery-name: 'TWRP'

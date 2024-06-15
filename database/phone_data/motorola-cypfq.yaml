@@ -2,8 +2,16 @@ device-name: 'cypfq'
 device-vendor: 'Motorola'
 device-model-name: 'moto g51 5G'
 device-description: null
-roms: []
+specs: null
+roms: 
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#cypfq'
 
 recoveries: []
-
 linux: null

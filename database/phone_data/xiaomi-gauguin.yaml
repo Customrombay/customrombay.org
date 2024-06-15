@@ -5,8 +5,8 @@ device-description: null
 specs: 
   soc: 'Qualcomm SM7225 Snapdragon 750G 5G'
   gpu: 'Qualcomm Adreno 619'
-  ram: '6/8 GB'
-  storage: '128 GB'
+  ram: '6 GB'
+  storage: '64/128 GB'
   is_ab_device: null
   screen: 
     resolution: '2400x1080'
@@ -40,9 +40,10 @@ specs:
     - 'Gyroscope'
     - 'Hall effect sensor'
     - 'Light sensor'
+    - 'NFC'
     - 'Proximity sensor'
     - 'USB OTG'
-  release: '2021-01'
+  release: '2020-10'
 roms: 
   - 
     rom-name: 'LineageOS'

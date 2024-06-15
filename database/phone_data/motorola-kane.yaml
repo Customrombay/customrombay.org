@@ -5,7 +5,7 @@ device-description: null
 specs: 
   soc: 'Samsung Exynos 9609'
   gpu: 'ARM Mali-G72 MP3'
-  ram: '4/6 GB'
+  ram: '4 GB'
   storage: '128 GB'
   is_ab_device: true
   screen: 
