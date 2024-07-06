@@ -175,4 +175,12 @@ roms:
     phone-webpage: 'https://doc.e.foundation/devices/lisa'
 
 recoveries: null
-linux: null
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Xiaomi_11_Lite_5G_NE_/_11_LE_(xiaomi-lisa)'
+

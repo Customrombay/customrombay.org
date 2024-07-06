@@ -1,0 +1,31 @@
+device-name: 'bangkk'
+device-vendor: 'Motorola'
+device-model-name: 'moto g84'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM6375 Snapdragon 695 5G'
+  gpu: 'Qualcomm Adreno 619'
+  ram: '8/12 GB'
+  storage: '256 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1080x2400'
+    size: 6.5
+    technology: 'P-OLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Po'
+  network: null
+  peripherals: null
+  release: '2023-08'
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/motorola/motorolamotog84.html'
+
+linux: []

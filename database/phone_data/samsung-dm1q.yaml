@@ -21,6 +21,12 @@ specs:
   peripherals: null
   release: '2023-02'
 roms: []
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxydm1q.html'
 
 linux: null

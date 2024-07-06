@@ -29,6 +29,21 @@ roms:
     rom-notes: 'HyperOS 1.0'
     rom-webpage: 'https://xiaomi.eu/community/'
     phone-webpage: 'https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS1.0/'
+ - 
+    rom-name: 'Project Matrixx' 
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://www.projectmatrixx.org/'
+    phone-webpage: 'https://www.projectmatrixx.org/downloads/topaz'
+  - 
+    rom-name: 'Rising OS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RisingTechOSS'
+    phone-webpage: 'https://sourceforge.net/projects/risingos-official/files/3.x/'
 
 recoveries: 
   - 
@@ -37,5 +52,11 @@ recoveries:
     recovery-state: 'Current'
     recovery-webpage: 'https://twrp.me/'
     device-webpage: 'https://twrp.me/xiaomi/redminote12_4g.html'
+  - 
+    recovery-name: 'OrangeFox Recovery'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://orangefox.download/'
+    device-webpage: 'https://orangefox.download/device/topaz'
 
 linux: null

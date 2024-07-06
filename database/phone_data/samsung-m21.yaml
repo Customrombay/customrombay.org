@@ -13,5 +13,12 @@ roms:
     rom-webpage: 'https://projectelixiros.com/home'
     phone-webpage: 'https://projectelixiros.com/device/m21'
 
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxym21.html'
+
 linux: []

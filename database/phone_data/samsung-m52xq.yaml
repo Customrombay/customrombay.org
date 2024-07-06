@@ -9,6 +9,7 @@ specs:
   storage: '128 GB'
   is_ab_device: null
   screen: 
+    refresh_rate: 120
     resolution: '1080x2400'
     size: 6.7
     technology: 'Super AMOLED'

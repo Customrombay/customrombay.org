@@ -1,0 +1,32 @@
+device-name: 'b0q'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy S22 Ultra'
+device-description: null
+specs: 
+  soc: 'Qualcomm SM8450 Snapdragon 8 Gen 1'
+  gpu: 'Qualcomm Adreno 730'
+  ram: '8/12 GB'
+  storage: '128/256/512/1024 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1440x3088'
+    size: 6.8
+    technology: 'AMOLED'
+  battery: 
+    capacity: 5000
+    removable: false
+    tech: 'Li-Ion'
+  network: null
+  peripherals: null
+  release: '2022-02'
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxyb0q.html'
+
+linux: null

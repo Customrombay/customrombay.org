@@ -20,5 +20,11 @@ recoveries:
     recovery-state: 'Official'
     recovery-webpage: 'https://orangefox.download/'
     device-webpage: 'https://orangefox.download/device/m31'
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxym31.html'
 
 linux: []

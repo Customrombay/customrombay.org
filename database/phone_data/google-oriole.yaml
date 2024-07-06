@@ -10,7 +10,7 @@ specs:
   is_ab_device: true
   screen: 
     refresh_rate: 90
-    resolution: '180x2400'
+    resolution: '1080x2400'
     size: 6.4
     technology: 'AMOLED'
   battery: 

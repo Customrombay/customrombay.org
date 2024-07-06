@@ -1,0 +1,50 @@
+device-name: 'akita'
+device-vendor: 'Google'
+device-model-name: 'Pixel 8a'
+device-description: null
+specs: 
+  soc: 'Google Tensor G3'
+  gpu: 'ARM Mali-G715s MC10'
+  ram: '8 GB'
+  storage: '128/256 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 120
+    resolution: '1080x2400'
+    size: 6.1
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4492
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'BeiDou'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'USB OTG'
+  release: '2024-05'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/akita/'
+
+recoveries: null
+linux: null

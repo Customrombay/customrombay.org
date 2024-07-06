@@ -38,14 +38,6 @@ roms:
     rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
     phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/topaz/'
   - 
-    rom-name: 'crDroid'
-    rom-support: true
-    rom-state: 'Official'
-    android-version: '14'
-    rom-notes: ''
-    rom-webpage: 'https://crdroid.net/'
-    phone-webpage: 'https://crdroid.net/downloads#topaz'
-  - 
     rom-name: 'Project Matrixx'
     rom-support: true
     rom-state: 'Official'
@@ -53,6 +45,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://www.projectmatrixx.org/'
     phone-webpage: 'https://www.projectmatrixx.org/downloads/topaz'
+  - 
+    rom-name: 'Rising OS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RisingTechOSS'
+    phone-webpage: 'https://sourceforge.net/projects/risingos-official/files/3.x/'
 
 recoveries: 
   - 

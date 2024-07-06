@@ -1,8 +1,27 @@
 device-name: 'hanoip'
 device-vendor: 'Motorola'
-device-model-name: 'moto g40 Fusion'
+device-model-name: 'Moto G60/G40 Fusion'
 device-description: null
-specs: null
+specs: 
+  soc: 'Qualcomm SM7150 Snapdragon 732G 4G'
+  gpu: 'Qualcomm Adreno 618'
+  ram: '4/6 GB LPDDR4X'
+  storage: '64/128 GB UFS 2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '1080x2460'
+    size: 6.8
+    technology: 'IPS-LCD'
+  battery: 
+    capacity: 6000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  release: '2021-04'
 roms: 
   - 
     rom-name: 'crDroid'
@@ -12,6 +31,41 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#hanoip'
+  - 
+    rom-name: 'Project Sakura'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://projectsakura.me/'
+    phone-webpage: 'https://sourceforge.net/projects/projectsakura/files/hanoip/ProjectSakura-9.0-20240426-GAPPS-hanoip-OFFICIAL.zip/'
+  -
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://www.pling.com/p/2130171/'
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://xdaforums.com/t/rom-14-0-aosp-g60-40-lineageos-21.4668721/'
+  - 
+    rom-name: 'AwakenOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-webpage: 'https://awakenos.vercel.app/'
+    phone-webpage: 'https://www.pling.com/p/2148669/'
+   - 
+    rom-name: 'RisingUI'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-webpage: 'https://github.com/RisingTechOSS'
+    phone-webpage: 'https://www.pling.com/p/2135439/'
 
 recoveries: 
   - 

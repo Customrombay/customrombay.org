@@ -21,6 +21,12 @@ specs:
   peripherals: null
   release: '2022-01'
 roms: []
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxyS21FEqcom.html'
 
 linux: []

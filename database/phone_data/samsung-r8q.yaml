@@ -9,6 +9,7 @@ specs:
   storage: '128/256 GB'
   is_ab_device: null
   screen: 
+    refresh_rate: 120
     resolution: '2400x1080'
     size: 6.5
     technology: 'Super AMOLED'
@@ -47,6 +48,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://libremobileos.com/'
     phone-webpage: 'https://get.libremobileos.com/devices/r8q/'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/downloads#r8q'
 
 recoveries: 
   - 

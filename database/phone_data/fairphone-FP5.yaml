@@ -9,6 +9,7 @@ specs:
   storage: '256 GB UFS 2.2'
   is_ab_device: true
   screen: 
+    refresh_rate: 90
     resolution: '1224x2700'
     size: 6.46
     technology: 'OLED'

@@ -1,0 +1,38 @@
+device-name: 'nx'
+device-vendor: 'Nintendo'
+device-model-name: 'Switch (Android TV)'
+device-description: null
+specs: 
+  soc: 'NVIDIA Tegra X1 (T210)'
+  gpu: 'NVIDIA GM20B (Maxwell)'
+  ram: '4 GB'
+  storage: '32 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '1280x720'
+    size: 6.2
+    technology: 'LCD'
+  battery: 
+    capacity: 4310
+    removable: false
+    tech: 'Li-Ion'
+  network: 'None'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Sensor hub'
+    - 'Light sensor'
+    - 'Dock'
+    - 'Joycons'
+  release: '2017-03-03'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/nx/'
+
+recoveries: null
+linux: null
