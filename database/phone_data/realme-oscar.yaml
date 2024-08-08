@@ -3,11 +3,11 @@ device-vendor: 'Realme'
 device-model-name: '9 Pro'
 device-description: null
 specs: 
-  soc: 'Qualcomm SM6375 Snapdragon 695 5G'
+  soc: 'Qualcomm SM6375 Snapdragon 695'
   gpu: 'Qualcomm Adreno 619'
-  ram: '6/8 GB'
-  storage: '128 GB'
-  is_ab_device: null
+  ram: '6/8 GB LPDDR4X'
+  storage: '128 GB UFS2.2'
+  is_ab_device: true
   screen: 
     refresh_rate: 120
     resolution: '1080x2412'
@@ -17,10 +17,44 @@ specs:
     capacity: 5000
     removable: false
     tech: 'Li-Po'
-  network: null
-  peripherals: null
-  release: '2022-02'
-roms: []
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Compass'
+    - 'Dual SIM'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Hall effect sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2022-02-23'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/oscar/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/oscar/'
 
 recoveries: null
 linux: null

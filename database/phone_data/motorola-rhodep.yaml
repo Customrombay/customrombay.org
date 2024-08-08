@@ -13,7 +13,14 @@ roms:
     rom-webpage: 'https://www.projectmatrixx.org/'
     phone-webpage: 'https://www.projectmatrixx.org/downloads/rhodep'
 
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/motorola/motorolamotog82.html'
+
 linux: 
   - 
     distribution-name: 'PostmarketOS'

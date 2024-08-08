@@ -4,7 +4,14 @@ device-model-name: 'Galaxy A53 5G'
 device-description: null
 specs: null
 roms: []
-recoveries: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxya53.html'
+
 linux: 
   - 
     distribution-name: 'PostmarketOS'

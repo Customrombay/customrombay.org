@@ -1,0 +1,32 @@
+device-name: 'tb3710i'
+device-vendor: 'Lenovo'
+device-model-name: 'Tab3 7 Essential'
+device-description: null
+specs: null
+roms: 
+  - 
+    rom-name: 'CyanogenMod'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '5'
+    rom-notes: 'Unofficial'
+    rom-webpage: null
+    phone-webpage: 'https://xdaforums.com/t/custom-rom-cyanogenmod-12-1-lenovo-tab-3-7-essential-tb3-710f.4310207/'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Unofficial'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://androidfilehost.com/?fid=24591000424951943'
+
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Lenovo_Tab3_7_Essential_(lenovo-tb3710i)'
+

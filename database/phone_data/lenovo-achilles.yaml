@@ -1,0 +1,23 @@
+device-name: 'achilles'
+device-vendor: 'Lenovo'
+device-model-name: 'Tab2 A10-30'
+device-description: null
+specs: null
+roms: []
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Unofficial'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://xdaforums.com/t/share-recovery-tb2-x30l-tab-a10-30-f-l-twrp-3-1-1-unofficial.4520911/'
+
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Lenovo_Tab2_A10-30L_(lenovo-achilles)'
+

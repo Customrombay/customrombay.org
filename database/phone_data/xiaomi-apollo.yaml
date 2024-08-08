@@ -19,7 +19,6 @@ specs:
     tech: 'Li-Po'
   network: 
     - '2G GSM'
-    - '2G CDMA'
     - '3G UMTS'
     - '4G LTE'
     - '5G NR'

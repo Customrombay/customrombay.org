@@ -38,7 +38,7 @@ roms:
     android-version: '14'
     rom-webpage: 'https://projectsakura.me/'
     phone-webpage: 'https://sourceforge.net/projects/projectsakura/files/hanoip/ProjectSakura-9.0-20240426-GAPPS-hanoip-OFFICIAL.zip/'
-  -
+  - 
     rom-name: 'PixelOS'
     rom-support: true
     rom-state: 'Unofficial'
@@ -59,7 +59,7 @@ roms:
     android-version: '14'
     rom-webpage: 'https://awakenos.vercel.app/'
     phone-webpage: 'https://www.pling.com/p/2148669/'
-   - 
+  - 
     rom-name: 'RisingUI'
     rom-support: true
     rom-state: 'Unofficial'

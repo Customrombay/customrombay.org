@@ -139,6 +139,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#bluejay'
+  - 
+    rom-name: 'AlphaDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://sourceforge.net/projects/alphadroid-project/'
+    phone-webpage: 'https://sourceforge.net/projects/alphadroid-project/files/bluejay/'
 
 recoveries: null
 linux: 

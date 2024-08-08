@@ -1,0 +1,68 @@
+device-name: 'd1x'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Note10 5G'
+device-description: null
+specs: 
+  soc: 'Samsung Exynos 9825'
+  gpu: 'ARM Mali-G76 MP12'
+  ram: '12 GB'
+  storage: '256 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '2280x1080'
+    size: 6.3
+    technology: 'Dynamic AMOLED'
+  battery: 
+    capacity: 3500
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Fingerprint reader'
+    - 'GPS'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Qi wireless charging'
+    - 'Qi reverse wireless charging'
+  release: '2019-08-23'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/d1x/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/d1x/'
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://pixelos.net/download/d1x'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Current'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://twrp.me/samsung/samsunggalaxynote105G.html'
+
+linux: null

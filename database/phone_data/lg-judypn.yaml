@@ -1,0 +1,56 @@
+device-name: 'judypn'
+device-vendor: 'LG'
+device-model-name: 'V40 ThinQ'
+device-description: null
+specs: 
+  soc: 'Qualcomm SDM845 Snapdragon 845'
+  gpu: 'Qualcomm Adreno 630'
+  ram: '6 GB LPDDR4X'
+  storage: '64/128 GB UFS2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '3120x1440'
+    size: 6.4
+    technology: 'P-OLED'
+  battery: 
+    capacity: 3300
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'GPS'
+    - 'Mobility DisplayPort (MyDP)'
+    - 'NFC'
+    - 'USB OTG'
+    - 'FM radio'
+    - 'Dual SIM'
+  release: '2018-10-03'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/judypn/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/judypn/'
+
+recoveries: null
+linux: null

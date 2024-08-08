@@ -1,0 +1,32 @@
+device-name: 'totoro'
+device-vendor: 'Samsung'
+device-model-name: 'Galaxy Y'
+device-description: null
+specs: null
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Discontinued'
+    android-version: '4'
+    rom-notes: 'Unofficial'
+    rom-webpage: 'https://lineageos.org'
+    phone-webpage: 'https://xdaforums.com/t/rom-4-0-4-unofficial-lineageos-9-0-20181029-mtd-twrp.3484394/'
+
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Unofficial'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://androidfilehost.com/?fid=11410932744536991382'
+
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Non-booting'
+    distribution-notes: null
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Y_(samsung-totoro)'
+

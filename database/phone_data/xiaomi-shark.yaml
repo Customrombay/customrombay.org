@@ -5,21 +5,42 @@ device-description: null
 specs: 
   soc: 'Qualcomm SDM845 Snapdragon 845'
   gpu: 'Qualcomm Adreno 630'
-  ram: '6/8 GB'
-  storage: '64/128 GB'
+  ram: '6/8 GB LPDDR4X'
+  storage: '64/128 GB UFS2.1'
+  is_ab_device: true
   screen: 
-    refresh_rate: 60
-    resolution: '1080x2160'
+    resolution: '2160x1080'
     size: 5.99
     technology: 'IPS LCD'
   battery: 
     capacity: 4000
     removable: false
-    tech: 'Li-Ion'
-  network: null
-  peripherals: null
-  release: '2018-04'
-roms: []
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '3G CDMA2000'
+    - '4G LTE'
+  peripherals: 
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Light sensor'
+    - 'Compass'
+    - 'Proximity sensor'
+    - 'RGB ambient light'
+    - 'GPS'
+  release: 2018
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/shark/'
 
 recoveries: []
 linux: null

@@ -6,7 +6,7 @@ specs:
   soc: 'Qualcomm SM4250 Snapdragon 460'
   gpu: 'Qualcomm Adreno 610'
   ram: '4 GB'
-  storage: '64 GB'
+  storage: '64 GB eMMC 5.1'
   is_ab_device: true
   screen: 
     resolution: '720x1600'
@@ -16,11 +16,39 @@ specs:
     capacity: 5000
     removable: false
     tech: 'Li-Po'
-  network: null
-  peripherals: null
-  release: '2020-09'
-roms: []
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Dual SIM'
+    - 'Fingerprint reader'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'Light sensor'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  release: '2020-09-16'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/guam/'
+  - 
+    rom-name: 'LibreMobileOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://libremobileos.com/'
+    phone-webpage: 'https://get.libremobileos.com/devices/guam/'
 
 recoveries: []
-
 linux: null

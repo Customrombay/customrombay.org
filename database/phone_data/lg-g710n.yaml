@@ -1,0 +1,49 @@
+device-name: 'g710n'
+device-vendor: 'LG'
+device-model-name: 'G7 ThinQ (G710N)'
+device-description: null
+specs: 
+  soc: 'Qualcomm SDM845 Snapdragon 845'
+  gpu: 'Qualcomm Adreno 630'
+  ram: '4 GB LPDDR4X'
+  storage: '64 GB UFS2.1'
+  is_ab_device: true
+  screen: 
+    resolution: '3120x1440'
+    size: 6.1
+    technology: 'IPS LCD'
+  battery: 
+    capacity: 3000
+    removable: false
+    tech: 'Li-Po'
+  network: 
+    - '2G GSM'
+    - '2G CDMA'
+    - '3G UMTS'
+    - '4G LTE'
+  peripherals: 
+    - 'Fingerprint reader'
+    - 'Accelerometer'
+    - 'Gyroscope'
+    - 'Proximity sensor'
+    - 'Compass'
+    - 'Barometer'
+    - 'Light sensor'
+    - 'GPS'
+    - 'Mobility DisplayPort (MyDP)'
+    - 'NFC'
+    - 'USB OTG'
+    - 'FM radio'
+    - 'Dual SIM'
+  release: '2018-05-02'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://wiki.lineageos.org/devices/g710n/'
+
+recoveries: null
+linux: null
