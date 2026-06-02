@@ -1,0 +1,57 @@
+device-name: 'lt01wifi'
+device-vendor: 'Samsung'
+device-model-name: 'Tab 3 8.0 WiFi'
+device-description: null
+specs: 
+  soc: 'Exynos 4212 Dual'
+  gpu: 'Mali-400MP4'
+  ram: '1.5 GB'
+  storage: '16 GB'
+  is_ab_device: null
+  screen: 
+    resolution: '800x1280'
+    size: 8.0
+    technology: 'TFT'
+  battery: 
+    capacity: 4450
+    removable: false
+    tech: 'Li-Ion'
+  network: 
+    - 'WiFi'
+  peripherals: 
+    - 'Accelerometer'
+    - 'Compass'
+    - 'GPS'
+    - 'GLONASS'
+  release: '2013-06'
+roms: 
+  - 
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '7'
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://sourceforge.net/projects/eosbuildsronnz98/files/SamsungSmartphones/e-0.21-n-20240106-UNOFFICIAL-lt01wifi.zip/download'
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Unoffiicial'
+    android-version: '7'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://androidfilehost.com/?w=files&flid=281550'
+recoveries: 
+  - 
+    recovery-name: 'TWRP'
+    recovery-support: true
+    recovery-state: 'Unofficial'
+    recovery-webpage: 'https://twrp.me/'
+    device-webpage: 'https://androidfilehost.com/?w=files&flid=12875'
+
+linux: 
+  - 
+    distribution-name: 'PostmarketOS'
+    distribution-support: true
+    distribution-state: 'Testing'
+    distribution-notes: 'Boots, but on some devices can cause the display driver to crash'
+    distribution-webpage: 'https://postmarketos.org/'
+    device-webpage: 'https://wiki.postmarketos.org/wiki/Samsung_Galaxy_Tab_3_8.0_(samsung-lt01)'
